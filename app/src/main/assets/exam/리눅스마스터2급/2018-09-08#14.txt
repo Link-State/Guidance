@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-09-08
+과목 : 1
+문제번호 : 14
+문제지문 : 다음 중 조건에 맞는 명령어 형식으로 알맞은 것은?
+사진 : <!PICTURE@image5>
+1번 : mail -s "[OK] server check"webmaster@example.com <report.txt
+2번 : mail -s "[OK] server check"webmaster@example.com >report.txt
+3번 : mail -s "[OK] server check"webmaster@example.com <<report.txt
+4번 : mail -s "[OK] server check"webmaster@example.com >>report.txt
+정답 : 1
+해설 : 

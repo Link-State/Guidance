@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-12-12
+과목 : 2
+문제번호 : 77
+문제지문 : 다음에서 설명하는 클라우드 서비스로 가장 알맞은 것은?
+사진 : <!PICTURE@image29>
+1번 : SaaS(Storage as a Service)
+2번 : PaaS(Platform as a Service)
+3번 : FaaS(Function as a Service)
+4번 : IaaS(Infrastructure as a Service)
+정답 : 4
+해설 : SaaS : 기업에게서 전적으로 서비스를 받아 소프트웨어 설치,유지 보수를 하지 않아도 되고PaaS : 네트워킹, 가상 서버, 스토리지, OS, 미들웨어 등을 제공함FaaS : 보기와 같은 설명과, 사용한 시간 만큼 비용 발생하며 서버리스 컴퓨팅임 예로들어 아마존의 AWS Lambda가 있음laaS : 아웃소싱 인프라, 호스팅 서비스, 데이터베이스 서비스, 네트워킹 및 스토리지 서비스 등을 포함한 기본적인 인프라만 제공함<#nbsp;>[해설작성자 : 브라더진]<#nbsp;><#nbsp;>

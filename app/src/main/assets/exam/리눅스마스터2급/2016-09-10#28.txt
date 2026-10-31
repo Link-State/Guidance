@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-09-10
+과목 : 1
+문제번호 : 28
+문제지문 : 다음 중 root 사용자가 ihd 사용자의 cron 작업을 변경하려고 할 때 명령으로 알맞은 것은?
+사진 : 
+1번 : crontab -e ihd
+2번 : crontab -u ihd
+3번 : crontab -e -u ihd
+4번 : crontab -u -e ihd
+정답 : 4
+해설 : crontab: 시스템의 주기적인 cron 작업의 설정, 수정 등을 하는 명령어crontab {-l, -r, -e} [-u 사용자id]<#nbsp;>[해설작성자 : 황상연]<#nbsp;><#nbsp;>cron작업을 변경할땐 '이유'가 있어서 변경하겠죠?이유 => eu  => -e -u<#nbsp;>[해설작성자 : 공릉죽돌이 이우상]<#nbsp;><#nbsp;>

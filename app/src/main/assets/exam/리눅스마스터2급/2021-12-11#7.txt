@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-12-11
+과목 : 1
+문제번호 : 7
+문제지문 : 다음 중 sendmail 패키지를 제거하는 명령으로 알맞은 것은?
+사진 : 
+1번 : rpm -i sendmail
+2번 : rpm -r sendmail
+3번 : rpm -e sendmail
+4번 : rpm -d sendmail
+정답 : 4
+해설 : rpm -i sendmail : sendmail 패키지를 설치rpm -r sendmail : Xrpm -e sendmail : sendmail 패키지를 제거rpm -d sendmail : X<#nbsp;>[해설작성자 : 공부중입니다]<#nbsp;><#nbsp;>

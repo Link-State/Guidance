@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-09-09
+과목 : 1
+문제번호 : 21
+문제지문 : 다음 (괄호) 안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image15>
+1번 : init
+2번 : inetd
+3번 : xinetd
+4번 : standalone
+정답 : 8
+해설 : 데몬은 inetd와 standalone. 그중 standalone이 메모리에 상주.<#nbsp;>[해설작성자 : 5일벼락치기]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-09-09
+과목 : 1
+문제번호 : 16
+문제지문 : 다음 (괄호) 안에 들어갈 파일명으로 알맞은 것은?
+사진 : <!PICTURE@image12>
+1번 : bash_profile
+2번 : bash_history
+3번 : .bash_profile
+4번 : .bash_history
+정답 : 8
+해설 : 일반적으로 홈 디렉토리에 있는 쉘 히스토리 파일은 숨겨진 파일이므로 파일 이름 앞에 .(점)이 붙어 있습니다..따라서 홈 디렉토리 안에 있는 쉘 히스토리 파일의 이름은 .bash_history, .zsh_history, .fish_history 등과 같이 숨겨진 파일 이름을 가집니다.<#nbsp;>[해설작성자 : sharon]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-09-10
+과목 : 1
+문제번호 : 12
+문제지문 : 다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image6>
+1번 : chsh
+2번 : usermod
+3번 : groupmod
+4번 : shell
+정답 : 1
+해설 : NAMEchsh - 사용자 로그인 쉘을 바꾼다.SYNOPSISchsh [ -s shell ] [ -l ] [ -u ] [ -v ] [ username ]DESCRIPTIONchsh 명령은 사용자가 사용하고 있는 로그인 쉘을 바꾸는데, 사용된다.  (이 말은 exit 명령을 사용했을 때 로그아웃되는 쉘을 말한다.)  명령행에서  쉘을 지정하지 않으면, 사용자에게 물어본다.<#nbsp;>[해설작성자 : soldesk]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-28
+과목 : 1
+문제번호 : 13
+문제지문 : 재부팅했을 때 호출되는 런레벨값을 확인하려고 한다. 다음 중 관련 정보를 담고 있는 파일로 알맞은 것은?
+사진 : 
+1번 : /boot/grub/grub.conf
+2번 : /etc/runlevels
+3번 : /etc/inittab
+4번 : /boot/runlevels
+정답 : 4
+해설 : SysV init 기준 기본 런레벨 확인 파일.<#nbsp;>① grub.conf: 부트로더 설정.<#nbsp;>② /etc/runlevels: 일반적 표준 파일 아님.<#nbsp;>③ 맞음.<#nbsp;>④ /boot/runlevels: 일반적 파일 아님.

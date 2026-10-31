@@ -1,0 +1,14 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2017-12-02
+과목 : 1
+문제번호 : 48
+문제지문 : 다음 중 커서(ncurses) 라이브러리 기반의 오디오 프로그램으로 알맞은 것은?
+사진 : 
+1번 : alsactl
+2번 : alsamixer
+3번 : cdparanoia
+4번 : OSS/free
+정답 : 2
+해설 : alsactl - ALSA 사운드 카드를 설정하는 프로그램이다.cdparanoia - 음악 CD 에서 음원을 추출하는 프로그램이다.OSS/free - 표준 유닉스 장치(POSIX read, write, ioctl, 등) 에 기반을 두고 있으며, 사운드를 만들고 캡쳐하는 인터페이스 이다.<#nbsp;>[해설작성자 : 010-2820-XXXX]<#nbsp;><#nbsp;>
+
+2과목 : 리눅스 활용

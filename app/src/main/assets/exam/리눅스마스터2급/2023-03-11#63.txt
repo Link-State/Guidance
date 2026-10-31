@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-03-11
+과목 : 2
+문제번호 : 63
+문제지문 : 다음 중 네트워크 인터페이스 환경 설정과 관련 파일들이 저장된 디렉터리로 알맞은 것은?
+사진 : 
+1번 : /etc/networking/devices
+2번 : /etc/sysconfig/devices
+3번 : /etc/sysconfig/network
+4번 : /etc/sysconfig/network-scripts
+정답 : 8
+해설 : /etc/sysconfig/network는네트워크사용유무지정, 호스트명설정, 게이트웨이주소설정, 게이트웨이장치파일설정,도메인이름등이기록되는파일<#nbsp;>[해설작성자 : 발로푼다]<#nbsp;><#nbsp;>

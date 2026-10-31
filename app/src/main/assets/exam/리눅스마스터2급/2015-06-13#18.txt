@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2015-06-13
+과목 : 1
+문제번호 : 18
+문제지문 : 다음 중 PATH 설정 값에 /usr/local/mariadb/bin 경로를 추가하려고 할 때 알맞은 것은?
+사진 : 
+1번 : export PATH=/usr/local/mariadb/bin
+2번 : export PATH=PATH:/usr/local/mariadb/bin
+3번 : export PATH=$PATH:/usr/local/mariadb/bin
+4번 : export $PATH=PATH:/usr/local/mariadb/bin
+정답 : 4
+해설 : 

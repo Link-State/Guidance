@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-28
+과목 : 1
+문제번호 : 49
+문제지문 : 다음과 같은 형식이 저장되어 있는 파일로 알맞은 것은?
+사진 : admin:!::kaituser<#nbsp;>
+1번 : /etc/passwd
+2번 : /etc/shadow
+3번 : /etc/group
+4번 : /etc/gshadow
+정답 : 8
+해설 : 형식 admin:!::kaituser<#nbsp;>① passwd 아님.<#nbsp;>② shadow 아님.<#nbsp;>③ group은 보통 group:x:GID:user.<#nbsp;>④ gshadow 형식에 해당.

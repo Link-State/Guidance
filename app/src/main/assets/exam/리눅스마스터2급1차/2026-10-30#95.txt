@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-30
+과목 : 1
+문제번호 : 95
+문제지문 : systemd를 사용하는 시스템에서 서비스의 상태를 확인하는 명령어 형식으로 옳은 것은 무엇인가?
+사진 : 
+1번 : service --find
+2번 : daemon show
+3번 : procctl status
+4번 : systemctl status 서비스명
+정답 : 8
+해설 : systemctl status는 지정한 서비스 유닛의 상태를 보여준다.

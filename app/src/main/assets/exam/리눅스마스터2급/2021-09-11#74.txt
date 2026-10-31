@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-09-11
+과목 : 2
+문제번호 : 74
+문제지문 : 다음 중 워드 프로세서(Word Processor) 프로그램으로 알맞은 것은?
+사진 : 
+1번 : LibreOffice Writer
+2번 : LibreOffice Draw
+3번 : LibreOffice Calc
+4번 : LibreOffice Impress
+정답 : 1
+해설 : 리눅스             윈도우1. LibreOffice Writer :  word2. LibreOffice Draw :  드로잉 프로그램3. LibreOffice Calc  :  excel4. LibreOffice Impress : powerpoint<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>

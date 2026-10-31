@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2011-06-11
+과목 : 1
+문제번호 : 18
+문제지문 : 리눅스 시스템에서 사용자의 명령을 시스템에 전달하기 위하여 다음과 같은 단계를 거쳐야 한다. 이때 순서가 바르게 정의된 것은?
+사진 : 
+1번 : Terminal - Device Driver - Shell - Linux Kernel
+2번 : Terminal - Shell - Linux Kernel - Device Driver
+3번 : Terminal - Linux Kernel - Shell - Device Driver
+4번 : Terminal - Shell - Device Driver - Linux Kernel
+정답 : 1
+해설 : 

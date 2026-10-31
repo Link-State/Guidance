@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-06-10
+과목 : 2
+문제번호 : 80
+문제지문 : 다음 중 Ethernet과 가장 관련 있는 전송기술로 알맞은 것은?
+사진 : 
+1번 : CSMA/CD
+2번 : ATM
+3번 : FDDI
+4번 : Token Ring
+정답 : 1
+해설 : 이더넷은 CSMA/CD (carrier sense multiple access with collision detection 반송파 감지 다중 접속 및 충돌 탐지) 기술을 사용한다..이 기술은 이더넷에 연결된 여러 컴퓨터들이 하나의 전송 매체를 공유할 수 있도록 한다.

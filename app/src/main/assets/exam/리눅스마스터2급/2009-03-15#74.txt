@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2009-03-15
+과목 : 2
+문제번호 : 74
+문제지문 : ifconfig, route 등의 명령어로 설정할 수 있는 것들을 X 윈도우상의 GUI 프로그램에서도 설정할 수 있다. 다음 중 네트워크 설정을 할 수 있는 X윈도우상의 GUI 프로그램은 어느 것인가?
+사진 : 
+1번 : network-cfg
+2번 : network-config
+3번 : system-network-config
+4번 : system-config-network
+정답 : 8
+해설 : 

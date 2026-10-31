@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-09-13
+과목 : 2
+문제번호 : 52
+문제지문 : 다음 중 X 윈도우 설정을 위해 사용하는 명령으로 틀린 것은?
+사진 : 
+1번 : xf86cfg
+2번 : Xconfigurtator
+3번 : xwindows-env-setup
+4번 : system-config-display
+정답 : 4
+해설 : 

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2009-09-06
+과목 : 1
+문제번호 : 37
+문제지문 : # dpkg --install httpd와 같은 역할을 하는 rpm 명령은?
+사진 : 
+1번 : # rpm -e httpd
+2번 : # rpm -V httpd
+3번 : # rpm -i httpd-2.0.40-21.rpm
+4번 : # rpm -p httpd-2.0.40-21.rpm
+정답 : 4
+해설 : 

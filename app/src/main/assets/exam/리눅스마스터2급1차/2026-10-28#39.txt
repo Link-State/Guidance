@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-28
+과목 : 1
+문제번호 : 39
+문제지문 : 텍스트 파일인 a, b의 내용이 아래와 같을 때, 명령1과 명령2의 연속적인 실행 후 출력될 내용으로 알맞은 것은?
+사진 : 파일 a의 내용: "korea team"<#nbsp;>파일 b의 내용: "fighting"<#nbsp;>
+1번 : 명령1: cat a>b   명령2: cat b   출력 내용: "fighting"
+2번 : 명령1: cat a>>b  명령2: cat b   출력 내용: "fighting"
+3번 : 명령1: cat a>b   명령2: cat b   출력 내용: "korea team"
+4번 : 명령1: cat a>>b  명령2: cat b   출력 내용: "korea team"
+정답 : 4
+해설 : cat a > b 는 b 내용을 덮어써서 a 내용만 남김.<#nbsp;>① 틀림.<#nbsp;>② >>면 fighting 뒤에 korea team이 붙음.<#nbsp;>③ 맞음.<#nbsp;>④ >> 결과와 다름.

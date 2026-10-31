@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-09-10
+과목 : 1
+문제번호 : 4
+문제지문 : 사용자 user1, 그룹 grep1 소유인 디렉터리 /home/user1을 포함한 하위 디렉터리 및 파일의 소유자를 모두 user2로 변경하려고 할 때 명령으로 알맞은 것은?
+사진 : 
+1번 : chown -R user2 /home/user1
+2번 : chown -H user2 /home/user1
+3번 : chmod -R user2 /home/user1
+4번 : chmod -H user2 /home/user1
+정답 : 1
+해설 : chown -R 사용자 경로-R 은 경로 디렉터리와 하위 디렉터리 및 파일을 전부 선택할 때 사용<#nbsp;>[해설작성자 : 이상하]<#nbsp;><#nbsp;>부가설명(chown=소유주변경 chmod=파일허가권한 변경)

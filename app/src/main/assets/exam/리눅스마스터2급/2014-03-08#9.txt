@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-03-08
+과목 : 1
+문제번호 : 9
+문제지문 : /project에 대해 다음의 조건에 따라 접근 권한을 설정할 경우에 알맞은 것은?
+사진 : <!PICTURE@image4>
+1번 : chmod 3070 /project
+2번 : chmod 4070 /project
+3번 : chmod 0777 /project
+4번 : chmod 1777 /project
+정답 : 1
+해설 : 

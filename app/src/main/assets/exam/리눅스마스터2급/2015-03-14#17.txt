@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2015-03-14
+과목 : 1
+문제번호 : 17
+문제지문 : 다음 중 alias로 설정된 _mariadb을 해제하는 명령으로 알맞은 것은?
+사진 : 
+1번 : unalias
+2번 : unalias _mariadb
+3번 : _mariadb unalias
+4번 : _mariadb
+정답 : 2
+해설 : 

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-06-13
+과목 : 2
+문제번호 : 77
+문제지문 : 다음 설명에 해당하는 기술이 탑재된 제품으로 알맞은 것은?
+사진 : <!PICTURE@image32>
+1번 : Xen
+2번 : KVM
+3번 : RHEV
+4번 : VitualBox
+정답 : 1
+해설 : 반가상화 를 지원한다는 설명이 있으면 Xen 을 고르시면 됩니다.전가상화 + 레드햇 = KVMInnotek + Oracle = VirtualBox<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2015-03-14
+과목 : 1
+문제번호 : 26
+문제지문 : 다음과 같이 jobs 명령을 내렸을 때 결과 값으로 알맞은 것은?
+사진 : <!PICTURE@image7>
+1번 : [1]- Running vim a.txt[2]+ Running vim b.txt
+2번 : [1]- Running vim a.txt[2]+ Stopped vim b.txt
+3번 : [1]- Stopped vim a.txt[2]+ Running vim b.txt
+4번 : [1]- Stopped vim a.txt[2]+ Stopped vim b.txt
+정답 : 8
+해설 : 

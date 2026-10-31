@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-12-09
+과목 : 1
+문제번호 : 30
+문제지문 : 다음 (괄호) 안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image10>
+1번 : ㉠ exec, ㉡ fork
+2번 : ㉠ fork, ㉡ exec
+3번 : ㉠ background, ㉡ foreground
+4번 : ㉠ foreground, ㉡ background
+정답 : 2
+해설 : fork : 새로운 프로세스를 위해 메모리를 할당받아 복사본 형태의 프로세스를 실행exec : 원래 프로세스를 새로운 프로세스로 대체하는 형태foreground : 앱이 실행되어 사용자에게 보여지고 있는 상태background : background 상태에 있지만 동작 code가 있는 상태<#nbsp;>[해설작성자 : .]<#nbsp;><#nbsp;>

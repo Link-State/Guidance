@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-09-03
+과목 : 1
+문제번호 : 10
+문제지문 : 다음 중 yum을 이용해서 nmap 패키지를 제거하는 명령으로 알맞은 것은?
+사진 : 
+1번 : yum delete nmap
+2번 : yum clean nmap
+3번 : yum remove nmap
+4번 : yum destory nmap
+정답 : 4
+해설 : 올바른 명령어는 'yum remove nmap'입니다..'yum delete nmap'은 잘못된 선택지입니다..'yum clean'은 패키지 캐시를 정리하는 명령어이며, 'yum destory'는 존재하지 않는 명령어입니다..따라서 1번, 2번, 4번 선택지는 모두 틀린 선택지입니다.<#nbsp;>[해설작성자 : GPT-4]<#nbsp;><#nbsp;>

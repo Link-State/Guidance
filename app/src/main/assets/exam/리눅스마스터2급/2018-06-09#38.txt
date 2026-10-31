@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-06-09
+과목 : 1
+문제번호 : 38
+문제지문 : 다음은 관련 패키지를 삭제하는 과정이다. ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image17>
+1번 : delete
+2번 : erase
+3번 : remove
+4번 : uninstall
+정답 : 4
+해설 : rpm : -e 옵션apt-get : removedpkg : r시스템에서 삭제 , p패키지기반 모두 삭제, --purge 완전 제거yum : remove<#nbsp;>[해설작성자 : 양재호]<#nbsp;><#nbsp;>추가로 외워야할 것ftp - delete

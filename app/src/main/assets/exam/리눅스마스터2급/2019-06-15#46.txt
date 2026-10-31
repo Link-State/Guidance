@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-06-15
+과목 : 1
+문제번호 : 46
+문제지문 : 다음 중 사운드 카드를 제어하는 명령어인 alsactl의 옵션에 대한 설명으로 틀린 것은?
+사진 : 
+1번 : -E : 환경 변수를 설정한다.
+2번 : -f : 환경 설정 파일을 지정한다.
+3번 : -i : init을 위한 설정 파일을 지정한다.
+4번 : -p : restore와 init 에러를 지정한 파일에 저장한다.
+정답 : 8
+해설 : -P,--pedantic    don't restore mismatching controls (old default)[추가 해설]-p, --pedantic : restore와 함께 사용되며 적절치 않은 설정 무시-E var=value, --env var=value : 환경 변수 설정-f file, --f=file : 설정 파일 지정-i file, --initfile : init을 위한 설정 파일 지정<#nbsp;>[해설작성자 : 홍해장]<#nbsp;><#nbsp;>

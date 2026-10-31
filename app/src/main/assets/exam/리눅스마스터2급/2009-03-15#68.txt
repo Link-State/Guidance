@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2009-03-15
+과목 : 2
+문제번호 : 68
+문제지문 : 다음 중 NCSA(National Center for Supercomputing Application)에서 개발한 최초의 그래픽 통합 웹브라우저로서 인터넷의 대중화에 큰 역할을 한 것은 어느 것인가?
+사진 : 
+1번 : Netscape
+2번 : Mozilla
+3번 : Internet Explorer
+4번 : Mosaic
+정답 : 8
+해설 : 

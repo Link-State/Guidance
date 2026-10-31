@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-09-21
+과목 : 1
+문제번호 : 40
+문제지문 : 다음 중 소스(source) 설치 과정의 순서로 알맞은 것은?
+사진 : 
+1번 : configure → Makefile → make
+2번 : Makefile → configure → make
+3번 : Makefile → make → make install
+4번 : configure → make → make install
+정답 : 8
+해설 : configure하고 make(만들고)하고 make install(만든파일실행)한다<#nbsp;>[해설작성자 : 이번주시험]<#nbsp;><#nbsp;>

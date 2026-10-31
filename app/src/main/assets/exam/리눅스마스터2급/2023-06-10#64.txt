@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-06-10
+과목 : 2
+문제번호 : 64
+문제지문 : 다음 설명에 해당하는 국제기구로 알맞은 것은?
+사진 : <!PICTURE@image34>
+1번 : ICANN
+2번 : IEEE
+3번 : ITU-T
+4번 : ISO
+정답 : 1
+해설 : ICANN (Internet Corporation for Assigned Names and Numbers):IP, 도메인 등 관리IEEE (Institute of Electrical and Electronics Engineers):LAN 규격, 다양한 컴퓨팅 표준 등ITU-T (International Telecommunication Union - Telecommunication Standardization Sector):통신 기술의 표준을 정립. 네트워크와 서비스의 표준을 개발ISO (International Organization for Standardization):국제 표준 개발 기구<#nbsp;>[해설작성자 : 빠대비]<#nbsp;><#nbsp;>

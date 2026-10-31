@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-06-09
+과목 : 1
+문제번호 : 46
+문제지문 : 다음 중 ihd.txt 파일을 프린터로 인쇄하기 위한 명령으로 틀린 것은?
+사진 : 
+1번 : lpr -r ihd.txt
+2번 : cat ihd.txt | lpr
+3번 : cat ihd.txt ＞ /dev/null
+4번 : cat ihd.txt ＞ /dev/lp0
+정답 : 4
+해설 : /dev/nullwindows라고 보면 휴지통 입니다<#nbsp;>[해설작성자 : 니 주제에 누굴 가리쳐!]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2013-03-12
+과목 : 1
+문제번호 : 16
+문제지문 : Bash 쉘에서 히스토리(history) 수를 500라인으로 지정하는 방법으로 알맞은 것은?
+사진 : 
+1번 : export HISTCTL=500
+2번 : export HISTORY=500
+3번 : export HISTSIZE=500
+4번 : export HISCONTROL=500
+정답 : 4
+해설 : 

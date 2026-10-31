@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2009-12-07
+과목 : 1
+문제번호 : 44
+문제지문 : 일반적으로 프린터 큐로 사용되는 spool 디렉터리로 알맞은 것은?
+사진 : 
+1번 : /var/spool/lpd/lp
+2번 : /etc/spool/lpd/lp
+3번 : /dev/spool/lpd/lp
+4번 : /dev/output/lpd/lp
+정답 : 1
+해설 : 

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-06-11
+과목 : 2
+문제번호 : 64
+문제지문 : 다음 중 OSI 7 계층 중 네트워크 계층과 가장 거리가 먼 프로토콜로 알맞은 것은?
+사진 : 
+1번 : ICMP
+2번 : UDP
+3번 : IP
+4번 : ARP
+정답 : 2
+해설 : [네트워크 계층 프로토콜]IP, ICMP, IGMP, ARP, RARP[전송 계층 프로토콜]TCP, UDP[응용 계층 프로토콜]FTP, SSH, Telnet, SMTP, DHCP, TFTP, HTTP, POP3, IMAP, SNMP<#nbsp;>[해설작성자 : JSC]<#nbsp;><#nbsp;>

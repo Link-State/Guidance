@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2010-03-13
+과목 : 1
+문제번호 : 39
+문제지문 : 다음 중 디렉토리를 하나의 압축파일로 묶기 위한 명령이 아닌 것은?
+사진 : 
+1번 : tar zcvf file.tar.gz directory
+2번 : tar cvf - directory | gzip >file.tar.gz
+3번 : gzip -d directory file.gz
+4번 : zip -r directory file.zip
+정답 : 4
+해설 : 

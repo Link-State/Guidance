@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2012-03-13
+과목 : 2
+문제번호 : 51
+문제지문 : X 윈도우에 필요한 도움말이 저장되어 있는 디렉터리로 알맞은 것은?
+사진 : 
+1번 : /etc/X11/xinit/Xclients
+2번 : /etc/sysconfig/desktop
+3번 : /usr/X11R6/man
+4번 : /usr/X11R6/lib/xinit/.xinitrc
+정답 : 4
+해설 : 

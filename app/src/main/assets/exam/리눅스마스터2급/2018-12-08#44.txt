@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-12-08
+과목 : 1
+문제번호 : 44
+문제지문 : 다음 설명으로 알맞은 것은?
+사진 : <!PICTURE@image17>
+1번 : lpq
+2번 : lpr
+3번 : lprm
+4번 : cancel
+정답 : 4
+해설 : local printer remove로 기억하십시오.<#nbsp;>[해설작성자 : 배재우]<#nbsp;><#nbsp;>4번 cancel 같은경우 systerm v 에서 사용하는 취소 명령어 이다.cancel은 무조건 작업 번호를 붙여줘야한다..<#nbsp;>[해설작성자 : 전지전능한 머머장 박강락님]<#nbsp;><#nbsp;>

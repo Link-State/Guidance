@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-12-09
+과목 : 1
+문제번호 : 46
+문제지문 : project 그룹에 속한 사용자들이 /project 디렉터리에서 파일 생성은 자유로우나 삭제는 본인의 생성한 파일만 가능하도록 설정하려고 한다. 또한 파일 생성 시 자동으로 그룹 소유권이 project로 부여되도록 설정하려고 한다. /project 디렉터리의 정보가 다음과 같을 때 관련 명령으로 알맞은 것은?
+사진 : <!PICTURE@image22>
+1번 : chmod 1770 /project
+2번 : chmod 2770 /project
+3번 : chmod 3770 /project
+4번 : chmod 5770 /project
+정답 : 4
+해설 : 그룹에 속한 사용자들이 디렉터리에서 파일 생성은 자유로우나 삭제는 본인이 생성한 파일만 가능 => Sticky Bit (1)파일 생성시 자동으로 그룹 소유건이 Project로 부여 되도록 설정 => Set GID(2)Sticky Bit 와 Set GID를 동시에 설정 해야 하므로 1+2 =3정답은 3번이다.<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>SUID (Set User ID): 4SGID (Set Group ID): 2Sticky Bit: 1<#nbsp;>[해설작성자 : 날릴수없는4만4처넌]<#nbsp;><#nbsp;>

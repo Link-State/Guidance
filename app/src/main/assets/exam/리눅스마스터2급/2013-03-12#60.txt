@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2013-03-12
+과목 : 2
+문제번호 : 60
+문제지문 : 다음에서 설명하는 내용으로 알맞은 것은?
+사진 : <!PICTURE@image9>
+1번 : 에러제어(Error Control)
+2번 : 순서제어(Sequencing/Ordering)
+3번 : 흐름제어(Flow Control)
+4번 : 우선순위와 단절(Priority and Preemption)
+정답 : 4
+해설 : 

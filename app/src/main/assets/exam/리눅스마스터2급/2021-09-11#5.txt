@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-09-11
+과목 : 1
+문제번호 : 5
+문제지문 : 다음 설명에 해당하는 용어로 알맞은 것은?
+사진 : <!PICTURE@image3>
+1번 : CUPS
+2번 : LPRng
+3번 : SANE
+4번 : ALSA
+정답 : 2
+해설 : 1) CUPS(CommonUnix Printing System)- 애플이 개발한 오픈 프린팅 소스 시스템- 설정 디렉터리: /etc/cups- 웹기반으로 IPP(Internet Printing Protocol) 사용하여 제어 http/631 port2) LPRng :- 버클리 프린팅 시스템.- BSD계열.- 프린터 스풀링과 네트워크 프린터 서버를 지원- 리눅스 초기에 기본으로 사용됐으나 최근에는 CUPS 시스템을 추가로 사용3)SANE(Scanner Access Now Easy): 스케너등 이미지 관련 하드웨어를 제어하는 API4)ALSA(Advanced Linux Sound Architechture): 사운드 카드용 장비 드라이버를 제공하기 위한 리눅스 커널요소<#nbsp;>[해설작성자 : 해설을 보세요]<#nbsp;><#nbsp;>

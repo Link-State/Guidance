@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-10-10
+과목 : 1
+문제번호 : 1
+문제지문 : 다음 중 chown명령어를 사용하여 소유권 변경 시참조하는 파일로 가장 알맞은 것은?
+사진 : 
+1번 : ~/.profile
+2번 : /etc/passwd
+3번 : /etc/shadow
+4번 : /etc/default/useradd
+정답 : 2
+해설 : passwd 계정관련shadow 패스워드관련<#nbsp;>[해설작성자 : 왜다들해설을안달아놓는거야ㅜ]<#nbsp;><#nbsp;>/etc/passwd: 시스템 환경설정 파일 사용자 목록 저장/etc/shadow: /etc/passwd의 두번째 필드인 패스워드 부분을 암호화 관리/etc/default/useradd: 새로운 사용자를 추가시 참조하는 설정파일<#nbsp;>[해설작성자 : 옹심이]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-09-10
+과목 : 1
+문제번호 : 35
+문제지문 : 다음 중 etc.tgz 파일에 httpd.conf 파일이 포함 되었는지 확인하는 명령으로 알맞은 것은?
+사진 : 
+1번 : tar -xvf ./etc.tgz | grep "httpd\.conf"
+2번 : tar -dvf ./etc.tgz | grep "httpd\.conf"
+3번 : tar -tvf ./etc.tgz | grep "httpd\.conf"
+4번 : tar -rvf ./etc.tgz | grep "httpd\.conf"
+정답 : 4
+해설 : -t list the contents of an archive 아카이브의 내용을 나열-v verbosely list files processed 파일 목록을 자세히 처리-f use archive file or device archive 아카이브 파일 또는 장치 아카이브를 사용<#nbsp;>[해설작성자 : 황상연]<#nbsp;><#nbsp;>-xvf  아카이브 풀기-tvf  아카이브 내용 보기-rvf  아카이브 파일 추가하기<#nbsp;>[해설작성자 : 재호우]<#nbsp;><#nbsp;>

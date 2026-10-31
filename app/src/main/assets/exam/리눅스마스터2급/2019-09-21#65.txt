@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-09-21
+과목 : 2
+문제번호 : 65
+문제지문 : 다음 조건일 경우, SSH 인증 파일의 경로는?
+사진 : <!PICTURE@image24>
+1번 : /home/ihduser/authorized_keys
+2번 : /home/ihduser/.authorized_keys
+3번 : /home/ihduser/.ssh/authorized_keys
+4번 : /home/ihduser/ssh/.authorized_keys
+정답 : 4
+해설 : 서버 인증 파일을 통해 접근 할 때 authorized_keys파일로 SSH 서버에 인증을 생성한다.<#nbsp;>[해설작성자 : 뿌리]<#nbsp;><#nbsp;>

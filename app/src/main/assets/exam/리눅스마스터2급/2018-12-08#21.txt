@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-12-08
+과목 : 1
+문제번호 : 21
+문제지문 : 다음 중 ps aux 명령으로 출력되는 항목으로 알맞은 것은?
+사진 : 
+1번 : UID
+2번 : RSS
+3번 : PPID
+4번 : STIME
+정답 : 2
+해설 : ps aux 명령어 치게되면 아래와 같이 나옵니다..USER / PID / %CPU / %MEM / VSZ / RSS / TTY/ STAT/ START/ TIME/ COMMAND그냥 ps명령어 치면 아래와 같이 나옵니다.PID TTY TIME CMDps -ef 치게되면 아래와 같이 나옵니다.UID PID  PPID C STIME TTY TIME CMD1번, 3번, 4번은 ps -ef 명령어를 치게되면 나오는 컬럼 입니다..개꿀띠<#nbsp;>[해설작성자 : ITWILL 57th 현규]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-03-12
+과목 : 1
+문제번호 : 22
+문제지문 : 다음 중 시스템로그(/var/log/messages)에 기록되는 로그정보를 백그라운드 상태로 사용자의 홈 디렉터리로 출력 하려고 할 때 알맞은 것은?
+사진 : 
+1번 : tail -f /var/log/messages >~/syslog
+2번 : tail -f /var/log/messages >~/syslog &
+3번 : tail -f /var/log/messages >~/syslog %
+4번 : tail -f /var/log/messages >~/syslog @
+정답 : 2
+해설 : 

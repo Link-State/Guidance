@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-12-03
+과목 : 1
+문제번호 : 1
+문제지문 : 현재 test.txt 파일에 대한 허가권은 654이다. 이 파일을 다음과 같이 변경하려고 할 때 틀린 것은? (문제 오류로 실제 시험에서는 모두 정답 처리되었습니다. 여기서는 1번을 누르면 정답 처리 됩니다.)
+사진 : <!PICTURE@image1>
+1번 : chmod 754 test.txt
+2번 : chmod u+rwx,go+r test.txt
+3번 : chmod u=rwx,g=rx,o=r test.txt
+4번 : chmod u+x test.txt
+정답 : 1
+해설 : 

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-12-14
+과목 : 2
+문제번호 : 60
+문제지문 : 다음 중 OSI 7계층의 프로토콜 데이터 단위(Protocol Data Unit)를 하위 계층부터 순서대로 바르게 나열한 것은?
+사진 : 
+1번 : segment → packet → frame
+2번 : segment → frame → packet
+3번 : frame → segment → packet
+4번 : frame → packet → segment
+정답 : 8
+해설 : 

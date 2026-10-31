@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-28
+과목 : 1
+문제번호 : 16
+문제지문 : 다음 (괄호) 안에 들어갈 옵션으로 알맞은 것은?
+사진 : $ file (    ) lin.txt<#nbsp;> lin.txt: text/plain; charset=us-ascii<#nbsp;>
+1번 : -i
+2번 : -a
+3번 : -e
+4번 : -f
+정답 : 1
+해설 : file -i lin.txt → MIME 타입/charset 출력.<#nbsp;>② -a: all 매칭.<#nbsp;>③ -e: test 제외.<#nbsp;>④ -f: 파일 목록 입력.

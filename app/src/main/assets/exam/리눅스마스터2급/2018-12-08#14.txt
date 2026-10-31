@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-12-08
+과목 : 1
+문제번호 : 14
+문제지문 : 다음 중 기존의 PATH에 /home/ihd 경로를 추가하려고 할 때 알맞은 것은?
+사진 : 
+1번 : export PATH=PATH:/home/ihd
+2번 : export PATH=$PATH:/home/ihd
+3번 : export $PATH=$PATH:/home/ihd
+4번 : export $PATH=PATH:/home/ihd
+정답 : 2
+해설 : 기존의 변수에 환경변수를 추가하는 방법<#nbsp;>[해설작성자 : 에이든]<#nbsp;><#nbsp;>환경변수 변경(덮어쓰기) : export [환경변수]=[새로 등록할 변수]기존의 환경변수에 추가 : export [환경변수]=$[환경변수]:[이어서 추가할 변수]exPATH를 /home/ihd로 변경 -> export PATH=/home/ihdPATH에 /home/ihd 추가  -> export PATH=$PATH:/home/ihd<#nbsp;>[해설작성자 : 홍해장]<#nbsp;><#nbsp;>

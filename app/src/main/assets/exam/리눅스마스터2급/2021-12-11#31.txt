@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-12-11
+과목 : 1
+문제번호 : 31
+문제지문 : 다음 설명에 해당하는 파일로 가장 알맞은 것은?
+사진 : <!PICTURE@image15>
+1번 : ~/.bashrc
+2번 : ~/.bash_history
+3번 : ~/.bash_profile
+4번 : ~/.bash_logout
+정답 : 1
+해설 : 함수 및 alias관련 설정 파일은 ~/.bashrc입니다.~/.bash_profile은 환경변수 등의 설정파일입니다.<#nbsp;>[해설작성자 : 이번시험생각보다쉬웠음]<#nbsp;><#nbsp;>~/.bash_profile에도 alias(별칭)을 설정할 수 있으나, ~/.bash_profile은 로그인 셸 대상인 반면 ~/.bashrc는 비 로그인 셸 대상이므로, ~/.bashrc에 별칭을 설정하면 모든 대화형 셸에 적용되므로 일반적으로 ~/.bashrc에 별칭을 설정합니다.<#nbsp;>[해설작성자 : mmmm]<#nbsp;><#nbsp;>

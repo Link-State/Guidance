@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2009-03-15
+과목 : 2
+문제번호 : 69
+문제지문 : 다음은 어떤 인터넷 서비스에 대한 설명인가?
+사진 : <!PICTURE@image10>
+1번 : 블로그(Blog)
+2번 : 유즈넷 뉴스그룹(Usenet News Group)
+3번 : 인터넷 폰(Internet Phone)
+4번 : IRC(Internet Relat Chat)
+정답 : 2
+해설 : 

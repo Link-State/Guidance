@@ -1,0 +1,14 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-09-03
+과목 : 1
+문제번호 : 48
+문제지문 : 다음의 경우 관련 설명으로 알맞은 것은?
+사진 : <!PICTURE@image24>
+1번 : ihduser 사용자는 /project 디렉터리에 들어갈 수 없다.
+2번 : ihduser 사용자는 /project 디렉터리에 들어갈 수는 있으나 파일을 생성할 수 없다.
+3번 : ihduser 사용자가 /project 디렉터리에 파일을 생성하면 그룹 소유권은 project이다.
+4번 : ihduser 사용자가 /project 디렉터리에 파일을 생성하면 그룹 소유권은 ihduser이다.
+정답 : 4
+해설 : chmod : Change Mode 로 허가권 설정.r,w,x 권한 표시.3 > 소유자. wx, 0 > 그룹 권한 x, 7 >기타 사용자 rwx, 0> 특수권한 X"/project" 디렉토리의 소유자는 쓰기와 실행이 가능하지만, 읽기 권한은 없습니다..그룹과 기타 사용자는 읽기, 쓰기, 실행 모두의 권한을 가집니다.<#nbsp;>[해설작성자 : 시험 공부중이에여]<#nbsp;><#nbsp;>마지막줄에 chmod 3070 지정맨앞 3은Set-UID(4) : XSet-GID(2) : OSticiky-bit(1) : O그룹소유권을 자동으로 지정(SET-GID)하고 공유하여 사용하도록 (Sticky Bit) 설정 (3번 정답)user 는 0 ---group은 7로 rwxother는 0으로 ---그룹사용자외에는 r(디렉터리 접근), w(디렉터리 내부에 파일 생성 및 삭제), x(실행) 불가능ihduser는 project 그룹에 속해있으므로 (2열)ihduser는 디렉터리에 접근및 파일 생성,삭제 가능(1,2번 오답)<#nbsp;>[해설작성자 : Atriel]<#nbsp;><#nbsp;>Atriel님 해설에 추가합니다.문제 본문을 보면,2열에 1010(project) 때문에 ihduser가 project 그룹에 속해있다는 것을 알 수 있습니다.그다음 4열을 보면drwxr-xr-x. 2 root project 6 Apr 6 10:22 /project              ↑     ↑           소유자   그룹그래서 /project의 그룹은 project인 것을 알 수 있습니다.그럼 본문의 마지막 열을 보겠습니다.chmod 3070 /project3은 특수권한0 소유자7 그룹0 기타사용자(그룹 사용자 외)입니다.Set-UID(4)Set-GID(2)Sticiky-bit(1)이걸 통해서문제보기 1번과 2번이 답이 아닌이유ihduser는 project 그룹에 속해있으므로 (본문 2열)ihduser는 디렉터리에 접근및 파일 생성,삭제 가능(1,2번 오답)문제보기 4번이 답이 아닌 이유그룹사용자는 7이므로 set gid도 만족하게되는데set gid = 해당 디렉토리에서 생성되는 모든 파일/ 디렉토리의 그룹 소유권이부모 디렉토리의 그룹으로 자동설정됨근데 /project의 그룹이 project인걸 ls -ld /project 명령어를 통해우리는 알고있기 때문에 /project에서 생성되는 모든 파일/디렉토리의 그룹 소유권이project 그룹으로 자동 설정되는 것이다.따라서 4번이 틀렸기 때문에3번이 답이 된다.<#nbsp;>[해설작성자 : 쥬씨]<#nbsp;><#nbsp;>
+
+2과목 : 리눅스 활용

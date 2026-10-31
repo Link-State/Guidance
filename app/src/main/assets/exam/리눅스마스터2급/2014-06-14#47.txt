@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-06-14
+과목 : 1
+문제번호 : 47
+문제지문 : alsactl 명령어의 옵션 중 -f를 적용하였을 때, 기본적으로 선택되는 환경 설정 파일로 알맞은 것은?
+사진 : 
+1번 : /etc/sound.conf
+2번 : /etc/alsactl.state
+3번 : /etc/asound.state
+4번 : /etc/sound.state
+정답 : 4
+해설 : 

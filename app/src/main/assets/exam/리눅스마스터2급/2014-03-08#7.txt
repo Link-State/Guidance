@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-03-08
+과목 : 1
+문제번호 : 7
+문제지문 : 다음 조건으로 명령을 수행하려고 할 때 알맞은 것은?
+사진 : <!PICTURE@image3>
+1번 : setquota -u uzoogom 10000 13000 0 0 /home
+2번 : setquota -u uzoogom 0 0 10000 13000 /home
+3번 : setquota -u uzoogom 0 10000 0 13000 /home
+4번 : setquota -u uzoogom 10000 0 13000 0 /home
+정답 : 1
+해설 : 

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2015-03-14
+과목 : 1
+문제번호 : 22
+문제지문 : 다음 중 Apache 웹 서버 데몬을 종료시키는 방법으로 틀린 것은?
+사진 : 
+1번 : service httpd stop
+2번 : killall httpd
+3번 : killall -v -9 httpd
+4번 : killall -HUP httpd
+정답 : 8
+해설 : 

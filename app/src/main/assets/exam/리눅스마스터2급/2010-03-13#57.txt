@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2010-03-13
+과목 : 2
+문제번호 : 57
+문제지문 : 근거리 통신망인 LAN을 토폴로지(topology)에 의한 분류로 구분한 것이 아닌 것은?
+사진 : 
+1번 : Linear topology LAN
+2번 : Star topology LAN
+3번 : Bus topology LAN
+4번 : Mesh topology LAN
+정답 : 1
+해설 : 

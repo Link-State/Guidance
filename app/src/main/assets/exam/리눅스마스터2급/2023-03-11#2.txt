@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-03-11
+과목 : 1
+문제번호 : 2
+문제지문 : 다음 중 lin.txt 파일의 그룹 소유권을 kait, 소유자는 ihduser로 설정하는 명령으로 알맞은 것은?
+사진 : 
+1번 : chown kait:ihduser lin.txt
+2번 : chown ihduser:kait lin.txt
+3번 : charp kait:ihduser lin.txt
+4번 : charp ihduser:kait lin.txt
+정답 : 2
+해설 : 소유권 변경 명령어는 chownchown 사용방법은chown 소유자 파일명 순이다그룹 소유권 설정시 chown 소유자:그룹명 파일명 순이다<#nbsp;>[해설작성자 : 발로푼다]<#nbsp;><#nbsp;>chmod : 파일, 디렉토리 권한을 변경하는 명령어        chmod [변경될 권한값] [변경할 파일]        예시) chmod g+w test.txt : test.txt 파일의 그룹 권한에 w(쓰기) 권한을 부여              chmod 644 test.txt : test.txt 파일의 소유자에게 6 = r(4, 읽기) + w(2, 쓰기) 권한 부여 및 그룹과 모든사용자              에게 r(4, 읽기) 권한 부여chown : 파일, 디렉토리 소유권을 변경하는 명령어        chown [변경할 소유자]:[소유그룹] [변경할 파일]        예시) chown sam test.txt : test.txt의 소유자를 sam으로 변경              chown sam:popo test.txt : test.txt의 소유자는 sam으로 소유권은 popo 그룹으로 변경chgrp : 파일, 디렉토리 소유그룹을 변경하는 명령어        chgrp [옵션] [그룹명] [파일명]        예시) chgrp asd test.txt :test.txt 파일의 그룹소유권을 asd로 변경<#nbsp;>[해설작성자 : 담주시험인대 합격]<#nbsp;><#nbsp;>

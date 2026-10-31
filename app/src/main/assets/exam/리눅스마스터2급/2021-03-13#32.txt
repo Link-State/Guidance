@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-03-13
+과목 : 1
+문제번호 : 32
+문제지문 : 다음 설명과 같은 경우 유용한 vi 편집기의 환경설정값으로 알맞은 것은?
+사진 : <!PICTURE@image17>
+1번 : set nu
+2번 : set ic
+3번 : set ai
+4번 : set sm
+정답 : 4
+해설 : set ai = 자동 들여쓰기<#nbsp;>[해설작성자 : 연두부]<#nbsp;><#nbsp;>set ai가 자동 글 바꿈 설정을 하는 것이기 때문에 3번입니다.<#nbsp;>[해설작성자 : 끼웅]<#nbsp;><#nbsp;>set ai는 auto indent를 의미. Vi 편집기를 이용하여 프로그래밍 할 때 사용되는 환경설정. 명령모드에서 사용. 그밖에 set si(smart indent)가 있음<#nbsp;>[해설작성자 : Bob]<#nbsp;><#nbsp;>

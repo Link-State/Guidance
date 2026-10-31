@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-28
+과목 : 1
+문제번호 : 45
+문제지문 : 리눅스 설치 시에 소스(source) 컴파일 도구를 기본적으로 포함하기 위해 선택하는 패키지 그룹으로 알맞은 것은?
+사진 : 
+1번 : Web Server
+2번 : Database Server
+3번 : Virtual Host
+4번 : Software Development Workstation
+정답 : 8
+해설 : 개발 컴파일 도구 포함 패키지 그룹.<#nbsp;>① 웹 서버용.<#nbsp;>② DB 서버용.<#nbsp;>③ 가상화용.<#nbsp;>④ 맞음.

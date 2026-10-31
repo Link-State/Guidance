@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-12-11
+과목 : 1
+문제번호 : 12
+문제지문 : 아파치 웹 서버를 소스 설치하는 과정에서 configure를 진행했으나 다시 configure 하기 위해 관련 파일들을 제거하려고 한다. 다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image6>
+1번 : clean
+2번 : delete
+3번 : remove
+4번 : reconfigure
+정답 : 1
+해설 : configure 관련 파일들을 제거할때make clean : 이전에 컴파일했던 내용을을 삭제make disclean : automake에서 분류되지 않은 나머지파일 삭제<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>

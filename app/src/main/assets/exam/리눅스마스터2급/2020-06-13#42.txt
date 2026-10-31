@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-06-13
+과목 : 1
+문제번호 : 42
+문제지문 : 다음은 telnet-server라는 패키지를 삭제하는 과정이다. ( 괄호 ) 안에 들어갈 내용을 알맞은 것은?
+사진 : <!PICTURE@image21>
+1번 : delete
+2번 : destroy
+3번 : remove
+4번 : eliminate
+정답 : 4
+해설 : 리눅스에 delete라는 옵션은 없음<#nbsp;>[해설작성자 : 이번주시험]<#nbsp;><#nbsp;>yum = remove = -rrpm = erase = -e<#nbsp;>[해설작성자 : 시험기간]<#nbsp;><#nbsp;>

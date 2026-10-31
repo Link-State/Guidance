@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-12-12
+과목 : 2
+문제번호 : 80
+문제지문 : 다음 중 리눅스와 가장 거리가 먼 것은?
+사진 : 
+1번 : GENIVI
+2번 : QNX
+3번 : TIZEN
+4번 : WebOS
+정답 : 2
+해설 : QNX : 유닉스 운영체제TIZEN : 리눅스 운영체제WebOS : 리눅스 기반에서 구동되는 모바일 운영체제<#nbsp;>[해설작성자 : 거북희]<#nbsp;><#nbsp;>GENIVI(GENeric In-Vehicle Infotainment) : 리눅스 기반의 표준화된 IVI(in vehicle information) 플랫폼을 만들기 위한 연합체<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>

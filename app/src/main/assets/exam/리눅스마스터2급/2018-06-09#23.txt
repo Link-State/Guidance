@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-06-09
+과목 : 1
+문제번호 : 23
+문제지문 : 다음 중 root 사용자가 ihd 사용자의 crontab 내용을 작성하거나 수정하고자 할 때 사용하는 명령으로 알맞은 것은?
+사진 : 
+1번 : crontab -e ihd
+2번 : crontab -e -u ihd
+3번 : crontab -w ihd
+4번 : crontab -w -u ihd
+정답 : 2
+해설 : crontab [-u user] file-e : edit user's crontab (예약 작업 수정)-l : list user's crontab (예약작업 리스트)-r : delete user's crontab(예약작업 remove~)-i : prompt before deleting user's crontab따라서 crontab -e -u ihd 옵션을 같이 해주면 된다.<#nbsp;>[해설작성자 : 김대웅]<#nbsp;><#nbsp;>-l : crontab에 설정된 내용 출력-e : crontab을 작성하거나 수정-r : crontab 내용 삭제-u : 특정 사용자의 일정 수정crontab [옵션] 파일명특정사용자의 내용을 수정하는 것이므로 -e와 -u옵션을 둘 다 사용하여야하기 때문에 정답은 2번<#nbsp;>[해설작성자 : 규리]<#nbsp;><#nbsp;>

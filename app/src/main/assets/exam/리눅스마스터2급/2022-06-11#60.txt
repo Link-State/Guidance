@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-06-11
+과목 : 2
+문제번호 : 60
+문제지문 : 다음 중 OSI 참조 모델을 제정한 기관으로 알맞은 것은?
+사진 : 
+1번 : IEEE
+2번 : ISO
+3번 : ANSI
+4번 : EIA
+정답 : 2
+해설 : &#65279;① IEEE(Institute of Electrical and Electrical Engineers) : 전기 및 전자 분야에서 활동하는 전문 기술자들을 위한 국제 기술 협회② ISO : 전 세계 다양한 제품, 서비스 및 시스템의 품질, 안전, 효율성, 상호 운용성 및 일관성 보장하는 표준 만들고 유지③ ANSI(American National Standards Institute) : 미국 국가 표준을 개발하고 승인하는 데 관여하는 비영리 기관④ EIA(Electronic Industries Alliance) : 미국 전자 산업 협회, 전자 산업과 관련된 규격 제정, 조사, 연구 등 수행&#65279;<#nbsp;>[해설작성자 : pamten]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2017-09-09
+과목 : 1
+문제번호 : 35
+문제지문 : 다음 중 소스파일로 제공되는 프로그램을 설치하기 위해서는 먼저 압축을 풀고, 디렉터리 이동 후 거쳐야 하는 작업으로 알맞은 것은?
+사진 : 
+1번 : setup - configure - make
+2번 : setup - configure - make install
+3번 : configure - setup - make install
+4번 : configure - make - make install
+정답 : 8
+해설 : 

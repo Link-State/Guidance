@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-09-03
+과목 : 2
+문제번호 : 60
+문제지문 : 다음 그림에 해당하는 케이블로 알맞은 것은?
+사진 : <!PICTURE@image33>
+1번 : STP
+2번 : UTP
+3번 : BNC
+4번 : Fiber Cable
+정답 : 2
+해설 : UTP : Unshielded Twisted PairSTP : Shielded Twisted Pair알루미늄으로 차폐되지 않았고 두쌍씩 꼬여있으므로 UTP알루미늄으로 차폐되어있고 두쌍씩 꼬여있다면 STPBNC는 동축 케이블Fiber Cable은 광케이블<#nbsp;>[해설작성자 : 정통학교교관실]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-09-21
+과목 : 1
+문제번호 : 44
+문제지문 : 다음 중 ( 괄호 )안에 들어갈 내용으로 가장 거리가 먼 것은?(순서대로 ㄱ, ㄴ)
+사진 : <!PICTURE@image16>
+1번 : lpr, lp
+2번 : lpc, lprm
+3번 : lpr, lpstat
+4번 : lpc, cancel
+정답 : 2
+해설 : BSD 계열 : lpr, lpq, lprm, lpcSystem V 계열 : lp, lpstat, cancel<#nbsp;>[해설작성자 : 한백고 개구리]<#nbsp;><#nbsp;>

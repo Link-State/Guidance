@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-09-03
+과목 : 1
+문제번호 : 27
+문제지문 : 다음 ( 괄호 ) 안에 들어갈 내용으로 가장 알맞은 것은?
+사진 : <!PICTURE@image10>
+1번 : ㉠ standalone, ㉡ foreground
+2번 : ㉠ standalone, ㉡ background
+3번 : ㉠ daemon, ㉡ foreground
+4번 : ㉠ daemon, ㉡ background
+정답 : 8
+해설 : standalone = 서버프로세스인 데몬이 개별서비스 별로 동작하는것

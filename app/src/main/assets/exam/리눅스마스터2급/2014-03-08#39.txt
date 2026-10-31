@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-03-08
+과목 : 1
+문제번호 : 39
+문제지문 : 다음 중 yum 명령어를 사용하여 "Java Development" 그룹 패키지를 설치하는 방법으로 알맞은 것은?
+사진 : 
+1번 : yum install "Java Development"
+2번 : yum install group "Java Development"
+3번 : yum groupinstall "Java Development"
+4번 : yum -t install "Java Development“
+정답 : 4
+해설 : 

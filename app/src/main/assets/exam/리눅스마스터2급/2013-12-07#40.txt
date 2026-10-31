@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2013-12-07
+과목 : 1
+문제번호 : 40
+문제지문 : 다음 중 yum을 사용한 기록을 확인 하는 방법으로 가장 알맞은 것은?
+사진 : 
+1번 : cat /var/log/yum.log
+2번 : cat /var/log/yum
+3번 : cat /var/log/messages
+4번 : dmesg | grep yum
+정답 : 1
+해설 : 

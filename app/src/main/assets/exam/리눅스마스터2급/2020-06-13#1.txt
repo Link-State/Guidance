@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-06-13
+과목 : 1
+문제번호 : 1
+문제지문 : 다음과 같이 허가권 값이 변경되었을 경우 중간에 실행된 명령으로 알맞은 것은?
+사진 : <!PICTURE@image1>
+1번 : chmod u+s /project
+2번 : chmod g+s /project
+3번 : chmod g+t /project
+4번 : chmod o+t /project
+정답 : 2
+해설 : Group의 권한에서 실행에 대한 부분을 그룹 소유자의 권한으로 실행으로 변경하였으므로chmod g+s /project<#nbsp;>[해설작성자 : 룡룡이닷]<#nbsp;><#nbsp;>

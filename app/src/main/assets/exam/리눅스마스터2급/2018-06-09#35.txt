@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-06-09
+과목 : 1
+문제번호 : 35
+문제지문 : 다음 중 cmake 기반의 프로그램 설치 순서로 가장 알맞은 것은?
+사진 : 
+1번 : configure → cmake → make install
+2번 : configure → make → cmake
+3번 : make → cmake → make install
+4번 : cmake → make install
+정답 : 8
+해설 : cmake(cross platform make) 는 기존 MAKE를 수행하지 않고 운영체제에 맞는 make 생성만을 수행한다.따라서 configure(환경설정)의 과정이 필요하지 않다.<#nbsp;>[해설작성자 : ㄱㅣㅁ대웅]<#nbsp;><#nbsp;>

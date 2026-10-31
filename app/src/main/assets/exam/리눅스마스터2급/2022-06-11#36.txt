@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-06-11
+과목 : 1
+문제번호 : 36
+문제지문 : 다음은 root 권한으로 ihduser 사용자가 실행한 명령의 목록 정보를 확인하는 과정이다. ( 괄호 ) 안에 들어갈 내용으로 가장 알맞은 것은?
+사진 : <!PICTURE@image11>
+1번 : ~ihduser/.history
+2번 : ~ihduser/.profile
+3번 : ~ihduser/.bash_history
+4번 : ~ihduser/.bash_profile
+정답 : 4
+해설 : *SHELL 마다 각기 다른 HISTFILE이 지정되는데, Redhat Linux 계열에서 Default SHELL은 BASH 이며 HISTFILE은 ~/.bash_history*로그인한 순간부터의 입력한 커맨드는 버퍼에 기록되며, 로그아웃시 버퍼에 기록된 history는 ~/.bash_history 파일에 추가 기록됨<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>

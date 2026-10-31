@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2012-12-10
+과목 : 2
+문제번호 : 77
+문제지문 : 다음 중 ( 괄호 )안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image21>
+1번 : (ㄱ) Beowulf - (ㄴ) HA(High Availability)
+2번 : (ㄱ) HA(High Availability) - (ㄴ) Beowulf
+3번 : (ㄱ) RAID - (ㄴ) LVM
+4번 : (ㄱ) LVM - (ㄴ) RAID
+정답 : 1
+해설 : 

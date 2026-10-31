@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-06-11
+과목 : 1
+문제번호 : 41
+문제지문 : 다음 중 yum을 이용하여 “Development Tools" 그룹을 설치하기위한 방법으로 알맞은 것은?
+사진 : 
+1번 : yum install -group "Development Tools"
+2번 : yum groupinstall "Development Tools"
+3번 : yum install "Development Tools"
+4번 : yum -g install "Development Tools"
+정답 : 2
+해설 : 

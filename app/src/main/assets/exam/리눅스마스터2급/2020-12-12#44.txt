@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-12-12
+과목 : 1
+문제번호 : 44
+문제지문 : 다음 ( 괄호 ) 안에 들어갈 명령으로 알맞은 것은?
+사진 : <!PICTURE@image17>
+1번 : xcam
+2번 : scanadf
+3번 : scanimage
+4번 : sane-find-scanner
+정답 : 4
+해설 : 뜻 : 화면 크기를 100mm x 100mm로 스캔 후 image.tiff 파일로 저장한다<#nbsp;>[해설작성자 : 거북희]<#nbsp;><#nbsp;>xcam : GUL기반으로 평판 스캐너나 카메라로부터 이미지를 스캔해주는 명령어scanadf : 여러개의 사진을 스캔할때 사용하는 명령어scanimage : 이미지를 스캔하는 명령어scane-find-scanner : USB 및 SCSI 스캐너와 관련 장치파일을 찾아주는 명령어<#nbsp;>[해설작성자 : 리눅스 어렵다]<#nbsp;><#nbsp;>

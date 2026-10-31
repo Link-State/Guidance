@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-03-16
+과목 : 1
+문제번호 : 2
+문제지문 : 다음 중 ext4 파일시스템을 생성하는 명령으로 알맞은 것은?
+사진 : 
+1번 : mke2fs /dev/sdb1
+2번 : mke2fs -j /dev/sdb1
+3번 : mke2fs -t ext4 /dev/sdb1
+4번 : mke2fs -j ext4 /dev/sdb1
+정답 : 4
+해설 : -j는 무조건 ext3생성<#nbsp;>[해설작성자 : 은서아빠]<#nbsp;><#nbsp;>

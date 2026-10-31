@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2015-09-12
+과목 : 2
+문제번호 : 60
+문제지문 : 다음에서 설명하는 내용과 관련 있는 방식으로 알맞은 것은?
+사진 : <!PICTURE@image19>
+1번 : ATM
+2번 : Ethernet
+3번 : FDDI
+4번 : Token Ring
+정답 : 2
+해설 : CSMA/CD      나오면 EthernetCSMA/CD + 링 나오면 Token Ring<#nbsp;>[해설작성자 : 귤까주는여자]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2017-12-02
+과목 : 1
+문제번호 : 19
+문제지문 : 다음 중 ( 괄호 )안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image10>
+1번 : ㉠ : fork, ㉡ : exec
+2번 : ㉠ : exec, ㉡ : fork
+3번 : ㉠ : background, ㉡ : foreground
+4번 : ㉠ : foreground, ㉡ : background
+정답 : 1
+해설 : 둘다 호출 방법이고 fork는 불러오기 exec는 덮어쓰기 입니다<#nbsp;>[해설작성자 : 해커 지망생]<#nbsp;><#nbsp;>

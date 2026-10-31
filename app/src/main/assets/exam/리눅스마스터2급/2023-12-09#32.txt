@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-12-09
+과목 : 1
+문제번호 : 32
+문제지문 : 다음 중 (괄호) 안에 들어갈 명령의 결과로 알맞은 것은?
+사진 : <!PICTURE@image12>
+1번 : 아무것도 출력되지 않는다.
+2번 : $user
+3번 : ihduser
+4번 : kaitman
+정답 : 8
+해설 : [ihduser@ihd ~]$ user=kaitmanuser=kaitman 명령은 user 변수에 kaitman 입력[ihduser@ihd ~]$ echo "$user"echo "$user" 명령은 user 변수 값 출력괄호 의 명령어는 whoami로현재 사용자의 이름을 출력함명령의 결과로 user 변수값인 kaitman이 출력됨<#nbsp;>[해설작성자 : 젤리킹]<#nbsp;><#nbsp;>한번에 정리 합니다.1. 큰따옴표는 있으나 없으나 차이 없습니다..큰따옴표는 무시2. 작은따옴표는 작은따옴표 안의 문자가 그대로 출력됩니다.3. USER와 같이 환경변수는 앞에 $붙이면 사용자 이름이 출력됩니다.예를 들어서1. echo user => user 출력2. echo 'user' => user 출력3. echo "user' => user 출력4. echo USER => USER 출력5. echo 'USER' => USER 출력6. echo "USER" => USER 출력7. echo $user => kaitman 출력8. echo "$user" => kaitman 출력9. echo '$user' => $user 출력10. echo $USER => ihduser 출력11. echo "$USER" => ihduser 출력12. echo '$USER' => $USER 출력

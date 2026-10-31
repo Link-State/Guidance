@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-09-13
+과목 : 1
+문제번호 : 20
+문제지문 : 다음의 조건으로 crontab 등록할 때 알맞은 것은?
+사진 : <!PICTURE@image4>
+1번 : 0 4 1,3,5 * * /home/ihd/backup.sh
+2번 : 4 0 * * 1,3,5 /home/ihd/backup.sh
+3번 : 0 4 * * 1,3,5 /home/ihd/backup.sh
+4번 : 0 4 1,3,3 * * /home/ihd/backup.sh
+정답 : 4
+해설 : 

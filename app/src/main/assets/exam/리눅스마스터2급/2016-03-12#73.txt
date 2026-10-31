@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-03-12
+과목 : 2
+문제번호 : 73
+문제지문 : 다음 설명에 해당하는 파일로 알맞은 것은?
+사진 : <!PICTURE@image21>
+1번 : /etc/host.conf
+2번 : /etc/resolv.conf
+3번 : /etc/services
+4번 : /etc/sysconfig/network
+정답 : 2
+해설 : 

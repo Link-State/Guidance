@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-12-12
+과목 : 2
+문제번호 : 72
+문제지문 : 다음 설명에 해당하는 netstat 명령의 상태값(state)으로 알맞은 것은?
+사진 : <!PICTURE@image26>
+1번 : LISTEN
+2번 : SYN_RECEIVED
+3번 : SYS-SENT
+4번 : ESTABLISHED
+정답 : 1
+해설 : - LISTEN: 서버에서 클라이언트로부터 들어오는 패킷을 위해 소켓을 열고 기다리는 상태- SYS-SENT: 로컬에서 원격으로 연결요청(SYN 신호를 보냄)을 시도한 상태- ESTABLISHED: 3-way handshaking이 완료된 후 서버와 클라이언트가 서로 연결된 상태- SYN_RECEIVED: 원격지로부터 접속을 요구 받아 응답 했지만 아직 클라이언트에게 확인되지 않은 상태<#nbsp;>[해설작성자 : 해설이 없어서 찾았습니다.]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2012-09-10
+과목 : 2
+문제번호 : 76
+문제지문 : 레드햇 계열의 리눅스 시스템에서 부팅시 첫 번째 이더넷 카드에 할당되는 IP주소를 확인 할 수 있는 파일로 알맞은 것은?
+사진 : 
+1번 : /etc/ifcfg-eth0
+2번 : /etc/sysconfig/ifcfg-eth0
+3번 : /etc/sysconfig/network-scripts/ifcfg-eth0
+4번 : /etc/sysconfig/networking/ifcfg-eth0
+정답 : 4
+해설 : 

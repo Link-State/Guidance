@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-10-10
+과목 : 2
+문제번호 : 76
+문제지문 : 다음 중 네임서버가 기록되어 있는 파일로 알맞은 것은?
+사진 : 
+1번 : /etc/hosts
+2번 : /etc/resolv.conf
+3번 : /etc/sysconfig/network
+4번 : /etc/sysconfig/network-scripts
+정답 : 2
+해설 : 레드햇 계열에서 IPV4, IPV6 사용 여부와 호스트명! 게이트웨이를 나타냄<#nbsp;>[해설작성자 : 펜탈]<#nbsp;><#nbsp;>

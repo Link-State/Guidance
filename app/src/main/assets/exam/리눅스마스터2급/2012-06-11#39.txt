@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2012-06-11
+과목 : 1
+문제번호 : 39
+문제지문 : MSDOS의 PKZIP과 호환되고 Unix, Windows NT, Minix, Mac에서 사용되는 아카이브(archive)압축 유틸리티로 알맞은 것은?
+사진 : 
+1번 : zip
+2번 : gzip
+3번 : tar
+4번 : gunzip
+정답 : 1
+해설 : 

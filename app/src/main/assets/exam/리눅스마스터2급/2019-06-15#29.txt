@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-06-15
+과목 : 1
+문제번호 : 29
+문제지문 : 다음 중 특징에 따른 에디터의 종류로 알맞은 것은?
+사진 : 
+1번 : 문법 강조 기능 - vim, pico
+2번 : GUI 기반 에디터 - vi, gedit
+3번 : 자동 들여쓰기 기능 - nano, vi
+4번 : GPL 라이선스 - pico, nano
+정답 : 4
+해설 : 1. 문법 강조 기능 - Vim/Vi (pico는 x)2. GUI 기반 에디터 - gedit (vi는 텍스트 편집기)3. 자동 들여쓰기 기능 - nano, vi4. GPL 라이선스 - pico(Apache 라이선스), nano<#nbsp;>[해설작성자 : asdf1234]<#nbsp;><#nbsp;>vi: 자동 들여쓰기(autoindent) 설정 가능nano: -i 옵션으로 자동 들여쓰기 지원nano: GPL 라이선스(자유 소프트웨어)pico: BSD계열 라이선스<#nbsp;>[해설작성자 : 빵돌2]<#nbsp;><#nbsp;>

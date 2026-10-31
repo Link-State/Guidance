@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-12-11
+과목 : 1
+문제번호 : 5
+문제지문 : 다음 설명에 해당하는 용어로 알맞은 것은?
+사진 : <!PICTURE@image3>
+1번 : OSS
+2번 : ALSA
+3번 : SANE
+4번 : CUPS
+정답 : 2
+해설 : OSS는 Open Sound System이라 1번이라고 생각할수도 있지만,ALSA는 Advanced Linux Sound Architecture로써사운드 카드에 가장 큰 관련이 있습니다.alsactl이라는 명령어로 사운드 카드를 컨트롤합니다.<#nbsp;>[해설작성자 : 21년6월시험합격자]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-12-08
+과목 : 1
+문제번호 : 16
+문제지문 : 다음 중 가장 먼저 개발된 셸(Shell)로 알맞은 것은?
+사진 : 
+1번 : C shell
+2번 : Bash Shell
+3번 : Korn Shell
+4번 : Bourne Shell
+정답 : 8
+해설 : 4. Bourne Shell  개발연도: 1977년1. C Shell       개발연도: 1978년3. Korn Shell    개발연도: 1983년2. Bash Shell    개발연도: 1989년그러므로 답은 4번<#nbsp;>[해설작성자 : 11011]<#nbsp;><#nbsp;>

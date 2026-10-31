@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-06-13
+과목 : 1
+문제번호 : 27
+문제지문 : 다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image15>
+1번 : ㉠ Foreground ㉡ Bandground
+2번 : ㉠ Foreground ㉡ Background
+3번 : ㉠ Background ㉡ Foreground
+4번 : ㉠ Bandground ㉡ Foreground
+정답 : 2
+해설 : 해당 작업이 끝날 때 까지 기다림 - Foreground다중 작업을 하면서 해당 작업이 끝나면 미완된 다른 작업으로 넘어감 - Background※ 키워드는 끝날 때 까지 기다리나(Foreground), 다중 작업(Background)인가 입니다! 이거 알면 되게 알기 편해요!<#nbsp;>[해설작성자 : 삼공귀요미문유진]<#nbsp;><#nbsp;>

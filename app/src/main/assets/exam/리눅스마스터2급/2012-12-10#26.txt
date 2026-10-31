@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2012-12-10
+과목 : 1
+문제번호 : 26
+문제지문 : 월요일부터 금요일까지 점심시간을 알려주기 위해 오전 11시 50분에 “Have a good lunch!"라는 메시지를 시스템에 접속한 사용자에게 전하려 한다. crontab 설정으로 알맞은 것은?
+사진 : 
+1번 : 50 11 1-5 * * /usr/bin/wall "Have a good lunch!"
+2번 : 11 50 1-5 * * /usr/bin/wall "Have a good lunch!"
+3번 : 50 11 * * 1-5 /usr/bin/wall "Have a good lunch!"
+4번 : 11 50 * * 1-5 /usr/bin/wall "Have a good lunch!"
+정답 : 4
+해설 : 

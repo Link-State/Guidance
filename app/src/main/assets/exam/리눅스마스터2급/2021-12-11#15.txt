@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-12-11
+과목 : 1
+문제번호 : 15
+문제지문 : 다음 설명에 해당하는 vi 편집기의 환경 설정 값으로 알맞은 것은?
+사진 : <!PICTURE@image7>
+1번 : set no
+2번 : set nu
+3번 : set ai
+4번 : set list
+정답 : 2
+해설 : set nu = se nuset number과 같습니다,set nonu = se nonuset nonumber과 같습니다.번호가 나타나도록 설정하는 것은 set nu ; 2번입니다.<#nbsp;>[해설작성자 : 21년6월시험합격자]<#nbsp;><#nbsp;>

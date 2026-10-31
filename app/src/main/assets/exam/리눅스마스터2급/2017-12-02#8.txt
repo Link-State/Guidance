@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2017-12-02
+과목 : 1
+문제번호 : 8
+문제지문 : 다음과 같은 경우 마운트하는 명령으로 알맞은 것은?
+사진 : <!PICTURE@image6>
+1번 : mount /backup -t ext4 /dev/sdb1
+2번 : mount /backup -T ext4 /dev/sdb1
+3번 : mount -t ext4 /dev/sdb1 /backup
+4번 : mount -T ext4 /dev/sdb1 /backup
+정답 : 4
+해설 : mount [-t 파일시스템 유형][-o 옵션][장치 이름][마운트 포인트]<#nbsp;>[해설작성자 : 히힛]<#nbsp;><#nbsp;>

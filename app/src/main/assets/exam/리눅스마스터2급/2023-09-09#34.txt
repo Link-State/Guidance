@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-09-09
+과목 : 1
+문제번호 : 34
+문제지문 : 다음 중 vi 편집기에서 행 번호가 표시되도록 하는 ex 모드 환경설정으로 알맞은 것은?
+사진 : 
+1번 : set no
+2번 : set ai
+3번 : set sm
+4번 : set number
+정답 : 8
+해설 : set nonu : set nu 기능 offset ai : 자동 들여쓰기set sm : 괄호 입력시 자동으로 대응되는 괄호 표시set number : 행 번호 표시<#nbsp;>[해설작성자 : 이게 맞나?!]<#nbsp;><#nbsp;>set number / set nu : 행 번호 표시set nonumber / set nonu : 행 번호 제거<#nbsp;>[해설작성자 : 구글]<#nbsp;><#nbsp;>

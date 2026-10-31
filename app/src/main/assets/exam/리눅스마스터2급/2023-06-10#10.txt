@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-06-10
+과목 : 1
+문제번호 : 10
+문제지문 : 다음 중 /etc/fstab 파일에서 마운트될 때의 옵션을 지정하는 필드는 몇 번째인가?
+사진 : 
+1번 : 1
+2번 : 2
+3번 : 3
+4번 : 4
+정답 : 8
+해설 : <file system> <mount point> <type> <options> <dump> <pass>순서는 위와 같기 때문에 4번째 입니다.<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>예문># <file system>                          <mount point>  <type>  <options>           <dump>  <pass>UUID=5f96cafa-e0a7-4011-89f7-9e4abc1b639d /              ext4    errors=remount-ro   0       1UUID=BB68-2F59                            /boot/efi      vfat    umask=0077          0       1UUID=3e6be9de-8139-11d0-93E4-4A83EC2A9B25 none           swap    sw                  0       0/dev/sdb1                                 /mnt/data      ext4    defaults            0       2<#nbsp;>[해설작성자 : 빠대비]<#nbsp;><#nbsp;>

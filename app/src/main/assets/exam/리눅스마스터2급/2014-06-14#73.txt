@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-06-14
+과목 : 2
+문제번호 : 73
+문제지문 : 다음 상황과 가장 관계가 깊은 netstat 명령의 State값으로 알맞은 것은?
+사진 : <!PICTURE@image18>
+1번 : SYS-SENT
+2번 : ESTABLISHED
+3번 : SYN_RECEIVED
+4번 : CLOSED
+정답 : 4
+해설 : 

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2011-09-03
+과목 : 2
+문제번호 : 75
+문제지문 : 다음의 네트워크 설정파일과 명령어를 통해서 공통적으로 변경되는 것은?
+사진 : <!PICTURE@image16>
+1번 : Network Address
+2번 : IP Address
+3번 : Gateway Address
+4번 : DNS Address
+정답 : 4
+해설 : 

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-09-03
+과목 : 1
+문제번호 : 14
+문제지문 : 다음 중 의존성이 있는 httpd 패키지를 강제로 제거하는 명령으로 알맞은 것은?
+사진 : 
+1번 : rpm -r httpd --force
+2번 : rpm -r httpd --nodeps
+3번 : rpm -e httpd --force
+4번 : rpm -e httpd --nodeps
+정답 : 8
+해설 : -r: 최상위 디렉토리 지정(=root)-e: 패키지 제거(=erase)--nodeps: 의존성 관계 무시하고 설치/제거--force: 기존에 패키지 설치 여부 관계없이 강제로 설치/제거(--replacepkgs, --replacefiles, --oldpackage 모두 합친 것)<#nbsp;>[해설작성자 : 벼락치기 중]<#nbsp;><#nbsp;>

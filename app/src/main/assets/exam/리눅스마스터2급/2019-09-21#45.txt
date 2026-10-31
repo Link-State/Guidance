@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-09-21
+과목 : 1
+문제번호 : 45
+문제지문 : 다음 중 프린팅 시스템인 CUPS의 데몬 환경 설정 파일로 알맞은 것은?
+사진 : 
+1번 : /etc/cups/cupsd
+2번 : /etc/cups/cupsd.conf
+3번 : /etc/cups/classes.conf
+4번 : /etc/sups/printers.conf
+정답 : 2
+해설 : CUPS 설정 디렉터리는 /etc/cups/etc/cups/cupsd.conf : 프린터 데몬 환경 설정 파일/etc/cups/printers.conf : 프린터 큐 관련 황경 설정 파일/etc/cups/classes.conf : cups 프린터 데몬의 클래스 설정 파일cupsd : cups의 프린터 데몬<#nbsp;>[해설작성자 : 찾아보고 붙인 해석입니다.]<#nbsp;><#nbsp;>

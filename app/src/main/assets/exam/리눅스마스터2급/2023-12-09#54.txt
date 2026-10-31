@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-12-09
+과목 : 2
+문제번호 : 54
+문제지문 : 다음 설명에 해당하는 파일명으로 알맞은 것은?
+사진 : <!PICTURE@image26>
+1번 : /etc/hosts
+2번 : /etc/resolv.conf
+3번 : /etc/sysconfig/network
+4번 : /etc/sysconfig/network-scripts
+정답 : 2
+해설 : Linux에서의 호스트 파일 수정:터미널을 열고 다음 명령어를 입력하여 편집기로 호스트 파일을 엽니다:bashCopy codesudo nano /etc/hosts(또는 sudo vi /etc/hosts 또는 sudo gedit /etc/hosts 등을 사용할 수 있습니다.)파일의 맨 끝에 다음 라인을 추가합니다:Copy code127.0.0.1       kait.ihd.or.kr저장하려면 Ctrl + X를 누르고 Y를 누르고 Enter를 누릅니다.이제 kait를 호출하면 시스템은 kait.ihd.or.kr로 연결하려고 시도할 것입니다..이것은 로컬 시스템에서만 작동하며, 외부에서는 이 설정이 적용되지 않습니다..또한, 변경 내용이 즉시 적용되지 않을 수 있으므로 브라우저를 다시 시작하거나 DNS 캐시를 지워야 할 수 있습니다.<#nbsp;>[해설작성자 : max]<#nbsp;><#nbsp;>/etc/hosts 이 파일은 DNS에 쿼리를 보내기 전 해당 파일에서 먼저 도메인을 탐색할 수 있도록 합니다.IP와 도메인을 1:1로 메핑합니다./etc/resolv.conf 이 파일은 DNS에 보낼 도메인 쿼리를 단축하여 지정할 수 있습니다.따라서 해당 파일이 정답입니다.<#nbsp;>[해설작성자 : 빠대비]<#nbsp;><#nbsp;>/etc/hosts 파일은 도메인 이름과 IP 주소를 매핑하는 파일입니다..이 파일에 특정 도메인을 단축 이름으로 설정할 수 있습니다..예를 들어, kait를 입력했을 때 kait.ihd.or.kr로 자동으로 연결되도록 할 수 있습니다./etc/resolv.conf 파일은 DNS 서버를 설정하는 파일로, 도메인 이름을 IP 주소로 변환하는 DNS 서버의 정보를 제공합니다..이 파일에서는 도메인을 단축하는 설정은 할 수 없습니다./etc/hosts에 [ 127.0.0.1   kait.ihd.or.kr ]이렇게 설정하면 kait를 입력했을 때 kait.ihd.or.kr로 자동으로 연결됩니다.

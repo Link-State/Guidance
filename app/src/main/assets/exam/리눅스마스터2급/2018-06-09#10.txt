@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-06-09
+과목 : 1
+문제번호 : 10
+문제지문 : 다음 중 fsck 명령 실행 시에 발생한 오류 파일들이 위치하는 디렉터리로 알맞은 것은?
+사진 : 
+1번 : /sys
+2번 : /tmp
+3번 : /cgroup
+4번 : /lost+found
+정답 : 8
+해설 : /                 루트 디렉토리/boot  BOOT       부트 이미지 디렉토리/bin  BINaries    사용자 명령어 디렉토리/dev  DEVice      장치 파일 디렉토리/etc  ETCetera    시스템 환경 설정 디렉토리/home  HOME       사용자 홈 디렉토리/lib  LIBraries   공유 라이브러리 및 커널 모듈 디렉토리/lost+found  LOST+FOUND  파일 시스템 복구를 위한 fsck의 링크 디렉토리/misc  MISCellaneous  아키텍처 독립 자료 디렉토리/mnt  MouNT  마운트 포인트 디렉토리/opt  OPeraTion  애드온(Add-on) 소프트웨어 패키지 디렉토리/proc  PROCess  커널과 프로세스를 위한 가상 파일 시스템 디렉토리/root  ROOT  루트 사용자 홈 디렉토리/sbin  System BINaries  시스템 명령어 디렉토리/tmp  TeMPorary  임시 작업 디렉토리/usr  USeR  공유 파일 시스템 디렉토리/var  VARiable data  가변 자료 디렉토리<#nbsp;>[해설작성자 : hotchoco]<#nbsp;><#nbsp;>

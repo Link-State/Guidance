@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-06-15
+과목 : 1
+문제번호 : 15
+문제지문 : 다음 ( 괄호 ) 안에 들어갈 파일명으로 알맞은 것은?
+사진 : <!PICTURE@image3>
+1번 : /etc/profile
+2번 : /etc/bashrc
+3번 : /etc/chsh
+4번 : /etc/shells
+정답 : 8
+해설 : 셸 목록을 확인 방법은 /etc/shells파일 확인cat /etc/shells 입력하면 아래 내용 확인 가능하다..<#nbsp;>[해설작성자 : DS]<#nbsp;><#nbsp;>

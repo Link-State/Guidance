@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2011-12-10
+과목 : 1
+문제번호 : 4
+문제지문 : 다음 두 번의 ls -l 명령의 결과 cache.txt 파일이 마지막 줄과 같이 변경되었을 경우 ( 괄호 )에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image2>
+1번 : chgrp nurse cache.txt
+2번 : umask nurse cache.txt
+3번 : chown nurse cache.txt
+4번 : chmod nurse cache.txt
+정답 : 1
+해설 : 

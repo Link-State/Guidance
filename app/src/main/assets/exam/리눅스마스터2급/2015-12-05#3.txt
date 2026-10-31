@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2015-12-05
+과목 : 1
+문제번호 : 3
+문제지문 : 다음 중 심볼릭 링크(Symbolic Link) 파일의 그룹 소유권을 변경하기 위한 명령으로 알맞은 것은?
+사진 : 
+1번 : chmod -R 755 nanuminfo
+2번 : chown -R root nanuminfo
+3번 : chmod -h 755 nanuminfo
+4번 : chgrp -h root nanuminfo
+정답 : 8
+해설 : 

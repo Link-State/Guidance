@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-12-12
+과목 : 1
+문제번호 : 36
+문제지문 : 다음 (괄호) 안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image14>
+1번 : ㉠ deb ㉡ library
+2번 : ㉠ rpm ㉡ repository
+3번 : ㉠ rpm ㉡ library
+4번 : ㉠ deb ㉡ repository
+정답 : 2
+해설 : deb은 데비안 계열의 파일 형태이다.dpkg를 이용해 설치를 한다.repository는 저장소 이다.<#nbsp;>[해설작성자 : 행복히오스]<#nbsp;><#nbsp;>

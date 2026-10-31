@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-03-11
+과목 : 2
+문제번호 : 51
+문제지문 : 다음 중 윈도 매니저의 종류로 틀린 것은?
+사진 : 
+1번 : Afterstep
+2번 : Enlightenment
+3번 : Xfwm
+4번 : Xfce
+정답 : 8
+해설 : xfwm은 Xfce(리눅스 GUI환경)를 위한 윈도우 매니저이다.<#nbsp;>[해설작성자 : 견뎌어]<#nbsp;><#nbsp;>Xfce는 리눅스와 Unix-like OS들을 위한 GUI환경이다GTK 기초이나 GNOME fork는 아님.출처 - 위키<#nbsp;>[해설작성자 : 견뎌어]<#nbsp;><#nbsp;>Xfce는 경령화된 데스크탑 환경으로 자체 윈도 매니저인 Xfwm을 사용함.<#nbsp;>[해설작성자 : 찰떡]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2010-06-12
+과목 : 1
+문제번호 : 17
+문제지문 : 다음crontab 파일의 내용에 대한 설명으로 알맞은 것은?
+사진 : <!PICTURE@image2>
+1번 : 화요일 새벽 0시에 /etc/passwd의 내용을 hacker@northkorea.org로 보낸다
+2번 : 화요일 새벽 1시에 /etc/passwd의 내용을 hacker@northkorea.org로 보낸다
+3번 : 수요일 새벽 1시에 /etc/passwd의 내용을 hacker@northkorea.org로 보낸다
+4번 : 월요일 새벽 2시에 /etc/passwd의 내용을 hacker@northkorea.org로 보낸다
+정답 : 8
+해설 : 

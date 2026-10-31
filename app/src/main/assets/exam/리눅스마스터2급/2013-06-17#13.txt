@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2013-06-17
+과목 : 1
+문제번호 : 13
+문제지문 : 다음 중 Bash에서 사용되는 유용한 키에 대한 설명이다. 아래의 보기 (ⓐ)-(ⓑ)-(ⓒ)에 들어 갈 키가 순서대로 나열한 것으로 알맞은 것은?
+사진 : <!PICTURE@image3>
+1번 : Ctrl-Z , Ctrl-C, Ctrl-U
+2번 : Ctrl-C , Ctrl-U, Ctrl-Z
+3번 : Ctrl-U , Ctrl-Z, Ctrl-C
+4번 : Ctrl-U , Ctrl-C, Ctrl-Z
+정답 : 8
+해설 : 

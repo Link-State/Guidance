@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-09-03
+과목 : 1
+문제번호 : 3
+문제지문 : 다음 설명에 해당하는 LVM 관련 용어로 알맞은 것은?
+사진 : <!PICTURE@image2>
+1번 : 볼륨 그룹(VG)
+2번 : 논리적 볼륨(LV)
+3번 : 물리적 볼륨(PV)
+4번 : 물리적 확장(PE)
+정답 : 2
+해설 : LVM Logical Volume Manager : Logical Volume을 효율적이고 유연하게 관리하기 위한 커널. 가상의 블록장치 생성PV : Physical Volume : LVM에서 블록장치를 사용하려면 PV로 초기화해야함. 블록장치 파티션들을 LVM에서 사용할 수 있게 변환PE : Physical Extent : PV를 구성하는 일정한 크기의 블록. LV의 LE와 1:1로 대응. 각각의 PV는 동일한 PE로 구성됨VG : Volume Group : PV들의 집합으로 LV를 할당할 수 있는 공간. PV로 초기화된 장치 -> VG로 통합LV : Logical Volume : 사용자가 최종적으로 다루게 되는 논리 스토리지.<#nbsp;>[해설작성자 : doomguy86]<#nbsp;><#nbsp;>물리적인 볼륨(PV) (하드)를 하나로 모아 블록단위로 쪼갠것이 (PE),이 블록들의 집합이 VG.집합에서 필요량 만큼 "할당"받아 만드는 것이 논리적볼륨(LV)<#nbsp;>[해설작성자 : 파이팅]<#nbsp;><#nbsp;>

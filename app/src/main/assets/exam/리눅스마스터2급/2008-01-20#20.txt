@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2008-01-20
+과목 : 1
+문제번호 : 20
+문제지문 : 다음의 crontab 파일의 내용에 대한 설명으로 알맞은 것은?
+사진 : <!PICTURE@image1>
+1번 : 9월 11일 8시 10분에 echo Happy Birthday를 실행한다.
+2번 : 9시 11분, 8시 10분에 echo Happy Birthday를 실행한다.
+3번 : 10월 8일 오전 11시 9분 에 echo Happy Birthday를 실행한다.
+4번 : 9월 11일, 8월 10일에 echo Happy Birthday를 실행한다.
+정답 : 4
+해설 : 

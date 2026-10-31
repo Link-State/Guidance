@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-09-10
+과목 : 2
+문제번호 : 56
+문제지문 : 다음 중 LibreOffice에서 프리젠테이션 프로그램으로 알맞은 것은?
+사진 : 
+1번 : LibreOffice Impress
+2번 : LibreOffice Draw
+3번 : LibreOffice Calc
+4번 : LibreOffice Writer
+정답 : 1
+해설 : 1.프리젠테이션(파워포인트)2.벡터이미지 그리는프로그램3.스프레드시트(엑셀)4.워드<#nbsp;>[해설작성자 : 길가던분]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2015-12-05
+과목 : 1
+문제번호 : 40
+문제지문 : 다음 중 yum 명령으로 play라는 문자열이 포함된 패키지를 찾으려고 할 때 알맞은 것은?
+사진 : 
+1번 : yum info play
+2번 : yum list play
+3번 : yum search play
+4번 : yum find play
+정답 : 4
+해설 : 

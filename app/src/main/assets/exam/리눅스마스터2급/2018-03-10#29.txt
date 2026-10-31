@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-03-10
+과목 : 1
+문제번호 : 29
+문제지문 : 다음 중 vi 편집기를 사용해 ihd.html 파일의 행 번호를 표시하는 방법으로 틀린 것은?
+사진 : 
+1번 : vi + ihd.html
+2번 : vi -c “set nu” ihd.html
+3번 : vi ihd.html 명령 수행 후, vi ex 명령모드에서 “:set nu” 입력
+4번 : vi ihd.html 명령 수행 후, vi ex 명령모드에서 “:set number” 입력
+정답 : 1
+해설 : 

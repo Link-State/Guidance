@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-09-21
+과목 : 2
+문제번호 : 56
+문제지문 : 다음 그림에 해당하는 프로그램으로 알맞은 것은?
+사진 : <!PICTURE@image22>
+1번 : LibreOffice Calc
+2번 : LibreOffice Draw
+3번 : LibreOffice Writer
+4번 : LibreOffice Impress
+정답 : 8
+해설 : 1. LibreOffice Calc : 엑셀2. LibreOffice Draw : 간단한 스케치에서부터 복잡한 계획도까지 다양한 그림과 도형, 다이어그램을 그릴 수 있는 프로그램3. LibreOffice Writer : 워드, 한글4. LibreOffice Impress : 파워포인트<#nbsp;>[해설작성자 : 세컴고김주형]<#nbsp;><#nbsp;>

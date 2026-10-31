@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-06-10
+과목 : 2
+문제번호 : 56
+문제지문 : 다음 중 동영상을 재생할 때 사용하는 프로그램으로 가장 알맞은 것은?
+사진 : 
+1번 : Totem
+2번 : Evince
+3번 : Eog
+4번 : Gimp
+정답 : 1
+해설 : 1. Totem : GNOME 환경의 기본 동영상 플레이어2. Evince : GNOME을 위해 설계된 문서 뷰어. PDF, Postscript 등.3. Eog(Eye of GNOME) : GNOME 환경의 기본 이미지 뷰어.4. Gimp(GNU Image Manipulation Program) : GNU에 의해 개발된 강력한 오픈 소스 이미지 편집 툴.<#nbsp;>[해설작성자 : 빠대비]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2017-12-02
+과목 : 1
+문제번호 : 20
+문제지문 : 다음 중 [CTRL] + [z] 입력 시에 전송되는 시그널로 알맞은 것은?
+사진 : 
+1번 : SIGHUP
+2번 : SIGOUT
+3번 : SIGKILL
+4번 : SIGTSTP
+정답 : 8
+해설 : 프로세스 일시 중단 (CTRL + z) => SIGSTOP<#nbsp;>[해설작성자 : 문제오류인듯?]<#nbsp;><#nbsp;>SIGTSTP(TSTP)다시 실행하기위해 대기시키는 시그널 CTRL+Z시 발생된다[추가 해설][CTRL]+[z] -> SIGTSTP(20)    SIGSTOP(19)<#nbsp;>[해설작성자 : 노리마]<#nbsp;><#nbsp;>

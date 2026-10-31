@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-09-03
+과목 : 2
+문제번호 : 79
+문제지문 : 다음 중 시스템 시작 시 콘솔 기반의 텍스트 모드로 부팅이 되도록 설정하는 명령으로 알맞은 것은?
+사진 : 
+1번 : systemctl set - default multi - user.service
+2번 : systemctl set - default multi - user.target
+3번 : systemctl get - default multi - user.service
+4번 : systemctl get - default multi - user.target
+정답 : 2
+해설 : CLI : systemctl set-default multi-user.target.GUI : systemctl set-default graphical.target<#nbsp;>[해설작성자 : 빠대비]<#nbsp;><#nbsp;>get-default는 설정내용을 확인할때 사용하는 명령어입니다.GUI부팅은 systemctl set_default graphical.target이 맞습니다.

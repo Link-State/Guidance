@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2009-06-07
+과목 : 1
+문제번호 : 19
+문제지문 : 다음 crontab 파일에 구성된 내용에 대한 설명으로 알맞은 것은?
+사진 : <!PICTURE@image3>
+1번 : 8월 7일 6시 5분에 “System will be shutdown 10 AM, today”를 실행한다.
+2번 : 5월 6일 7시 8분에 “System will be shutdown 10 AM, today”를 실행한다.
+3번 : 매월 8일 7시 6분에 “System will be shutdown 10 AM, today”를 반복적으로 5번 수행 한다.
+4번 : 매월 5일 6시 7분에 “System will be shutdown 10 AM, today”를 반복적으로 8번 수행 한다.
+정답 : 1
+해설 : 

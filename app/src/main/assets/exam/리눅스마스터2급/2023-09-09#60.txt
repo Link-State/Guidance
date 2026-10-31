@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-09-09
+과목 : 2
+문제번호 : 60
+문제지문 : 다음 설명에 해당하는 기술로 알맞은 것은?
+사진 : <!PICTURE@image33>
+1번 : FDDI
+2번 : X.25
+3번 : Frame Relay
+4번 : Cell Relay
+정답 : 1
+해설 : 광'섬유' 케이블을 이용 - FDDI(Fiber'섬유' Distributed Digital Interface)<#nbsp;>[해설작성자 : 5일벼락치기로합격]<#nbsp;><#nbsp;>

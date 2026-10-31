@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-09-13
+과목 : 2
+문제번호 : 78
+문제지문 : 다음에서 설명하는 클러스터 기법으로 알맞은 것은?
+사진 : <!PICTURE@image18>
+1번 : Linux Virtual Server Cluster
+2번 : High Availability Cluster
+3번 : Beowulf Cluster
+4번 : Super Computing Cluster
+정답 : 1
+해설 : 

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-09-11
+과목 : 1
+문제번호 : 9
+문제지문 : 다음 중 compress 명령으로 생성되는 압축 파일명으로 알맞은 것은?
+사진 : 
+1번 : php-8.0.3.tar.Z
+2번 : php-8.0.3.tar.xz
+3번 : php-8.0.3.tar.gz
+4번 : php-8.0.3.tar.bz2
+정답 : 1
+해설 : 1) compress, uncompress (압축명: .Z)2) xz, unxz (압축명: .xz), 옵션 '-d'(압축해제)3) gzip, gunzip (압축명: .gz)4) bzip, bunzip (압축명: .bz2)압축률 순위: gzip < bz2 < xz<#nbsp;>[해설작성자 : 해설보세요]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-09-10
+과목 : 1
+문제번호 : 2
+문제지문 : /root 디렉터리에 존재하는 test.txt 파일에 대해 모든 사용자가 읽기만 가능하도록 설정하기 위한 명령으로 알맞은 것은?
+사진 : <!PICTURE@image2>
+1번 : chmod 111 /root/test.txt
+2번 : chmod 444 /root/test.txt
+3번 : chmod 555 /root/test.txt
+4번 : chmod 666 /root/test.txt
+정답 : 2
+해설 : r : 4 (Read : 읽기) , w : 2 (Write : 쓰기), x : 1 (eXecute : 실행)<#nbsp;>[해설작성자 : Linuxer]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-06-15
+과목 : 1
+문제번호 : 41
+문제지문 : 다음 중 yum 관련 작업 이력을 출력하는 명령으로 알맞은 것은?
+사진 : 
+1번 : yum list
+2번 : yum check
+3번 : yum check-list
+4번 : yum history
+정답 : 8
+해설 : 패키지 관리 프로그램레드햇 = rpm레드햇 계열(Centos) = yum데비안,우분투 계열 = dpkgopen SUSE = yast, zypper<#nbsp;>[해설작성자 : 새콤달콤]<#nbsp;><#nbsp;>

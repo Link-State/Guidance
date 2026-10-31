@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2009-12-07
+과목 : 1
+문제번호 : 25
+문제지문 : 다음 중 /tmp/mystrings 이라는 파일의 끝 부분에 “Add a String”이라는 문자열을 덧붙이는 쉘 명령어로 적당한 것은?
+사진 : 
+1번 : echo "Add a String" >/tmp/mystrings
+2번 : echo "Add a String" </tmp/mystrings
+3번 : echo "Add a String" >>/tmp/mystrings
+4번 : echo "Add a String" <</tmp/mystrings
+정답 : 4
+해설 : 

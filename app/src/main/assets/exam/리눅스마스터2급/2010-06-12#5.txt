@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2010-06-12
+과목 : 1
+문제번호 : 5
+문제지문 : client.c 라는 파일의 소유자를 ihd로 바꾸는 명령으로 알맞은 것은?
+사진 : 
+1번 : chgrp ihd client.c
+2번 : change_soyuja ihd client.c
+3번 : chown ihd client.c
+4번 : chmod ihd client.c
+정답 : 4
+해설 : 

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-06-13
+과목 : 2
+문제번호 : 53
+문제지문 : 다음 중 특정 사용자가 X 윈도를 실행 시 생성되는 키 값이 저장되는 곳으로 알맞은 것은?
+사진 : 
+1번 : $HOME/.Xgrant
+2번 : $HOME/.Xauthority
+3번 : $HOME/.Xpermission
+4번 : $HOME/.Xcertification
+정답 : 2
+해설 : Xauthority특정 사용자가 x윈도우를 실행시키면 $HOME/.Xauthority 라는 파일이 생성됨이 파일에 MIT-MAGIC-COOKIEs라는 키값을 갖고 있음. 그 키값을 가지고 X서버로 접근하여 사용자 인증<#nbsp;>[해설작성자 : 뚠혀니]<#nbsp;><#nbsp;>

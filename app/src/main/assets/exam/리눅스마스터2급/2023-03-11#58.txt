@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-03-11
+과목 : 2
+문제번호 : 58
+문제지문 : 다음 중 VMware에서 생성한 가상 머신의 파일형식으로 알맞은 것은?
+사진 : 
+1번 : VDI
+2번 : VHD
+3번 : VMD
+4번 : VMDK
+정답 : 8
+해설 : .vmdk : 게스트운영체제(Guest OS)에 대한 실질적인 가상 하드 드라이브(Virtual Hard Drive)<#nbsp;>[해설작성자 : 내일시험망했..]<#nbsp;><#nbsp;>4. VMDK (Virtual Machine Disk) : VMware에서 생성한 가상 머신의 파일 형식.그외1. VDI (VirtualBox Disk Image): Oracle VirtualBox 가상화 소프트웨어에서 사용하는 가상 디스크 파일 형식.2. VHD (Virtual Hard Disk): Microsoft의 가상화 소프트웨어에서 주로 사용하는 가상 디스크 파일 형식.3. VMD : Visual Molecular Dynamics의 약자로 추정되나, 가상 머신과는 관련 없음.<#nbsp;>[해설작성자 : 빠대비]<#nbsp;><#nbsp;>

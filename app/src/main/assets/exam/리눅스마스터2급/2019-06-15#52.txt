@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-06-15
+과목 : 2
+문제번호 : 52
+문제지문 : 다음 중 리눅스에서 사용되는 X Window System을 초기부터 최근 순으로 알맞은 것은?
+사진 : 
+1번 : Wayland → X.org Server → XFree86
+2번 : Wayland → XFree86 → X.org Server
+3번 : XFree86 → X.org Server → Wayland
+4번 : X.org Server → XFree86 → Wayland
+정답 : 4
+해설 : XFree86 : 1992년 시작X.org Server : 2005년 시작Wayland : 2010년 시작<#nbsp;>[해설작성자 : 의정부 컴잘알]<#nbsp;><#nbsp;>

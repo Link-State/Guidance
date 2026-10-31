@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-12-06
+과목 : 2
+문제번호 : 72
+문제지문 : 다음 중 ( 괄호 )안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image20>
+1번 : ⓐ HTTP - ⓑ URL - ⓒ HTML
+2번 : ⓐ TCP - ⓑ INTERNET - ⓒ JAVA
+3번 : ⓐ UDP - ⓑ ARP - ⓒ PHP
+4번 : ⓐ SMTP - ⓑ ADDRESS - ⓒ RUBY
+정답 : 1
+해설 : 

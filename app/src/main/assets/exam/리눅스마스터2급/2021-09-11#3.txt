@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-09-11
+과목 : 1
+문제번호 : 3
+문제지문 : 다음 설명에 해당하는 LVM 관련 용어로 알맞은 것은?
+사진 : <!PICTURE@image1>
+1번 : PV
+2번 : VG
+3번 : LV
+4번 : PE
+정답 : 8
+해설 : PV : Physical Volume, 디스크를 LVM에서 사용할 수 있게 변환하는 작업VG : Volume Group, PV가 모여 만들어진 그룹     VG는 다시 LV로 할당할 수 있는 공간이기도 함.PE : Physical Extent, PV에서 나누어 사용하는 블록. 4MB 단위LV : Logical Volume, VG에서 사용자가 필요한 만큼 할당돼서 만들어지는 공간LE : Logical Extent, LV가 나누어진 일정한 크기의 블록. PE와 서로 1:1 대응<#nbsp;>[해설작성자 : 공부중입니다]<#nbsp;><#nbsp;>

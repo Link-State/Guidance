@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2011-09-03
+과목 : 2
+문제번호 : 80
+문제지문 : 다음 중 병렬처리 시스템과 가장 관련이 적은 것은?
+사진 : 
+1번 : MPI(Message Passing Interface)
+2번 : Beowulf Cluster Architecture
+3번 : Embedded Realtime Linux
+4번 : MPP(Massively Parallel Processing)
+정답 : 4
+해설 : 

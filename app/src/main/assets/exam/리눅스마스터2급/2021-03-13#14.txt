@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-03-13
+과목 : 1
+문제번호 : 14
+문제지문 : 다음 설명에 해당하는 파일명으로 가장 알맞은 것은?
+사진 : <!PICTURE@image5>
+1번 : ~/bashrc
+2번 : ~/bash_profile
+3번 : ~/.bashrc
+4번 : ~/.bash_profile
+정답 : 4
+해설 : /ect/profile , /etc/bashrc 는 전역 =모든 가용자에게 공통으로 영향을 줌~/.bash_profile , ~/.bashrc 는 지역 사용자 개개인을 위한 설정이 들어 있음<#nbsp;>[해설작성자 : 이퀭]<#nbsp;><#nbsp;>

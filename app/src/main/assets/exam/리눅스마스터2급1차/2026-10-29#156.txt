@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-29
+과목 : 1
+문제번호 : 156
+문제지문 : DNS 이름 조회와 관련된 명령어는?
+사진 : 
+1번 : nslookup, dig, host
+2번 : tar, gzip, bzip2
+3번 : chmod, chown, chgrp
+4번 : head, tail, wc
+정답 : 1
+해설 : 자료는 nslookup, dig, host를 함께 제시한다.

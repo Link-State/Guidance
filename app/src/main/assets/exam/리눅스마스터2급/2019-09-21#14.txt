@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-09-21
+과목 : 1
+문제번호 : 14
+문제지문 : 다음 명령의 결과에 해당하는 환경변수로 알맞은 것은?
+사진 : <!PICTURE@image5>
+1번 : PWD
+2번 : HOME
+3번 : PATH
+4번 : PS1
+정답 : 4
+해설 : DISPLAY 현재 X 윈도 디스플레이 위치 Ex] export DISPLAY=:3.0HISTFILE history 파일의 위치HISTFILESIZE 실질적인 history 파일의 크기HISTSIZE history에 저장되는 개수HOME 사용자 홈 디렉터리의 절대경로LANG 쉘 사용 시 기본으로 지원되는 언어. (C로 지정 시 영어로 설정)LOGNAME 사용자 계정 이름MAIL 도착한 메일이 저장되는 경로PATH 명령을 탐색할 경로PS1 프롬프트 수정PS2 제2의 프롬프트 (default = ‘ ＞ ’)PWD 현재 디렉터리 절대 경로명TMOUT 일정 시간 작업을 하지 않을 경우에 자동으로 로그아웃되는 시간<#nbsp;>[해설작성자 : 아무도 해석을 달지 않아 달았습니다.]<#nbsp;><#nbsp;>

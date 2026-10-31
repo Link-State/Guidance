@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-12-03
+과목 : 1
+문제번호 : 44
+문제지문 : 다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image23>
+1번 : ㉠ /dev/lp0 ㉡ /dev/lp0/usb
+2번 : ㉠ /dev/lp0 ㉡ /dev/usb/lp0
+3번 : ㉠ /dev/print/lp0 ㉡ /dev/lp0/usb
+4번 : ㉠ /dev/print/lp0 ㉡ /dev/usb/lp0
+정답 : 2
+해설 : 

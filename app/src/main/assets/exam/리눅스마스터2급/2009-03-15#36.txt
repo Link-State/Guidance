@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2009-03-15
+과목 : 1
+문제번호 : 36
+문제지문 : 명령어 “rpm -V sendmail”을 수행하니 화면에 “.......T c /etc/mail/sendmail.cf”가 출력되었다. 이 출력의 의미로 알맞은 것은?
+사진 : 
+1번 : 패키지 설치 후 파일 /etc/mail/sendmail.cf의 모드가 변경되었다.
+2번 : 패키지 설치 후 파일 /etc/mail/sendmail.cf의 최종 변경 시간이 변경되었다.
+3번 : 패키지 설치 후 파일 /etc/mail/sendmail.cf의 크기가 변경되었다.
+4번 : 패키지 설치 후 파일 /etc/mail/sendmail.cf의 MD5 체크섬이 변경되었다.
+정답 : 2
+해설 : 

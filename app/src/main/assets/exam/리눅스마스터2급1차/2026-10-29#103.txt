@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-29
+과목 : 1
+문제번호 : 103
+문제지문 : GNU의 약자는 무엇인가?
+사진 : 
+1번 : General Network Utility
+2번 : Global Node User
+3번 : GNU is Not Unix
+4번 : Graphical New Unix
+정답 : 4
+해설 : 자료는 GNU를 'Gnu is not Unix'로 설명한다.

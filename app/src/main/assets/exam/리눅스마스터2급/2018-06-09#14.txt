@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-06-09
+과목 : 1
+문제번호 : 14
+문제지문 : 다음 중 명령어 출력 결과와 상관있는 변수로 알맞은 것은?
+사진 : <!PICTURE@image8>
+1번 : HISTTIMEFORMAT
+2번 : HISTFILE
+3번 : DISPLAY
+4번 : HISTCHK
+정답 : 1
+해설 : HISTTIMEFORMAT : 명령어를 수행할 때마다 현재시각을 history에 기록HISTFILE : 히스토리 파일의 절대 경로<#nbsp;>[해설작성자 : HP증가량감소]<#nbsp;><#nbsp;>

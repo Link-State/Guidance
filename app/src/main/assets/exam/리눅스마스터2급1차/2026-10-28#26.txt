@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-28
+과목 : 1
+문제번호 : 26
+문제지문 : 다음 명령에 대한 설명으로 가장 적절한 것은?
+사진 : [root@ihdroot]# cat /etc/passwd | grep -v linuxmaster<#nbsp;>
+1번 : /etc/passwd 파일에서 linuxmaster라는 문자열이 포함된 행만 출력한다.
+2번 : /etc/passwd 파일에서 linuxmaster라는 문자열이 포함되지 않은 행만 출력한다.
+3번 : /etc/passwd 파일의 하단에 linuxmaster라는 물자열을 추가한다.
+4번 : /etc/passwd 파일에 linuxmaster라는 계정이 존재하는지 확인한다.
+정답 : 2
+해설 : ① 포함된 행만 출력: grep 설명.<#nbsp;>② 포함되지 않은 행만 출력: grep -v 설명, 맞음.<#nbsp;>③ 파일 하단에 문자열 추가 아님.<#nbsp;>④ 존재 여부 확인용으로 쓸 수는 있지만 결과 설명으로 가장 정확한 건 ②.

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-12-12
+과목 : 2
+문제번호 : 53
+문제지문 : 다음 중 워드 프로세서 프로그램으로 알맞은 것은?
+사진 : 
+1번 : LibreOffice Calc
+2번 : LibreOffice Draw
+3번 : LibreOffice Writer
+4번 : LibreOffice Impress
+정답 : 4
+해설 : LibreOffice Writer는 DT, DOC, DOCX, RTF, XHTML와 같은 다양한 파일 형식을 편집하고 저장할 수 있슴돠<#nbsp;>[해설작성자 : 브라더진]<#nbsp;><#nbsp;>

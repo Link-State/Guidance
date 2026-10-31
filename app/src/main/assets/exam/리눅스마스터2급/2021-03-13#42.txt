@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-03-13
+과목 : 1
+문제번호 : 42
+문제지문 : 다음 중 yum 기반으로 telnet이라는 문자열이 포함된 패키지를 찾는 명령으로 알맞은 것은?
+사진 : 
+1번 : yum search telnet
+2번 : yum search *telnet*
+3번 : yum search ^telnet^
+4번 : yum search ?telnet?
+정답 : 1
+해설 : 사용법- yum remove 패키지명: 지정한 패키지 제거- yum search 문자열: 해당 문자열이 포함된 패키지 검색- yum groupinstall 패키지명: 지정한 패키지 그룹 설치- yum install 패키지명: 의존성을 고려하며 패키지 설치- yum list: 전체 패키지에 대한 정보 출력- yum list update: 업데이트시 필요한 패키지 정보- yum info: 패키지 정보 출력- yum check-update: 업데이트가 가능한 패키지 목록 확인<#nbsp;>[해설작성자 : 다들 화이팅]<#nbsp;><#nbsp;>

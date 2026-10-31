@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-06-14
+과목 : 1
+문제번호 : 38
+문제지문 : 다음 중 rpm 명령어를 사용하여 openssh 패키지가 설치되었는지 확인하는 명령어로 알맞은 것은?
+사진 : 
+1번 : rpm -qa | grep openssh
+2번 : rpm -e | grep openssh
+3번 : rpm -Fvh openssh
+4번 : rpm -ivh | grep openssh
+정답 : 1
+해설 : 

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-10-10
+과목 : 2
+문제번호 : 80
+문제지문 : 다음 설명하는 내용으로 가장 알맞은 것은?
+사진 : <!PICTURE@image30>
+1번 : DSP(Digital Signal Processor)
+2번 : PAM(Parallel Virtual Machine)
+3번 : IoT(Internet of Things)
+4번 : IVI(In-Vehicle Infotainment)
+정답 : 4
+해설 : Internet of Things (사물인터넷)  사물을 인터넷으로 연결하여 정보를 주고받는 기술 및 이러한 기술을 활용한 서비스<#nbsp;>[해설작성자 : 이번주토요일시험]<#nbsp;><#nbsp;>

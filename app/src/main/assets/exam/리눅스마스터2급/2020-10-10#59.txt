@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-10-10
+과목 : 2
+문제번호 : 59
+문제지문 : 다음 설명에 해당하는 netstat 명령의 상태값(state)으로 알맞은 것은?
+사진 : <!PICTURE@image22>
+1번 : LISTEN
+2번 : SYN_RECEIVED
+3번 : ESTABLISHED
+4번 : SYS-SENT
+정답 : 4
+해설 : 전송 계층 프로토콜> TCP(Transmission Control Protocol), UDP (User Datagram Protocol)가 있다..TCP는 연결설정, 데이터전송, 연결해제 상태를 거친다..연결 설정은 3-Way Handshaking 과정을 거치며, 연결 해제는 4-Way Handshaking 과정을 거친다..ESTABLISHED: 클라이언트로부터 관련 요청을 받아 3-Way Handshaking이 완료된 후 서버와 클라이언트가 연결된 상태를 말함<#nbsp;>[해설작성자 : 뚠혀니]<#nbsp;><#nbsp;>

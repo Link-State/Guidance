@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-03-11
+과목 : 1
+문제번호 : 22
+문제지문 : 다음 중 SIGHUP의 시그널 번호로 알맞은 것은?
+사진 : 
+1번 : 1
+2번 : 2
+3번 : 9
+4번 : 15
+정답 : 1
+해설 : 시그널 번호2: sigint ctrl+c 종료9: 강제 종료15: sigterm kill 시스템 호출 정상 종료20: sigtstp 프로세스를 대기로 전환 suspend<#nbsp;>[해설작성자 : dd]<#nbsp;><#nbsp;>1. Sighup : 연결끊기<#nbsp;>[해설작성자 : 제발좀]<#nbsp;><#nbsp;>1: SIGHUP2: SIGINT9: SIGKILL (강제 종료)15: SIGTERM (정상 종료)<#nbsp;>[해설작성자 : dd]<#nbsp;><#nbsp;>

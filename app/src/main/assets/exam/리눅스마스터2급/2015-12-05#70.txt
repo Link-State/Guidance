@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2015-12-05
+과목 : 2
+문제번호 : 70
+문제지문 : 다음 설명일 때 나타나는 netstat 명령의 상태값(State)으로 알맞은 것은?
+사진 : <!PICTURE@image22>
+1번 : LISTEN
+2번 : SYS-SENT
+3번 : ESTABLISHED
+4번 : SYN_RECEIVED
+정답 : 4
+해설 : 

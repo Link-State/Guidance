@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-06-10
+과목 : 2
+문제번호 : 76
+문제지문 : 다음 설명에 해당하는 TCP 프로토콜의 패킷으로 알맞은 것은?
+사진 : <!PICTURE@image38>
+1번 : SYN
+2번 : SYN/ACK
+3번 : RST
+4번 : ACK
+정답 : 1
+해설 : 설명 : 클라이언트에서 서버로 전송하는 최초의 패킷이다..이 패킷을 전송받은 서버는 half-open 상태가 된다..TCP 3 Way Handshake는 TCP/IP프로토콜을 이용해서 통신을 하는 응용프로그램이 데이터를 전송하기 전에 먼저 정확한 전송을 보장하기 위해 상대방 컴퓨터와 사전에 세션을 수립하는 과정Client > Server : TCP SYNServer > Client : TCP SYN ACKClient > Server : TCP ACK<#nbsp;>[해설작성자 : afwsd]<#nbsp;><#nbsp;>클라이언트 -> 서버 -> 클라이언트(SYN -> SYN/ACK -> ACK)1. Client에서 Server에 연결 요청: SYN2. Server에서 데이터(SYN)를 받고, Client에게 잘 받았다고 대답(ACK): SYN/ACK3. Client 서버에 요청을 잘 받았다는 대답(ACK)을 전송: ACK<#nbsp;>[해설작성자 : 찰떡]<#nbsp;><#nbsp;>

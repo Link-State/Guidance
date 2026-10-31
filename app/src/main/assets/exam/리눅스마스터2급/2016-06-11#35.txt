@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-06-11
+과목 : 1
+문제번호 : 35
+문제지문 : 다음 중 RPM 설치 시 강제적으로 설치하는 --force 옵션에 포함되는 옵션들로 알맞은 것은?
+사진 : 
+1번 : replacepkgs, replacefiles, oldpackages
+2번 : replacepkgs, replacefiles, repackage
+3번 : nodeps, replacefiles, oldpackage
+4번 : replacepkgs, replacefiles, relocate
+정답 : 1
+해설 : 

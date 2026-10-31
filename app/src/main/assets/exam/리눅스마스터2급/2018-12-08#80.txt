@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-12-08
+과목 : 2
+문제번호 : 80
+문제지문 : 다음 설명으로 가장 알맞은 것은?
+사진 : <!PICTURE@image31>
+1번 : Docker
+2번 : Big Data
+3번 : Internet of Things
+4번 : Cloud Computing
+정답 : 4
+해설 : 4차산업: IOT(사물인터넷)<#nbsp;>[해설작성자 : 배재우]<#nbsp;><#nbsp;>

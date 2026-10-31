@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2015-12-05
+과목 : 2
+문제번호 : 53
+문제지문 : 다음 중 LibreOffice 패키지에서 스프레드시트(spread sheet) 프로그램으로 알맞은 것은?
+사진 : 
+1번 : LibreOffice Impress
+2번 : LibreOffice Draw
+3번 : LibreOffice Calc
+4번 : LibreOffice Writer
+정답 : 4
+해설 : 

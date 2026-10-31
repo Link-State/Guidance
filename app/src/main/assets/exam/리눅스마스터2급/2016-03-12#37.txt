@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-03-12
+과목 : 1
+문제번호 : 37
+문제지문 : 다음 중 yum을 사용하여 vsftpd 소프트웨어를 최초 설치할 때 알맞은 것은?
+사진 : <!PICTURE@image9>
+1번 : yum find vsftp로 검색 후, yum install [검색결과]로 설치한다.
+2번 : yum list vsftp로 검색 후, yum upgrade [검색결과]로 설치한다.
+3번 : yum search vsftp로 검색 후, yum install [검색 결과]로 설치한다.
+4번 : yum find vsftp로 검색 후, yum upgrade [검색결과]로 설치한다.
+정답 : 4
+해설 : 

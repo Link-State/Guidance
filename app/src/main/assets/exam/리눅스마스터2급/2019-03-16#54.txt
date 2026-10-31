@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-03-16
+과목 : 2
+문제번호 : 54
+문제지문 : 다음 중 KDE와 가장 관련 있는 라이브러리로 알맞은 것은?
+사진 : 
+1번 : Qt
+2번 : GTK+
+3번 : FLTK
+4번 : X Forms
+정답 : 1
+해설 : KDE | GNOME그래픽라이브러리 QT | GTK설정항목의 수 최대한 많이 | 필요한 것만기본텍스트 에디터 kate | gedit기본 브라우저 Konquerer | Web토렌트 클리이언트 kTorrent | Transmission파일 탐색기 Konquerer | Nautilus윈도우 매니저로 KDE는 보통 kWin을 씁니다..Gnome은 Mutter, Metacity, 기타등등을 쓰고 , Gnome3는 Mutter를 사용합니다.<#nbsp;>[해설작성자 : tinews]<#nbsp;><#nbsp;>KDE는 노키아의 Qt 툴킷을 기반으로 한다.<#nbsp;>[해설작성자 : 콩]<#nbsp;><#nbsp;>

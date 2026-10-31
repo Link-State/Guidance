@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-03-12
+과목 : 1
+문제번호 : 20
+문제지문 : 다음 중 웹서버(httpd) 프로세스의 가동 유무를 확인하기 위한 명령어로 알맞은 것은?
+사진 : 
+1번 : process aux | grep httpd
+2번 : ps ax | grep httpd
+3번 : less httpd
+4번 : find / -name process | grep httpd
+정답 : 2
+해설 : 

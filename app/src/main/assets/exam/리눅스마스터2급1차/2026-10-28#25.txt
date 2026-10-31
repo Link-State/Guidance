@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-28
+과목 : 1
+문제번호 : 25
+문제지문 : 리눅스 설치 시에 Xen 및 KVM을 사용하기 위해 선택하는 패키지 그룹으로 알맞은 것은?
+사진 : 
+1번 : Web Server
+2번 : Database Server
+3번 : Virtual Host
+4번 : Software Development Workstation
+정답 : 4
+해설 : ① Web Server: 웹 서버 패키지.<#nbsp;>② Database Server: DB 패키지.<#nbsp;>③ Virtual Host: Xen, KVM 등 가상화 관련.<#nbsp;>④ Software Development Workstation: 개발 도구.

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-06-10
+과목 : 1
+문제번호 : 9
+문제지문 : 다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image6>
+1번 : ㉠ fsck, ㉡ e2fsck
+2번 : ㉠ e2fsck, ㉡ fsck
+3번 : ㉠ fsck, ㉡ xfs_repair
+4번 : ㉠ fsck_repair, ㉡ xfs_repair
+정답 : 4
+해설 : fsck : 파일 시스템 체크(File System Check) 주로 ext 파일 시스템(예: ext2, ext3, ext4)에 사용됩니다.xfs_repair : 'xfs_repair'은 xfs 파일 시스템에 사용되는 도구입니다..xfs는 리눅스 시스템에서 널리 사용되는 파일 시스템 중 하나입니다.fsck는 외우고 xfs는 같은 용어가 들어간 형식의 명령어를 외우면 될 듯<#nbsp;>[해설작성자 : 일주일 뒤 시험]<#nbsp;><#nbsp;>

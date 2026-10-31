@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2009-12-07
+과목 : 1
+문제번호 : 22
+문제지문 : bash 쉘 프롬프트 상에서 INCLUDE라는 환경 변수를 새로 만들고 이 환경 변수가 /usr/include 라는 값을 갖도록 하는 쉘 명령어로 알맞은 것은?
+사진 : 
+1번 : INCLUDE="/usr/include"
+2번 : export INCLUDE="/usr/include"
+3번 : export INCLUDE
+4번 : printenv INCLUDE
+정답 : 2
+해설 : 

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2008-08-31
+과목 : 2
+문제번호 : 67
+문제지문 : 인터넷에서 실시간 대화 기능을 지원하는 서비스로 알맞은 것은?
+사진 : 
+1번 : IRC(Internet Relay Chat)
+2번 : SMS(Short Message Service)
+3번 : VoIP(Voice of Internet Protocol)
+4번 : MUD(Multi-user Dungeon/Dimension)
+정답 : 1
+해설 : 

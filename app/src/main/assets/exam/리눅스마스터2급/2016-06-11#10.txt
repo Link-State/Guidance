@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-06-11
+과목 : 1
+문제번호 : 10
+문제지문 : 다음 조건으로 파일 시스템을 생성하려 할 때 알맞은 것은?
+사진 : <!PICTURE@image5>
+1번 : mke2fs -j -b 4096 -R stride=32 /dev/md0
+2번 : mke2fs -j -b 8192 -R stride=64 /dev/md0
+3번 : mke2fs -j -b 8192 -R stride=32 /dev/md0
+4번 : mke2fs -j -b 4096 -R stride=64 /dev/md0
+정답 : 4
+해설 : 

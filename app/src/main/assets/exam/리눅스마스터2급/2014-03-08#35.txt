@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-03-08
+과목 : 1
+문제번호 : 35
+문제지문 : 다음은 리눅스에서 소스 프로그램을 설치하기 위해서 사용하는 일반적인 순서이다. ( 괄호 )안에 들어갈 내용으로 알맞는 것은?
+사진 : <!PICTURE@image13>
+1번 : (ㄱ)configure -> (ㄴ)make -> (ㄷ)make install
+2번 : (ㄱ)make -> (ㄴ)configure -> (ㄷ)make install
+3번 : (ㄱ)make install -> (ㄴ)make -> (ㄷ)configure
+4번 : (ㄱ)configure -> (ㄴ)make install -> (ㄷ)make
+정답 : 1
+해설 : 

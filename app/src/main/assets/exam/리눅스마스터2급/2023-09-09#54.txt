@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-09-09
+과목 : 2
+문제번호 : 54
+문제지문 : 다음 결과에 해당하는 명령으로 알맞은 것은?
+사진 : <!PICTURE@image28>
+1번 : echo $DISPLAY
+2번 : xhost list $DISPLAY
+3번 : xauth list $DISPLAY
+4번 : export DISPLAY
+정답 : 4
+해설 : xhost는 뒤에 ip주소가 와야합니다.DISPLAY 환경변수면 열에 아홉은 xauth라고 외우시면 됩니다.<#nbsp;>[해설작성자 : 5일벼락치기로합격]<#nbsp;><#nbsp;>

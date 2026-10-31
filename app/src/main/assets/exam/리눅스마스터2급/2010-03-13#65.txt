@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2010-03-13
+과목 : 2
+문제번호 : 65
+문제지문 : 메일서비스를 사용하기 위해서 적용되는 인터넷 전송 규약이 아닌 것은?
+사진 : 
+1번 : SMTP(Simple Mail Transfer Protocol)
+2번 : POP(Post Office Protocol)
+3번 : IMAP(Internet Message Access Protocol)
+4번 : ICMP(Internet Control Message Protocol)
+정답 : 8
+해설 : 

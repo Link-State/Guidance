@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-09-09
+과목 : 1
+문제번호 : 39
+문제지문 : 다음 중 현재 디렉터리에 있는 C 언어 파일만을 source.tar로 묶는 명령으로 알맞은 것은?
+사진 : 
+1번 : tar rvf *.c source.tar
+2번 : tar rvf source.tar *.c
+3번 : tar cvf *.c source.tar
+4번 : tar cvf source.tar *.c
+정답 : 8
+해설 : 옵션 c는 create의 약어. 압축파일을 새로 만들때 사용r은 기존 압축파일에 파일을 추가할때 사용압축파일 이름 먼저 그 후에 압축할 파일들 기재고로 정답은 tar cvf source.tar *.c<#nbsp;>[해설작성자 : 5일벼락치기로합격]<#nbsp;><#nbsp;>

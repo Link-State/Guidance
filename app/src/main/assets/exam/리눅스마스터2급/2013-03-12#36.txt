@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2013-03-12
+과목 : 1
+문제번호 : 36
+문제지문 : yum 명령어 중 “Development Tools" 그룹 설치 방법이 알맞은 것은?
+사진 : 
+1번 : yum install -group “Development Tools"
+2번 : yum groupinstall “Development Tools"
+3번 : yum install “Development Tools"
+4번 : yum -g install “Development Tools”
+정답 : 2
+해설 : 

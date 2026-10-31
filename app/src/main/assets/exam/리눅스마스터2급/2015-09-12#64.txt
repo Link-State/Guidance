@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2015-09-12
+과목 : 2
+문제번호 : 64
+문제지문 : SSH 서버에 접속할 때 별도의 인증 파일을 통해 접근할 수 있다. 다음 중 SSH 서버에 생성하는 인증 파일로 알맞은 것은?
+사진 : 
+1번 : id_rsa
+2번 : id_rsa.pub
+3번 : auth_keys
+4번 : authorized_keys
+정답 : 8
+해설 : SSH Client > id_rsa.pub > id_rsaSSH Server > authorized_keysSSH Client와 관련된 것(id_rsa.pub와 id_rsa 파일)SSH Server와 관련된 것(authorized_keys 파일)id_rsa.pub = authorized_keysid_rsa - 비공개키. 절대로 타인에게 노출 되면 안됨.id_rsa.pub - 공개키. 이 파일의 값을 SSH Server의 authorized_keys와 비교함.             즉, 인증을 하려면 여기의 값을 Server의 authorized_keys 파일에 입력하여             일치시키면 됨.authorized_keys - Server에 위치하는 파일로 SSH Client의 id_rsa.pub값과 일치하는지 확인.문제는 SSH 서버에 생성하는 인증 파일을 물어 봤기에 4. authorized_keys.<#nbsp;>[해설작성자 : 미래리눅스마스터]<#nbsp;><#nbsp;>

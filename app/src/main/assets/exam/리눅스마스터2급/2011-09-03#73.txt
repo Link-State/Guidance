@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2011-09-03
+과목 : 2
+문제번호 : 73
+문제지문 : 일반적으로 설치된 LAN 카드 중 첫 번째 LAN 카드의 IP주소를 변경할 때 수정해야할 설정 파일이 절대경로를 포함하여 알맞은 것은?
+사진 : 
+1번 : /etc/network-scripts/ifcfg-eth0
+2번 : /etc/sysconfig/network
+3번 : /etc/sysconfig/network-scripts/ifcfg-eth0
+4번 : /etc/sysconfig/ifcfg-eth0
+정답 : 4
+해설 : 

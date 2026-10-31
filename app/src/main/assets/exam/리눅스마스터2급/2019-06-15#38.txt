@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-06-15
+과목 : 1
+문제번호 : 38
+문제지문 : 다음 중 수세(SUSE) 리눅스에서 사용하는 패키지관리 기법의 조합으로 알맞은 것은?
+사진 : 
+1번 : yaST, yum
+2번 : yaST, zypper
+3번 : rpm, yum
+4번 : yaST, apt
+정답 : 2
+해설 : 데비안 계열(dev 기반) - apt, dpkg, aptitude래드햇 계열(rpm 기반) - yum, rpm, aptopenSUSE(rpm 기반) - yaST, zypper<#nbsp;>[해설작성자 : 홍해장]<#nbsp;><#nbsp;>

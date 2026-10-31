@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2012-06-11
+과목 : 1
+문제번호 : 16
+문제지문 : alias ll='ls -al'로 설정된 ll 별명(alias)만을 제거하는 명령으로 알맞은 것은?
+사진 : 
+1번 : unalias ll
+2번 : unalias -a ll
+3번 : unalias ls -al
+4번 : unalias
+정답 : 1
+해설 : 

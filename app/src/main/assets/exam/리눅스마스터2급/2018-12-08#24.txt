@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-12-08
+과목 : 1
+문제번호 : 24
+문제지문 : 다음 중 특정 사용자의 crontab 내용을 작성할 때 사용하는 명령으로 알맞은 것은?
+사진 : 
+1번 : crontab -w ihduser
+2번 : crontab -e ihduser
+3번 : crontab -w -u ihduser
+4번 : crontab -e -u ihduser
+정답 : 8
+해설 : -e 는 편집 -u 특정사용자<#nbsp;>[해설작성자 : 그래꾸라]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-06-09
+과목 : 1
+문제번호 : 12
+문제지문 : 다음 중 ( 괄호 ) 안에 들어갈 명령어로 알맞은 것은?
+사진 : <!PICTURE@image6>
+1번 : chsh -s /bin/ksh
+2번 : usermod -s /bin/ksh ihduser
+3번 : chsh
+4번 : useradd -s /bin/ksh ihduser
+정답 : 4
+해설 : shell 변경명령어입니다.문제에 답이 나와있습니다..Changing shell for ~~chsh(change shell)<#nbsp;>[해설작성자 : hotchoco]<#nbsp;><#nbsp;>셸 변경 명령어 : chsh (change shell)[형식]chsh [옵션] 계정명 셸[옵션]-s : 지정하는 셸을, 앞으로 사용할 로그인 셸로 변경-l : /etc/shells 파일 안에 지정된 셸을 나열<#nbsp;>[해설작성자 : 이상하게 시험만 보면 기억이 하나도 안난다]<#nbsp;><#nbsp;>chsh이 셸 변경어인데,밑에 New shell을 입력하라는 명령을 보아서 -s 옵션은 되지 않았네요 (s 옵션 쓸 경우 -s 뒤에 쓸 셸 입력)고로 chsh 만 쓴 것입니다~~<#nbsp;>[해설작성자 : 고양이장샤미]<#nbsp;><#nbsp;>

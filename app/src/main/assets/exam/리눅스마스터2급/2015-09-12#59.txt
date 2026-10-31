@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2015-09-12
+과목 : 2
+문제번호 : 59
+문제지문 : 다음 중 DQDB(Distributed Queue Dual Bus)와 관련 있는 구성 방식으로 알맞은 것은?
+사진 : 
+1번 : LAN
+2번 : MAN
+3번 : WAN
+4번 : Wi-Fi
+정답 : 2
+해설 : DQDB는 주로 LAN의 상호 연결이나, MAN(Metropolitan Area Network : 대도시통신망)을 구성하는데 사용된다.<#nbsp;>[해설작성자 : 박명수]<#nbsp;><#nbsp;>DQDB은 고속 방송망으로 도시와 같은 공중영역(MAN) 또는 한 기관에서 LAN을 상호 연결하기 위해 개발된 것1990년 IEEE 802.6으로 표준화됨IEEE 802 위원회에서는 MAN용 표준으로 DQDB 방식으로 채택한바 있음<#nbsp;>[해설작성자 : 해기]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-09-11
+과목 : 1
+문제번호 : 14
+문제지문 : 다음 중 소스 컴파일 단계에서 configure 작업 후에 생성되는 파일로 알맞은 것은?
+사진 : 
+1번 : .config
+2번 : config.h
+3번 : configure.h
+4번 : Makefile
+정답 : 8
+해설 : 컴파일 순서 : configure -> make -> make install<#nbsp;>[해설작성자 : 해설 보세요 퍼온글]<#nbsp;><#nbsp;>

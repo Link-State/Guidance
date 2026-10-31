@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-03-11
+과목 : 2
+문제번호 : 62
+문제지문 : 다음과 같은 설정이 저장되는 파일로 알맞은 것은?
+사진 : <!PICTURE@image31>
+1번 : /etc/sysconfig/network-scripts
+2번 : /etc/resolv.conf
+3번 : /etc/hosts
+4번 : /etc/profile
+정답 : 4
+해설 : /etc/hosts : ip 도메인이름 매핑(192.168.0.100 www.ihd.or.kr)/etc/resolv.conf : dns서버 주소(nameserver 168.126.63.1)/etc/sysconfig/network-scripts : ip주소,서브넷,게이트,dns 등 모든 정보<#nbsp;>[해설작성자 : 용선생]<#nbsp;><#nbsp;>

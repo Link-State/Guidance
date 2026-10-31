@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2009-12-07
+과목 : 2
+문제번호 : 57
+문제지문 : 다음 중 LAN을 토폴로지(Topology)로 분류한 형태가 아닌 것은?
+사진 : 
+1번 : Star topology LAN
+2번 : Bus topology LAN
+3번 : Mesh topology LAN
+4번 : TCP/IP topology LAN
+정답 : 8
+해설 : 

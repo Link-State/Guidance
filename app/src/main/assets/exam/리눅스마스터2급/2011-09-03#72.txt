@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2011-09-03
+과목 : 2
+문제번호 : 72
+문제지문 : 다음에서 설명하는 것으로 알맞은 것은?
+사진 : <!PICTURE@image14>
+1번 : Netmask Address
+2번 : Gateway Address
+3번 : Domain Name
+4번 : Host Name
+정답 : 2
+해설 : 

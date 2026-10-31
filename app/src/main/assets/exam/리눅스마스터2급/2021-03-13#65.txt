@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-03-13
+과목 : 2
+문제번호 : 65
+문제지문 : 다음 중 IP 주소 할당 및 도메인을 관리하는 국제기구로 알맞은 것은?
+사진 : 
+1번 : IEEE
+2번 : ISO
+3번 : EIA
+4번 : ICANN
+정답 : 8
+해설 : 국제인터넷주소관리기구(Internet Corporation for Assigned Names and Numbers, ICANN전기 전자 기술자 협회(Institute of Electrical and Electronics Engineers, IEEE)국제 표준화 기구(International Organization for Standardization)국제 자동차 연맹(Federation Internationale de l'Automobile International Automobile Federation)<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>3. EIA  : 미국 전자 산업 연합(Electronic Industries Alliance)<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-06-13
+과목 : 1
+문제번호 : 24
+문제지문 : 다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image13>
+1번 : ㉠ multitasking ㉡ crond
+2번 : ㉠ multitasking ㉡ standalone
+3번 : ㉠ daemon ㉡ crond
+4번 : ㉠ daemon ㉡ standalone
+정답 : 8
+해설 : standalone 방식의 데몬은 /etc/rc.d/init.d 밑에 있고,inetd는 /etc/xinetd.d 에 있다.부팅시 실행되는거니 rc.d 에 있는 standalone이다.<#nbsp;>[해설작성자 : 히오스 아저씨]<#nbsp;><#nbsp;>

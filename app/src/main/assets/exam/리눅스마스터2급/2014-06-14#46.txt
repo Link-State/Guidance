@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-06-14
+과목 : 1
+문제번호 : 46
+문제지문 : ALSA 사운드 장치를 초기화 하는 명령어로 알맞은 것은?
+사진 : 
+1번 : alsactl init
+2번 : alsactl restore
+3번 : alsactl store
+4번 : alsactl reflash
+정답 : 1
+해설 : 

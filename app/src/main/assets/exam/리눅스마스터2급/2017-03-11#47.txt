@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2017-03-11
+과목 : 1
+문제번호 : 47
+문제지문 : 다음 중 seoul.txt 파일 내용을 인쇄하기 위한 명령으로 틀린 것은?
+사진 : 
+1번 : cat seoul.txt </dev/lp0
+2번 : lpr seoul.txt
+3번 : cat seoul.txt >/dev/lp0
+4번 : cat seoul.txt | lpr
+정답 : 1
+해설 : 

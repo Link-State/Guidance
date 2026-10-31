@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-09-09
+과목 : 2
+문제번호 : 49
+문제지문 : 다음은 부팅 모드를 확인하는 과정이다. X 윈도 모드로 부팅이 될 때 (괄호) 안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image24>
+1번 : ㉠ set-default ㉡ multi-user.target
+2번 : ㉠ set-default ㉡ graphical.target
+3번 : ㉠ get-default ㉡ multi-user.target
+4번 : ㉠ get-default ㉡ graphical.target
+정답 : 8
+해설 : X 윈도 모드 = grapgical.target텍스트 모드 = multi-user.target<#nbsp;>[해설작성자 : 내일 시험이네요 ㅎ]<#nbsp;><#nbsp;>정답 4번책 찾아보니 X윈도로 부팅되었을 때 부팅모드 "확인"은 systemctl get-default graphical.target이 맞고부팅모드를 "변경"해서 X윈도로 부팅시킬 때가 systemctl set-default graphical.target 라고 되어 있어요.문제는 부팅모드 "확인"을 물어봤으니 4번이 맞는거 같아요.<#nbsp;>[해설작성자 : MS]<#nbsp;><#nbsp;>

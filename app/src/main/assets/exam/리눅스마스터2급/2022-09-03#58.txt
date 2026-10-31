@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-09-03
+과목 : 2
+문제번호 : 58
+문제지문 : 다음 중 전자 우편 서비스와 관련된 프로토콜로 가장 거리가 먼 것은?
+사진 : 
+1번 : SNMP
+2번 : SMTP
+3번 : IMAP
+4번 : POP3
+정답 : 1
+해설 : SNMP = Simple Network Management Protocol = 네트워크 상의 장비로부터 정보를 읽거나 수정할 수 있는 프로토콜<#nbsp;>[해설작성자 : 마리사라]<#nbsp;><#nbsp;>SMTP = Simple Mail Transfer Protocol = 이메일 전송에 사용되는 프로토콜IMAP = Internet Message Access Protocol = 이메일 서버와 클라이언트 간의 효율적인 이메일 동기화 및 공유를 위한 프로토콜POP3 = Post Office Protocol 3 = 이메일 수신에 사용되는 프로토콜전자 우편 서비스를 제공하기 위해서는 설명한 세 개의 프로토콜을 함께 사용해야함.<#nbsp;>[해설작성자 : 합격가자]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-09-13
+과목 : 1
+문제번호 : 13
+문제지문 : 리눅스시스템에서 xclock 이라는 명령어의 결과 localhost 3번 디스플레이 화면에 시계 어플리케이션이 표시되었다. 이 경우 DISPLAY 변수의 설정 값으로 알맞은 것은?
+사진 : 
+1번 : export DISPLAY=:0.0
+2번 : export DISPLAY=:3.0
+3번 : export DISPLAY=3:0.0
+4번 : export DISPLAY=3:
+정답 : 2
+해설 : 

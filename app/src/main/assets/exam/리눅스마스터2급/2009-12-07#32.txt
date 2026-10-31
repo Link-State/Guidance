@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2009-12-07
+과목 : 1
+문제번호 : 32
+문제지문 : 텍스트 파일 전체에 대해서 문자열 mystring 모두를 yourstring으로 바꾸려고 한다. 단, 각 줄의 첫 칸부터 등장하는 mystring 만을 바꾸고 싶다. 이를 위한 적절한 vi 명령은 무엇인가?
+사진 : 
+1번 : :1,$s/mystring/yourstring/g
+2번 : :1,$s/~mystring/yourstring/g
+3번 : :1,$s/$mystring/yourmystring/g
+4번 : :1,$s/^mystring/yourmystring/g
+정답 : 8
+해설 : 

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-12-08
+과목 : 2
+문제번호 : 66
+문제지문 : 다음 중 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image23>
+1번 : /etc/hosts
+2번 : /etc/resolv.conf
+3번 : /etc/sysconfig/network
+4번 : /etc/sysconfig/network-scripts/ifcfg-eth0
+정답 : 2
+해설 : DNSnameserver의 정보는 /etc/resolv.conf에 기록됩니다.<#nbsp;>[해설작성자 : ITWILL 57th 현규]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-03-11
+과목 : 1
+문제번호 : 42
+문제지문 : 다음 중 yum 명령을 이용해서 nmap 패키지를 제거하는 명령으로 알맞은 것은?
+사진 : 
+1번 : yum -e nmap
+2번 : yum -d nmap
+3번 : yum remove nmap
+4번 : yum delete nmap
+정답 : 4
+해설 : yum remove nmap: nmap 패키지를 제거하는 올바른 명령어입니다.아래 명령어들은 존재하지 않습니다.yum -e nmap, yum -d nmap, yum delete nmap<#nbsp;>[해설작성자 : 날릴수없는4만4처넌]<#nbsp;><#nbsp;>

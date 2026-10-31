@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2015-09-12
+과목 : 1
+문제번호 : 39
+문제지문 : 다음 중 apt-get 명령이 패키지 관련 정보를 확인하기 위해 참조하는 파일로 알맞은 것은?
+사진 : 
+1번 : /etc/sources.list
+2번 : /etc/apt/sources.list
+3번 : /var/cache/apt/archive
+4번 : /var/cache/archive
+정답 : 2
+해설 : /etc/apt/sources.list  : 파일에 패키지 관련 정보를 관리./var/cache/apt/archive : install할 때 관련 .deb파일 생성되는 디렉터리<#nbsp;>[해설작성자 : 조람쥐]<#nbsp;><#nbsp;>

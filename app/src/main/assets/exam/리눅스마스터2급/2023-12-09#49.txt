@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-12-09
+과목 : 2
+문제번호 : 49
+문제지문 : 다음 중 클라우드 서비스에서 이용자의 설정이 많은 순서로 나열된 것은?
+사진 : 
+1번 : SaaS ＞ PaaS ＞ IaaS
+2번 : PaaS ＞ SaaS ＞ IaaS
+3번 : Iaas ＞ PaaS ＞ Saas
+4번 : IaaS ＞ SaaS ＞ PaaS
+정답 : 4
+해설 : IaaS(Infrastructure as a Service, 인프라 기반 서비스)PaaS(Platform as a Service, 플랫폼 기반 서비스)SaaS(Software as a Service, 소프트웨어 기반 서비스)abcdefghIjklmnoPqrS  알파벳 순서로 외우시면 편합니다<#nbsp;>[해설작성자 : 거너아나]<#nbsp;><#nbsp;>aaS = as a ServiceS = SoftwareP = PlatformI = InfrastructureI 인프라부터 구축 > P 인프라는 구축되어 있고 플랫폼 설정 > S 소프트웨어 설정<#nbsp;>[해설작성자 : 빠대비]<#nbsp;><#nbsp;>

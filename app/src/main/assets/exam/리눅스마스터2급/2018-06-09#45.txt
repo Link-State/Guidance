@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-06-09
+과목 : 1
+문제번호 : 45
+문제지문 : 다음 중 프린터 큐의 작업 목록을 출력하는 명령으로 알맞은 것은?
+사진 : 
+1번 : lpq
+2번 : lpm
+3번 : lpr
+4번 : lp
+정답 : 1
+해설 : lpd : 프린터의 데몬                        lpc : 프린터를 제어한다.                  lpq : 기본 프린터의 큐의 내용을 보여준다.lpr : 파일 내용을 출력한다.                lprm : 프린터 큐의 작업을 삭제한다.          lpstat : Lp 프린터의 상태를 보여준다.<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>SystemV 계열 : lp, lpstat, cancelBSD 계열 : lpq, lpr, lpc, lprmSystemV 계열이면 lpstat가 답이고 BSD계열이면 lpq가 답입니다.<#nbsp;>[해설작성자 : 자격증 사냥꾼]<#nbsp;><#nbsp;>

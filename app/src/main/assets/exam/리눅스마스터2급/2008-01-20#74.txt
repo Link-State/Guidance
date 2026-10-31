@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2008-01-20
+과목 : 2
+문제번호 : 74
+문제지문 : 다음은 아파치 설정 파일의 어느 지시자에 대한 내용인가?
+사진 : <!PICTURE@image6>
+1번 : ServerRoot
+2번 : ServerType
+3번 : ServerFile
+4번 : ServerAdmin
+정답 : 2
+해설 : 

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-06-11
+과목 : 1
+문제번호 : 37
+문제지문 : 다음 중 소스 파일로 프로그램을 설치하는 단계로 알맞은 것은?
+사진 : 
+1번 : configure --> make --> make install
+2번 : configure --> make install --> make
+3번 : make --> configure --> make install
+4번 : make --> make install --> configure
+정답 : 1
+해설 : 

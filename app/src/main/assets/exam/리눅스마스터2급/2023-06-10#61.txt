@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-06-10
+과목 : 2
+문제번호 : 61
+문제지문 : 다음 설명에 해당하는 네트워크 종류로 알맞은 것은?
+사진 : <!PICTURE@image33>
+1번 : LAN
+2번 : MAN
+3번 : SAN
+4번 : WAN
+정답 : 2
+해설 : LAN (Local Area Network) : 상대적으로 좁은 지역. 집, 사무실, 학교 등MAN (Metropolitan Area Network) : 상대적으로 LAN보다 넓은 지역. 큰 도시나 캠퍼스 같은 광역. 전화, TV, 인터넷은 MANSAN (Storage Area Network) : 저장 장치를 네트워크로 연결하는데 사용하는 개념.WAN (Wide Area Network) : 상대적으로 매우 넓은 지역. 국가, 대륙, 전세계를 아우르는 개념.<#nbsp;>[해설작성자 : 빠대비]<#nbsp;><#nbsp;>

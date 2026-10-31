@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-09-03
+과목 : 1
+문제번호 : 8
+문제지문 : 다음 중 소스 파일을 이용한 설치 방법이 나머지 셋과 다른 것은?
+사진 : 
+1번 : Apache httpd
+2번 : MySQL
+3번 : PHP
+4번 : Nmap
+정답 : 2
+해설 : MySQL만 cmake프로그램을 쓰며, make과정 없이 make파일생성을 목적으로합니다.cmake -> make install? 이였던 걸로 기억그 외 나머지는 모두 configure -make -make install<#nbsp;>[해설작성자 : 가채점 90점 합격자]<#nbsp;><#nbsp;>

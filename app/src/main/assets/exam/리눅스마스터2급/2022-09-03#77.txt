@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-09-03
+과목 : 2
+문제번호 : 77
+문제지문 : 다음 중 윈도 매니저의 종류로 틀린 것은?
+사진 : 
+1번 : Metacity
+2번 : Xfce
+3번 : Mutter
+4번 : Kwin
+정답 : 2
+해설 : 데스크톱 환경 GNOME,KDE,LXDE,Xface이 중에서 GNOME > GTK+(라이브러리),eog(뷰어),totem(사운드또는 동영상),GIMP(이미지편집기),Nautilus(파일탐색기)                  mutter(GNOME3버전 윈도매니저),metacity(GNOME2버전 윈도매니저)KDE >QT(라이브러리),gwenview(뷰어),kwin(윈도매니저) dolpin(파일관리자)등등기출문제들을 풀어보시면서 KDE,GNOME문제들을 많이 접해보시면 도움이됩니다.<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>XFce는 경령화된 데스크탑 환경으로 자체 윈도 매니저인 xfwm을 사용함<#nbsp;>[해설작성자 : 찰떡]<#nbsp;><#nbsp;>

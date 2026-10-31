@@ -1,0 +1,17 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-03-16
+과목 : 1
+문제번호 : 39
+문제지문 : 다음 중 yum 기반으로 설치된 totem이라는 패키지를 제거하는 명령으로 틀린 것은?
+사진 : 
+1번 : yum delete totem
+2번 : yum remove totem
+3번 : yum erase totem
+4번 : rpm -e totem --nodeps
+정답 : 1
+해설 : 삭제하는 명령으로 틀린 것은 'yum delete totem' 가 맞습니다.
+나머지 명령어들은 삭제를 정상적으로 수행합니다.
+<#nbsp;>[해설작성자 : 직접테스트 해본 지나가던 행인2]<#nbsp;><#nbsp;>
+
+yum delete totem 이 아니라 yum remove , erase 가 맞습니다. 리눅스에는 Delete를 사용하지 않습니다.
+<#nbsp;>[해설작성자 : 4세대타임어택커 (머리에 양자컴퓨터)]<#nbsp;><#nbsp;>

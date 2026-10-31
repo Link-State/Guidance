@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-03-13
+과목 : 1
+문제번호 : 33
+문제지문 : 리눅스를 서버로 사용할 예정이라 X 윈도를 설치하지 않은 상태이다. 다음 중 사용할 수 없는 편집기는?
+사진 : 
+1번 : nano
+2번 : emacs
+3번 : gedit
+4번 : vim
+정답 : 4
+해설 : nano, emacs, vim : CUI (Command User Interface) 환경 텍스트 에디터 (편집기)gedit : GUI (Graphic User Interface) 환경 텍스트 에디터<#nbsp;>[해설작성자 : 2021년 6월 시험 수험생]<#nbsp;><#nbsp;>gedit : GUI 기반, X 윈도에 맞춰서 개발<#nbsp;>[해설작성자 : 지금 내기분은 08년도 날강두]<#nbsp;><#nbsp;>

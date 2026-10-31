@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2017-03-11
+과목 : 1
+문제번호 : 40
+문제지문 : 다음의 조건에 맞는 압축 명령으로 알맞은 것은?
+사진 : <!PICTURE@image16>
+1번 : tar zxvf ihd.tgz /home --exclude-dir /home/user1
+2번 : tar zxf ihd.tgz /home --exclude-dir /home/user1
+3번 : tar zcvf ihd.tgz /home --exclude /home/user1
+4번 : tar zcf ihd.tgz /home --exclude /home/user1
+정답 : 8
+해설 : 

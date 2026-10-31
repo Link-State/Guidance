@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-03-10
+과목 : 2
+문제번호 : 55
+문제지문 : 다음 그림에 해당하는 프로그램으로 알맞은 것은?
+사진 : <!PICTURE@image27>
+1번 : LibreOffice Writer
+2번 : LibreOffice Impress
+3번 : LibreOffice Calc
+4번 : LibreOffice Draw
+정답 : 4
+해설 : 

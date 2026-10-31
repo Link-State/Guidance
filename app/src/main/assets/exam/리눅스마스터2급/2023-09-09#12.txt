@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-09-09
+과목 : 1
+문제번호 : 12
+문제지문 : 다음 (괄호) 안에 들어갈 파일명으로 알맞은 것은?
+사진 : <!PICTURE@image9>
+1번 : /etc/passwd
+2번 : /etc/shells
+3번 : /etc/bashrc
+4번 : /etc/profile
+정답 : 2
+해설 : /etc/passwd 파일은 사용자 계정 정보를 포함/etc/shells 파일은 시스템에서 사용 가능한 셸의 목록을 제공하는 파일/etc/bashrc 파일은 Bash 셸의 전역 설정 파일로, 시스템 전체의 Bash 셸 설정을 구성/etc/profile 파일은 사용자가 로그인할 때 실행되는 전역 프로파일 스크립트<#nbsp;>[해설작성자 : TheAMSu]<#nbsp;><#nbsp;>

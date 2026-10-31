@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-09-10
+과목 : 1
+문제번호 : 13
+문제지문 : 다음 중 현재 작업 중인 셸을 확인 할 때 사용하는 명령어로 알맞은 것은?
+사진 : 
+1번 : useradd
+2번 : ps
+3번 : groupadd
+4번 : chkconfig
+정답 : 2
+해설 : foreground 는 ps, background는 jobs<#nbsp;>[해설작성자 : 리눅스촙오]<#nbsp;><#nbsp;>ps는p(rocess)s(tatus) 즉 프로세스 상태의 약어이므로유저추가, 그룹추가, 설정 확인 등의 현 보기 중 문제의 답에 가장 근접하다고 추론이 가능하다.<#nbsp;>[해설작성자 : Fresh Flesh]<#nbsp;><#nbsp;>

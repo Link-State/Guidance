@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-10-10
+과목 : 1
+문제번호 : 32
+문제지문 : 다음 설명에 해당하는 편집기로 알맞은 것은?
+사진 : <!PICTURE@image12>
+1번 : vim
+2번 : pico
+3번 : nano
+4번 : emacs
+정답 : 1
+해설 : 에디터 종류 별 만든이vim : 브람 무레나르(Bram Moolenaar)pico : Aboil Kasarnano: GNU 프로젝트emacs: 리차드 스톨만(Richard Stallman)<#nbsp;>[해설작성자 : 뚠혀니]<#nbsp;><#nbsp;>

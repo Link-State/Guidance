@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-06-10
+과목 : 1
+문제번호 : 45
+문제지문 : 다음 중 사운드카드를 제어 및 설정할 때 사용하는 명령으로 알맞은 것은?
+사진 : 
+1번 : lpadmin
+2번 : cancel
+3번 : lpc
+4번 : alsactl
+정답 : 8
+해설 : lpadmin - 프린터 및 프린터 관련 설정(추가,제거,설정 변경 등등)cancel - 프린트 대기열에서 작업 취소lpc - Line Printer Daemon 서버를 관리하는 데 사용되는 명령어alsactl -ALSA(Advanced Linux Sound Architecture) 음성 제어 유틸리티. 사운드 카드의 설정을 저장하고 복원<#nbsp;>[해설작성자 : 합격 ㄱ]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-12-08
+과목 : 1
+문제번호 : 1
+문제지문 : 다음 설명과 관계있는 명령으로 알맞은 것은?
+사진 : <!PICTURE@image1>
+1번 : mkfs -t ext4 -i 1000 /dev/hdb1
+2번 : mkfs -t ext2 -T largefile /dev/hdb1
+3번 : mke2fs -j -i 1000 /dev/hdb1
+4번 : mke2fs -j -T largefile /dev/hdb1
+정답 : 8
+해설 : mkfs,mke2fs동일명령어 저너링 파일 시스템은 ext3 ext4  해당 i-node 설정 옵션은 T largefile<#nbsp;>[해설작성자 : 그래꾸라]<#nbsp;><#nbsp;>-i : inode의 개수 설정-T : inode 크기 설정-j : 저널링 파일 시스템으로 만들기(ext3)<#nbsp;>[해설작성자 : 홍해장]<#nbsp;><#nbsp;>

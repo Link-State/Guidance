@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-06-09
+과목 : 1
+문제번호 : 9
+문제지문 : 다음 중 ihduser라는 사용자에 사용자 쿼터를 설정하는 명령으로 알맞은 것은?
+사진 : 
+1번 : quota ihduser
+2번 : quotaon ihduser
+3번 : edquota ihduser
+4번 : quotacheck ihduser
+정답 : 4
+해설 : quotaquotaon : 디스크 할당량 제한edquota : 디스크 할당량 설정quotacheck : 디스크 사용량 할당 정보 체크설정이므로 edquota ihduser<#nbsp;>[해설작성자 : HP증가량감소]<#nbsp;><#nbsp;>

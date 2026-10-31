@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-12-09
+과목 : 2
+문제번호 : 72
+문제지문 : 다음 중 인터네트워킹 장비를 OSI 모델의 하위 계층부터 나열한 순서로 알맞은 것은?
+사진 : 
+1번 : Router-Bridge-Repeater
+2번 : Router-Repeater-Bridge
+3번 : Repeater-Bridge-Router
+4번 : Bridge-Repeater-Router
+정답 : 4
+해설 : 전송계층에는 장비 없음.물리 : 허브,리피터데이터 : 스위치, 브리지네트워크 : 라우터, L3 스위치응용 : 게이트웨이, L7 스위치<#nbsp;>[해설작성자 : 오류에 오류 반론]<#nbsp;><#nbsp;>

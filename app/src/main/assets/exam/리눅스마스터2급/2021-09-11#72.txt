@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-09-11
+과목 : 2
+문제번호 : 72
+문제지문 : 다음 중 게이트웨이 주소값을 설정하는 명령어로 알맞은 것은?
+사진 : 
+1번 : route add -net 192.168.10.1
+2번 : route add net 192.168.10.1
+3번 : route add default gw 192.168.10.1
+4번 : route add default -gw 192.168.10.1
+정답 : 4
+해설 : route 명령어- 디폴트 게이트웨이 추가: route add default gw x.x.x.x- 네트워크 경로 추가: route add -net x.x.x.x netmask x.x.x.x gw x.x.x.x- 호스트 경로 추가: route add -host x.x.x.x dev [인터페이스명]<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>

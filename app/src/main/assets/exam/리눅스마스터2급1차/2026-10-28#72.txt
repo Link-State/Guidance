@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-28
+과목 : 1
+문제번호 : 72
+문제지문 : bash(Bourne Again Shell)에서 fileB 파일의 뒷 부분에 fileA파일의 내용을 추가하여 저장하는 명령은?
+사진 : 
+1번 : cat fileA >> fileB
+2번 : cat fileA > fileB
+3번 : cat fileA << fileB
+4번 : cat fileA fileB
+정답 : 1
+해설 : fileA 내용을 fileB 끝에 추가.<#nbsp;>②는 덮어쓰기.<#nbsp;>③ 잘못된 리다이렉션.<#nbsp;>④ 단순 출력.

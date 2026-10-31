@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2008-03-16
+과목 : 1
+문제번호 : 44
+문제지문 : 커널에서 사용하기 위해 부팅 시 메모리에 적재하는 각종 하드웨어의 모듈이 저장되어 있는 디렉토리는?
+사진 : 
+1번 : /usr/<커널버전>/modules/kernel/drivers
+2번 : /usr/modules/<커널버전>/kernel/drivers
+3번 : /lib/<커널버전>/modules/kernel/drivers
+4번 : /lib/modules/<커널버전>/kernel/drivers
+정답 : 8
+해설 : 

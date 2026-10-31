@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2011-12-10
+과목 : 1
+문제번호 : 47
+문제지문 : present.txt 파일을 프린터로 출력하고자 할 때 명령으로 틀린 것은?
+사진 : 
+1번 : lpr -P lp present.txt
+2번 : cat present.txt | lpr
+3번 : cat present.txt >/dev/lp0
+4번 : cat present.txt </dev/lp0
+정답 : 8
+해설 : 

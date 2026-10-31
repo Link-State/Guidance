@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-03-08
+과목 : 1
+문제번호 : 48
+문제지문 : 다음 중 이미지를 기본 설정된 값으로 스캔하여 image.pnm 파일로 저장하는 명령어로 알맞은 것은?
+사진 : 
+1번 : scanimage >image.pnm
+2번 : scan >image.pnm
+3번 : scanimage | image.pnm
+4번 : scan | image.pnm
+정답 : 1
+해설 : 2과목 : 리눅스 활용

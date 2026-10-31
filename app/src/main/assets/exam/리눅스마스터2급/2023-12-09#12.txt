@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-12-09
+과목 : 1
+문제번호 : 12
+문제지문 : 다음 중 프로그램을 소스 파일로 설치하는 과정으로 알맞은 것은?
+사진 : 
+1번 : configure → make → make install
+2번 : make → configure → make install
+3번 : make → make install → configure
+4번 : make install → configure → make
+정답 : 1
+해설 : configure: 소스 코드를 컴파일하기 전에 시스템 환경을 검사 -> Makefile 생성make: Makefile에 기록된 지시에 따라 소스 코드를 컴파일하고 실행 파일을 생성make install: 컴파일된 프로그램을 시스템의 적절한 위치에 설치<#nbsp;>[해설작성자 : 빠대비]<#nbsp;><#nbsp;>

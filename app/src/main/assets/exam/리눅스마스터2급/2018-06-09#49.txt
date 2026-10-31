@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-06-09
+과목 : 2
+문제번호 : 49
+문제지문 : 다음 중 X 서버에서 보내온 키 값을 설치하는 명령으로 알맞은 것은?
+사진 : 
+1번 : xauth add $DISPLAY . ed41d4ee4d147d67d26
+2번 : xauth add $DISPLAY ed41d4ee4d147d67d26
+3번 : xauth add DISPLAY . ed41d4ee4d147d67d26
+4번 : xauth add DISPLAY ed41d4ee4d147d67d26
+정답 : 1
+해설 : xauth 명령은 .Xauthority 파일 쿠키 내용을 추가,삭제,리스트 출력하는 유틸리티이다.xauth add dpyname protoname hexkey 의 구문으로 내용을 추가한다.   (display name) / (protocal name)프로토콜 네임 값이 없기 때문에 . 을 찍는다<#nbsp;>[해설작성자 : ㄱㅣㅁ대웅]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2015-09-12
+과목 : 1
+문제번호 : 17
+문제지문 : alias cp='cp -i' 가 등록되어 있다. 다음 중 alias를 해제하기 위한 방법으로 가장 알맞은 것은?
+사진 : 
+1번 : alias cp=''
+2번 : unalias cp
+3번 : alias cp=‘cp -d'
+4번 : unalias cp=‘cp - I’
+정답 : 2
+해설 : alias 설정 조회 - aliasalias 추가 - alias 단축명='실행할명령어'unalias [편집] - unalias 단축이름<#nbsp;>[해설작성자 : 지나가는 나그네]<#nbsp;><#nbsp;>

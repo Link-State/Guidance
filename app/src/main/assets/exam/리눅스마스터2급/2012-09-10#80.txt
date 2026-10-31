@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2012-09-10
+과목 : 2
+문제번호 : 80
+문제지문 : 다음의 환경에 적합한 클라우드 컴퓨팅 서비스로 알맞은 것은?
+사진 : <!PICTURE@image17>
+1번 : IaaS(Infrastructure as a Service)
+2번 : PaaS(Platform as a Service)
+3번 : SaaS(Software as a Service)
+4번 : DaaS(Database as a Service)
+정답 : 1
+해설 : 

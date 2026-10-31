@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-03-13
+과목 : 1
+문제번호 : 43
+문제지문 : 다음 설명에 해당하는 RAID 기술로 알맞은 것은?
+사진 : <!PICTURE@image21>
+1번 : Volume Group
+2번 : Linear
+3번 : Striping
+4번 : Mirroring
+정답 : 4
+해설 : Striping = raid0 = 데이터 분산저장Mirroring = raid1이상 = 데이터 복사 저장 (분산+복사 저장하기도합니다)<#nbsp;>[해설작성자 : 와이디]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-10-10
+과목 : 1
+문제번호 : 7
+문제지문 : 다음 중 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image1>
+1번 : GID
+2번 : UUID
+3번 : DISKID
+4번 : WWWN
+정답 : 2
+해설 : UUID(Universally Unique IDentifier)Universally(모든 곳에서, 국제적으로) Unique(유일한) IDentifer(아이디, 식별자) 대로절대 겹칠 일이 없는 식별자. 디스크의 "MAC주소" 같은 역할.<#nbsp;>[해설작성자 : 선물]<#nbsp;><#nbsp;>blkid가 uuid 볼려고 사용하는 명령어입니다!<#nbsp;>[해설작성자 : 똑디하자]<#nbsp;><#nbsp;>

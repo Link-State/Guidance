@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-12-14
+과목 : 1
+문제번호 : 4
+문제지문 : 다음 조건에 해당하는 명령으로 알맞은 것은?
+사진 : <!PICTURE@image3>
+1번 : chown admin.ihduser lin.txt
+2번 : chown ihduser.admin lin.txt
+3번 : chgrp admin.ihduser lin.txt
+4번 : chgrp ihduser.admin lin.txt
+정답 : 2
+해설 : 

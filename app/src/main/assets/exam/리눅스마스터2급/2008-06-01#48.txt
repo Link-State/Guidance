@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2008-06-01
+과목 : 1
+문제번호 : 48
+문제지문 : 리눅스에서 CD-ROM 장치 디바이스(/dev/hdc)를 /mnt/cdrom 디렉토리로 마운트 하는 명령으로 알맞은 것은?
+사진 : 
+1번 : mount -t iso9660 /dev/hdc /mnt/cdrom
+2번 : mkfs /dev/hdc /mnt/cdrom
+3번 : mount -o remount /mnt/cdrom
+4번 : mount -t vfat /dev/fd0 /mnt/cdrom
+정답 : 1
+해설 : 2과목 : 리눅스 활용

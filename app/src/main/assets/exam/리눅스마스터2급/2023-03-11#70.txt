@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-03-11
+과목 : 2
+문제번호 : 70
+문제지문 : 다음 중 SNMP 프로토콜의 포트번호로 알맞은 것은?
+사진 : 
+1번 : 21
+2번 : 25
+3번 : 143
+4번 : 161
+정답 : 8
+해설 : 20과 21은 FTP의 포트번호25는 SMTP의 포트번호<#nbsp;>[해설작성자 : 발로푼다]<#nbsp;><#nbsp;>143은 IMAP<#nbsp;>[해설작성자 : 승민이영원해]<#nbsp;><#nbsp;>추가SNMP Agent의 포트:UDP 161번 포트는 SNMP 에이전트가 리퀘스트를 수신하고 응답을 전송하는 데 사용.SNMP Manager의 포트:UDP 162번 포트는 SNMP 매니저가 SNMP 에이전트에게 트랩 메시지(이벤트 알림)를 수신하기 위해 열려 있는 포트.<#nbsp;>[해설작성자 : spknptt]<#nbsp;><#nbsp;>웰노운포트 정리20: FTP 데이터 전송 - TCP21: FTP 제어 (명령) - TCP22: SSH (Secure Shell) - TCP23: Telnet - TCP25: SMTP (Simple Mail Transfer Protocol) - TCP53: DNS (Domain Name System) - TCP/UDP 모두 사용. 주로 UDP 사용.80: HTTP (Hypertext Transfer Protocol) - TCP110: POP3 (Post Office Protocol version 3) - TCP143: IMAP (Internet Message Access Protocol) - TCP443: HTTPS (HTTP Secure) - TCP161: SNMP는 일반적으로 UDP162: SNMP의 알림 메시지를 수신하기 위해993: IMAPS (IMAP over SSL) - TCP995: POP3S (POP3 over SSL) - TCP<#nbsp;>[해설작성자 : 빠대비]<#nbsp;><#nbsp;>

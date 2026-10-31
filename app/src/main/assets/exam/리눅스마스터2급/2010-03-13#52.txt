@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2010-03-13
+과목 : 2
+문제번호 : 52
+문제지문 : 다음 중 XF86Setup, Xconfigurator, system-config-display 등 X 윈도우 설정도구를 통해 공통적으로 설정하거나 직접 수정이 가능한 X 윈도우즈 설정 파일의 절대 경로는 어느 것인가?
+사진 : 
+1번 : /etc/X11/xorg.conf
+2번 : /etc/xorg.conf
+3번 : /etc/Xorg/X.conf
+4번 : /etc/X11/Xdisplay.conf
+정답 : 1
+해설 : 

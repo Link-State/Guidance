@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-06-15
+과목 : 2
+문제번호 : 63
+문제지문 : 다음 중 네트워크 인터페이스 카드의 작동을 중지시키는 명령으로 알맞은 것은?
+사진 : 
+1번 : ifconfig eth0 no
+2번 : ifconfig eth0 off
+3번 : ifconfig eth0 down
+4번 : ifconfig eth0 stop
+정답 : 4
+해설 : ㅇ ifconfig eth0 up (활성화)ㅇ ifconfig eth0 down (비활성화)ㅇ ifconfig eth0 [ip] (변경) netmask broadcas<#nbsp;>[해설작성자 : 해설이 없어서 붙여넣었습니다]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2013-03-12
+과목 : 2
+문제번호 : 76
+문제지문 : 다음 ( 괄호 )안에 들어갈 네트워크 관련 명령어로 알맞은 것은?
+사진 : <!PICTURE@image17>
+1번 : (ㄱ) ping - (ㄴ) netstat - (ㄷ) nslookup
+2번 : (ㄱ) netstat - (ㄴ) ping - (ㄷ) nslookup
+3번 : (ㄱ) netstat - (ㄴ) nslookup - (ㄷ) ping
+4번 : (ㄱ) ping - (ㄴ) nslookup - (ㄷ) netstat
+정답 : 8
+해설 : 

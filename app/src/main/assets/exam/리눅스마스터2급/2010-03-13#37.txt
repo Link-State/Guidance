@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2010-03-13
+과목 : 1
+문제번호 : 37
+문제지문 : rpm을 사용하는 시스템에서 httpd가 설치되었는지 확인하는 명령으로 알맞은 것은?
+사진 : 
+1번 : rpm -iv httpd
+2번 : rpm -e httpd
+3번 : rpm -qa | grep httpd
+4번 : rpm -Uvh| grep httpd
+정답 : 4
+해설 : 

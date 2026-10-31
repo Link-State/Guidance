@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-03-13
+과목 : 1
+문제번호 : 29
+문제지문 : 다음 중 vi 편집기에서 줄의 linux로 끝날 경우 마지막에 '.' 기호를 덧붙이도록 치환하는 명령으로 알맞은 것은?
+사진 : 
+1번 : :% s/linux$/linux./
+2번 : :% s/linux./linux$/
+3번 : :% s/linux＼>/linux./
+4번 : :% s/linux./linux＼>/
+정답 : 1
+해설 : vi 편집기 문자 치환(변환)방법:%s/찾는 문자열/바꿀 문자열/g → %s/linux$/linux./ →($는 공백을 의미) 결국 [linux 공백]을 [linux.]으로 치환<#nbsp;>[해설작성자 : 삼일공고문유진]<#nbsp;><#nbsp;>$표시는 줄의 마지막 단어가 linux인걸 바꾸는거라고 합니다.Study linux master-> 변경되지 않음Study master lunux -> 마지막 단어인 linux가 linux. 으로 변경<#nbsp;>[해설작성자 : 화이팅!@]<#nbsp;><#nbsp;>각 번호의 치환 명령어 예시입니다.1. I love linux -> I love linux.2. I love linuxs -> I love linux$3. linux is good -> linux. is good4. linuxs is good -> linux is good<#nbsp;>[해설작성자 : 리눅스초짜]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-12-08
+과목 : 1
+문제번호 : 22
+문제지문 : 다음 중 [CTRL]+[c] 입력 시 보내지는 시그널로 알맞은 것은?
+사진 : 
+1번 : SIGHUP
+2번 : SIGINT
+3번 : SIGQUIT
+4번 : SIGKILL
+정답 : 2
+해설 : SIGHUP(HUP) : hang up의 약자로 프로세서를 재시작시키는 시그널이다.(1번)SIGINT(INT) : 인터럽트. 실행을 중지시킨다..CTRL + C 를 눌렀을때 보내지는 시그널 (2번)SIGTERM (QUIT) : 키보드 종료 (15번)SIGKILL: 무조건 종료, 강제종료 시그널 (9번)TSTP : 실행정지 후 다시 실행을 계속하기 위하여 대기시키는 시그널 CTRL + Z (20번)PS: Kill -1 %2 -> jobs 명령으로 출력되는 2번작업에 1번 hangup 시그널을 보낸다.<#nbsp;>[해설작성자 : 시험때는 안틀렸으면..]<#nbsp;><#nbsp;>1번 SIGHUP 프로세스 재시작 Ctrl+d2번 SIGINT 강제종료 Ctrl+c3번 SIGQUIT Ctrl+\9번 SIGKILL11번 SIGSEGV 메모리 비정상사용일때 종료15번 SIGTERM 정상종료17번 SIGCHLD 좀비 프로세스 종료        20번 SIGTSTP 포그라운드 ->백그라운드로 바꿈 Ctrl+z<#nbsp;>[해설작성자 : 전지전능한 머머장 박강락님]<#nbsp;><#nbsp;>1번 SIGHUP 프로세스 재시작 Ctrl+d 아닙니다 얜 키보드로 받는거 없어요<#nbsp;>[해설작성자 : 홍해장]<#nbsp;><#nbsp;>

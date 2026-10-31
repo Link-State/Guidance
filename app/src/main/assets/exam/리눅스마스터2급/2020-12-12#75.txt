@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-12-12
+과목 : 2
+문제번호 : 75
+문제지문 : 다음과 같은 설정이 저장되는 파일로 알맞은 것은?
+사진 : <!PICTURE@image28>
+1번 : /etc/hosts
+2번 : /etc/resolv.conf
+3번 : /etc/sysconfig/network
+4번 : /etc/sysconfig/network-scripts
+정답 : 1
+해설 : /etc/hosts: IP주소와 도메인 주소를 1:1로 등록하여 도메인에 대한 IP주소를 조회하도록 한다.<#nbsp;>[해설작성자 : 합격하고 싶어요ㅜ]<#nbsp;><#nbsp;>

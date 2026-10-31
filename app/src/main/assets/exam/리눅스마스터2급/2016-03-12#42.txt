@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-03-12
+과목 : 1
+문제번호 : 42
+문제지문 : 다음 중 yum을 통해 설치된 telnet-server 패키지를 제거하는 명령으로 알맞은 것은?
+사진 : 
+1번 : yum -e telnet-server
+2번 : yum rm telnet-server
+3번 : yum telnet-server --delete
+4번 : yum remove telnet-server
+정답 : 8
+해설 : 

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-09-10
+과목 : 1
+문제번호 : 16
+문제지문 : 다음 ( 괄호 ) 안에 들어갈 셸프롬프트 형식으로 알맞은 것은?
+사진 : <!PICTURE@image8>
+1번 : [testbed@sysconfig:ihd]$
+2번 : [testbed@/etc/sysconfig:ihd]$
+3번 : [ihd@testbed:sysconfig]$
+4번 : [ihd@testbed:/etc/sysconfig]$
+정답 : 8
+해설 : W : 현재 디렉토리 표시w : 절대경로 표시<#nbsp;>[해설작성자 : 연세직업전문학교 야스오]<#nbsp;><#nbsp;>echo 후에 나온 형식을 보면[유저@호스트:패스워드 디렉토리]$의 형식임을 알 수 있다.유저인 ihd, 호스트인 testbed 패스워드 디렉토리의 /etc/sysconfig를 형식에 그대로 대입하면 된다.<#nbsp;>[해설작성자 : Fresh Flesh]<#nbsp;><#nbsp;>pwd는 print working directory이기 때문에 [유저@호스트:워킹 디렉토리]$가 맞습니다<#nbsp;>[해설작성자 : 한국정보교육원 제드]<#nbsp;><#nbsp;>

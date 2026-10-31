@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-06-11
+과목 : 1
+문제번호 : 34
+문제지문 : 다음 중 vim에서 한글이 제대로 입력되지 않을 경우 사용하는 명령어로 알맞은 것은?
+사진 : 
+1번 : set lang=euc-kr
+2번 : set term=euc-kr
+3번 : set fileencoding=euc-kr
+4번 : set char=euc-kr
+정답 : 4
+해설 : 

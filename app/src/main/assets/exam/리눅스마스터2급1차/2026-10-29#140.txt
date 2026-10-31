@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-29
+과목 : 1
+문제번호 : 140
+문제지문 : 파일을 10,000바이트 단위로 분리하는 명령어는?
+사진 : 
+1번 : split -b 10000 /etc/services
+2번 : cut -b 10000 /etc/services
+3번 : gzip -b 10000 /etc/services
+4번 : tar -b 10000 /etc/services
+정답 : 1
+해설 : 자료는 split -b 10000 /etc/services를 예시로 제시한다.

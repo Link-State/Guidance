@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2017-12-02
+과목 : 2
+문제번호 : 72
+문제지문 : 다음 설명에 해당하는 파일로 알맞은 것은?
+사진 : <!PICTURE@image31>
+1번 : /etc/hosts
+2번 : /etc/resolv.conf
+3번 : /etc/sysconfig/network
+4번 : /etc/sysconfig/network-scripts
+정답 : 1
+해설 : /etc/hosts온라인 상에 등록된 네임서버의 주소 정보를 가장 먼저 인식하는 파일이다.호스트 이름을 IP주소에 매핑할 때 사용한다.<#nbsp;>[해설작성자 : 리눅스포비아]<#nbsp;><#nbsp;>/etc/sysconfig/network는 네트워크 사용 유무지정, 호스트명 설정, 게이트웨이주소 설정할 때 cat명령어와 함께 사용되어진다.<#nbsp;>[해설작성자 : 내일!!]<#nbsp;><#nbsp;>

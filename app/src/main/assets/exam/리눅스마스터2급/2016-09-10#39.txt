@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-09-10
+과목 : 1
+문제번호 : 39
+문제지문 : 다음 중 messages.xz 파일의 압축을 해제하기 위한 명령으로 알맞은 것은?
+사진 : 
+1번 : xz -dv messages.xz
+2번 : xz -tv messages.xz
+3번 : xz -zv messages.xz
+4번 : xz -Vv messages.xz
+정답 : 1
+해설 : xz는 무손실 데이터 압축 프로그램 및 LZMA2 압축 알고리즘 파일 형식이다..(yum install xz* 명령어로 패키지 설치가 가능)xz는 7-zip프로그램의 축소된 버전으로 간주 할 수 있다.xz -d [파일이름] 으로 압축해제가 가능하다.<#nbsp;>[해설작성자 : 황상연]<#nbsp;><#nbsp;>-d 압축해제-v 압축해제 과정 자세히 표현<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>

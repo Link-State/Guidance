@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-06-11
+과목 : 1
+문제번호 : 17
+문제지문 : 다음 중 vi 편집기에서 모든 windows라는 문자열을 linux로 치환하는 명령으로 알맞은 것은?
+사진 : 
+1번 : :% s/linux/windows/g
+2번 : :% s/windows/linux/g
+3번 : :% s/\<linux\>/windows/g
+4번 : :% s/\<windows\>/linux/g
+정답 : 2
+해설 : vi 편집기 파일 안에서 문자 치환 방법-----------------------------:% s/[변경 대상]/[변경 문자]/g-----------------------------문제에서 [변경 대상]은 windows, [변경 문자]는 linux이므로 정답은:% s/windows/linux/g이다.<#nbsp;>[해설작성자 : JSC]<#nbsp;><#nbsp;>보충설명 하자면, 꺽쇠(<, >) 앞에 \가 붙는데, \가 붙는 이유는 특수문자를 인식시키기 위함이다.따라서 4번은 windows 를 linux로 치환.g는 모든 이라는 의미.<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;><windows>를 linux로 치환하는것이 아님단어의 경계에서 정확히 windows인 단어를 찾아서 linux로 치환하는것<#nbsp;>[해설작성자 : pse제자]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-12-11
+과목 : 2
+문제번호 : 52
+문제지문 : 다음 설명에 해당하는 리눅스 배포판으로 알맞은 것은?
+사진 : <!PICTURE@image30>
+1번 : Rocky Linux
+2번 : Arch Linux
+3번 : Alma Linux
+4번 : Linux Mint
+정답 : 1
+해설 : ROCKY Linux : 레드헷 엔터프라이즈 리눅스의 복제 버전에 해당하는 centos 지원 종료에 따라 탄생한 리눅스 배포판이다Arch :사용자 중심의 리눅스 베포판으로 강력하고 경량화된 운영체제Alma : centos의 대체품Linux mint 사용자 친화적인 리눅스의 배포판<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>CentOS의대체 리눅스AlmaLinux : CloudLinux가 후원하며 개발한 오픈소스 엔터프라이즈급 Linux 배포판Rocky Linux : CentOS의 초기 창립자 중 한 명인 Gregory Kurtzer에 의해 시작된 프로젝트<#nbsp;>[해설작성자 : 빠대비]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2012-12-10
+과목 : 1
+문제번호 : 1
+문제지문 : /ihd 디렉터리에 존재하는 shared.txt 파일에 대해 모든 사용자가 읽기만 가능하도록 설정하기 위한 명령으로 알맞은 것은?
+사진 : <!PICTURE@image1>
+1번 : chmod 666 /ihd/shared.txt
+2번 : chmod 111 /ihd/shared.txt
+3번 : chmod 444 /ihd/shared.txt
+4번 : chmod 555 /ihd/shared.txt
+정답 : 4
+해설 : 

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-09-09
+과목 : 2
+문제번호 : 74
+문제지문 : 다음 설명에 해당하는 파일명으로 알맞은 것은?
+사진 : <!PICTURE@image41>
+1번 : /etc/hosts
+2번 : /etc/resolv.conf
+3번 : /etc/sysconfig/network
+4번 : /etc/sysconfig/network-scripts
+정답 : 1
+해설 : /etc/sysconfig/network : 시스템 전체에 대한 global한 기본 게이트웨이주소, 호스트이름, 네트워크연결 허용여부 등을 설정<#nbsp;>[해설작성자 : 뽀빠이돈까스]<#nbsp;><#nbsp;>

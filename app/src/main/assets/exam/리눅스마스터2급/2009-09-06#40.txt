@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2009-09-06
+과목 : 1
+문제번호 : 40
+문제지문 : ihd.tgz의 압축파일을 푸는 방법으로 틀린 것은?
+사진 : 
+1번 : gzip ihd.tgz
+2번 : gzip -d ihd.tgz
+3번 : tar xvzf ihd.tgz
+4번 : gunzip ihd.tgz | tar xvf -f
+정답 : 1
+해설 : 

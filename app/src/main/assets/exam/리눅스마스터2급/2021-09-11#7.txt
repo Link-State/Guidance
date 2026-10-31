@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-09-11
+과목 : 1
+문제번호 : 7
+문제지문 : 다음은 yum 명령을 이용해서 telnet-server 패키지를 설치하는 과정이다. ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image5>
+1번 : -i
+2번 : -y
+3번 : install
+4번 : --install
+정답 : 4
+해설 : YUM(Yellowdog Updater Modified) : RPM의 의존성 문제를 해결하기 위한 유틸리티yum install [패키지명] : 의존성을 고려하며 패키지 설치<#nbsp;>[해설작성자 : 해설 보세요]<#nbsp;><#nbsp;>

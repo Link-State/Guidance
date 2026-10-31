@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-09-10
+과목 : 2
+문제번호 : 57
+문제지문 : 다음 중 OSI 7 계층과 해당 계층과 관련된 내용으로 알맞은 것은?
+사진 : 
+1번 : 어플리케이션 계층 : TCP/IP, HTTP, Telnet
+2번 : 트랜스포트 계층 : TCP, UDP, ICMP, IGMP
+3번 : 네트워크 계층 : TCP/IP, MAC
+4번 : 데이터링크 계층 : CSMA/CD, CRC
+정답 : 8
+해설 : 물리계층        RS-232, 10BAST-T  등등데이터링크계층   이더넷, 토큰링, FDDI, CSMA/CD  네트워크 계층    IP, IMCP, ARP, IGMP, BGP, RIP전송 계층       TCP, UDP세션 계층       SSL, NetBIOS표현 계층       SMB,AFP응용 계층       HTTP, POP3, IMAP, DNS<#nbsp;>[해설작성자 : 허세]<#nbsp;><#nbsp;>

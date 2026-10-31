@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-12-09
+과목 : 1
+문제번호 : 5
+문제지문 : 다음 설명에 해당하는 명칭으로 알맞은 것은?
+사진 : <!PICTURE@image3>
+1번 : ALSA
+2번 : CUPS
+3번 : SANE
+4번 : OSS
+정답 : 8
+해설 : 사운드 관련은 OSS와 ALSA. 표준 유닉스 시스템 콜이 나오면 OSS.<#nbsp;>[해설작성자 : 5일벼락치기로합격]<#nbsp;><#nbsp;>1. ALSA(Advanced Linux Sound Architecture)- 사운드 카드를 자동으로 구성하게 하고 다수의 사운드 장치 관리를 목적으로 사용2. CUPS : 애플이 개발한 오픈 소스 프린팅 시스템3. SANE(Scanner Access Now Easy) : 스캐너 관련 API4. OSS(Open Sound System)<#nbsp;>[해설작성자 : asknom]<#nbsp;><#nbsp;>

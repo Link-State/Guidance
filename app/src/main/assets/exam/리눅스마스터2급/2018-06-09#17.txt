@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-06-09
+과목 : 1
+문제번호 : 17
+문제지문 : 다음 중 설명으로 알맞은 것은?
+사진 : <!PICTURE@image10>
+1번 : /etc/profile
+2번 : /etc/bashrc
+3번 : $HOME/.bash_logout
+4번 : $HOME/.bashrc
+정답 : 8
+해설 : /etc/bashrc 전역 환경변수이고  개인사용자의 환경변수 설정 파일은 $HOME/.bashrc 파일이다..

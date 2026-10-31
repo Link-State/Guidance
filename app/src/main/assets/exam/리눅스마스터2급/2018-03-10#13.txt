@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-03-10
+과목 : 1
+문제번호 : 13
+문제지문 : 다음 중 조건에 맞는 셸 프롬프트(Shell Prompt) 모양으로 알맞은 것은?
+사진 : <!PICTURE@image6>
+1번 : [ihduser@www bash]$
+2번 : [ihduser@www /etc]$
+3번 : [ihduser@www 10:10:34]$
+4번 : [ihduser@www 1009]$
+정답 : 4
+해설 : 

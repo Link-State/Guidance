@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-09-13
+과목 : 1
+문제번호 : 37
+문제지문 : 다음 중 nautilus이라는 패키지를 apt-get 명령으로 제거할 때 알맞은 것은?
+사진 : 
+1번 : apt-get remove nautilus
+2번 : apt-get nautilus remove
+3번 : apt-get nautilus clean
+4번 : apt-get clean nautilus
+정답 : 1
+해설 : 

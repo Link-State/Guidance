@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-03-11
+과목 : 1
+문제번호 : 38
+문제지문 : 다음 설명에 해당하는 소스 설치 단계로 알맞은 것은?
+사진 : <!PICTURE@image19>
+1번 : configure
+2번 : make
+3번 : cmake
+4번 : make clean
+정답 : 2
+해설 : &#65279;configure(환경설정) -> make(컴파일) -> make install① configure : 환경파일 makefile 생성② make : makefile 기반으로 소스 파일 컴파일, make 끝나면 소스파일이 실행파일(setup)로 전환make install : 컴파일 된 실행파일을 지정된 속성으로 지정된 디렉터리에 설치③ cmake : 플랫폼별 빌드 파일 생성④ make clean : 빌드 디렉터리 정리&#65279;<#nbsp;>[해설작성자 : pamten]<#nbsp;><#nbsp;>소스 설치 과정 : configure -> make -> make installconfigure(환경설정) : 환경파일 makefile 생성make(컴파일) : makefile 기반으로 소스 파일 컴파일               파일 관리 유틸. 파일 간의 종속관계를 파악해 Makefile(기술파일)에 적힌대로 컴파일러에 명령해 SHELL 명령이 순차적으로 실행될 수 있게 한다..타겟과 의존성 관련 작업을 수행한 후에 최종적으로 실행 파일 만듬.make install(파일 설치) : 컴파일 된 실행파일을 지정된 속성으로 지정된 디렉터리에 설치<#nbsp;>[해설작성자 : 떨어지지않길바람]<#nbsp;><#nbsp;>

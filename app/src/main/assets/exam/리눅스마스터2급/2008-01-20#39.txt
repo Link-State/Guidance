@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2008-01-20
+과목 : 1
+문제번호 : 39
+문제지문 : tar 파일로 묶여있는 ihd.tar파일의 압축을 풀고자 할때 사용하는 것은?
+사진 : 
+1번 : tar cvf ihd.tar
+2번 : tar xvf ihd.tar
+3번 : tar uvf ihd.tar
+4번 : tar tvf ihd.tar
+정답 : 2
+해설 : 

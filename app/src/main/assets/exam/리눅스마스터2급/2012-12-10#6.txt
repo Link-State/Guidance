@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2012-12-10
+과목 : 1
+문제번호 : 6
+문제지문 : 다음 중 데이터의 복구확률을 높이기 위해 사용되는 저널링 파일 시스템으로 틀린 것은?
+사진 : 
+1번 : JFS(Journaled File System)
+2번 : XFS(eXtended File System)
+3번 : ext2(Second Extended File System)
+4번 : ReiserFS(Reiser File System)
+정답 : 4
+해설 : 

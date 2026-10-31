@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2013-06-17
+과목 : 1
+문제번호 : 28
+문제지문 : 다음 중 /root/time_start.sh라는 파일을 매주 월요일 오전 6시에 사용자 ihd 권한으로 실행하기 위하여 crontab에 등록할 경우 알맞은 것은?
+사진 : 
+1번 : 0 6 * * 1 su - root -c '/root/time_start.sh' >&/dev/null
+2번 : 0 6 * * 1 su - ihd -c '/root/time_start.sh' >&/dev/null
+3번 : * * * 6 1 su - ihd -c '/root/time_start.sh' >&/dev/null
+4번 : * * * 1 6 su - root -c '/root/time_start.sh' >&/dev/null
+정답 : 2
+해설 : 

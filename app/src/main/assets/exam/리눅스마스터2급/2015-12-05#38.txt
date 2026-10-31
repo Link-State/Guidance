@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2015-12-05
+과목 : 1
+문제번호 : 38
+문제지문 : 다음 중 apt-get 명령으로 nautilus라는 패키지를 설치하는 명령으로 알맞은 것은?
+사진 : 
+1번 : apt-get install nautilus
+2번 : apt-get nautilus install
+3번 : apt-get build nautilus
+4번 : apt-get nautilus build
+정답 : 1
+해설 : 

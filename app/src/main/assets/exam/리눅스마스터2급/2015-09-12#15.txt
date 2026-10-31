@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2015-09-12
+과목 : 1
+문제번호 : 15
+문제지문 : 다음 중 기존의 PATH 설정 값에 /home/tommy 경로를 추가하려고 할 때 알맞은 것은?
+사진 : 
+1번 : export PATH=$PATH:/home/tommy
+2번 : export PATH=PATH:/home/tommy
+3번 : export $PATH=$PATH:/home/tommy
+4번 : export $PATH=PATH:/home/tommy
+정답 : 1
+해설 : export PATH=$PATH:'추가할 경로'구문 외워야함.<#nbsp;>[해설작성자 : 이번주 시험]<#nbsp;><#nbsp;>명령 구문을 무작정 외울려고 하지말고 이해를 해야  기억이 오래가죠. 주입식 교육은 좋지 못한 방법 입니다.export 명령어는 환경변수에 등록시키는 명령어 입니다.echo $PATH 를 하시면 그간 등록되었던 모든 PATH 설정값이 저장됐으며 다수의 경로가 : 를 구분으로 저장되어 있습니다.여기서export PATH=/home/tommy 만 하면 기존에 있는 PATH 값들은 전부다 제거가 되며 오직 /home/tommy 만 저장됩니다.고로 기존 값 보존하면서 새로 추가 하는 방법은 $PATH 값에 :/home/tommy 를 붙이면 기존값 유지하면서 저장이 됩니다.

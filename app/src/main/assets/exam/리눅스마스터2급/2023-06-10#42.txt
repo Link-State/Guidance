@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-06-10
+과목 : 1
+문제번호 : 42
+문제지문 : 다음 중 미설치된 sendmail 패키지에 대한 자세한 정보를 확인하는 명령으로 알맞은 것은?
+사진 : 
+1번 : rpm -qi sendmail
+2번 : yum -qi sendmail
+3번 : yum list sendmail
+4번 : yum info sendmail
+정답 : 8
+해설 : 미설치된 패키지의 정보를 확인해야하므로 레파지토리에서 조회해야함. 따라서 yum 명령어를 사용해야함.그외 :1. rpm -qi sendmail: 이미 설치된 패키지에 대한 정보를 조회.2. yum -qi sendmail: 이 형식은 yum 명령어의 올바른 사용법이 아님.3. yum list sendmail: 이 명령은 sendmail 패키지가 레포지토리에 있는지, 설치되어 있는지 여부를 포함해 간단한 목록을 제공하지만, 자세한 정보는 제공하지 않음.<#nbsp;>[해설작성자 : 빠대비]<#nbsp;><#nbsp;>

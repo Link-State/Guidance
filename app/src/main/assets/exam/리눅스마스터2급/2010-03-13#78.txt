@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2010-03-13
+과목 : 2
+문제번호 : 78
+문제지문 : 클러스터시스템은 HA(High Availavility), Load balancing, HPC(High Performance Computing)로 구분된다. 이 중 리눅스 기반의 HPC 시스템에 해당하는 것은?
+사진 : 
+1번 : LVS
+2번 : LRP
+3번 : Beowolf
+4번 : Graywolf
+정답 : 4
+해설 : 

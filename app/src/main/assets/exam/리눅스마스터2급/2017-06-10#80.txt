@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2017-06-10
+과목 : 2
+문제번호 : 80
+문제지문 : 다음 설명으로 알맞은 것은?
+사진 : <!PICTURE@image27>
+1번 : Big Data
+2번 : IoT
+3번 : Cloud Computing
+4번 : Embedded system
+정답 : 2
+해설 : 

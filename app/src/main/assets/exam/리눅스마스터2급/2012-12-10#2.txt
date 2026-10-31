@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2012-12-10
+과목 : 1
+문제번호 : 2
+문제지문 : 다음과 같이 사용자 tux1, 그룹 tux1 소유인 디렉터리 /home/tux1를 포함한 하위 디렉터리, 파일의 소유그룹을 penguin로 변경하려고 한다. 알맞은 것은?
+사진 : <!PICTURE@image2>
+1번 : chgrp -R penguin /home/tux1
+2번 : chown -R penguin /home/tux1
+3번 : chgrp -g penguin /home/tux1
+4번 : chown -g penguin /home/tux1
+정답 : 1
+해설 : 

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-09-13
+과목 : 2
+문제번호 : 68
+문제지문 : 다음 중 리눅스 시스템에서 네임 서빙을 받는 우선순위를 설정하는 파일로 알맞은 것은?
+사진 : 
+1번 : /etc/host.conf
+2번 : /etc/sysconfig/network
+3번 : /etc/hosts
+4번 : /etc/sysconfig/network.conf
+정답 : 1
+해설 : 

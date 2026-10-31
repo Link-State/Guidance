@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-09-21
+과목 : 2
+문제번호 : 55
+문제지문 : 다음 결과에 해당하는 명령으로 알맞은 것은?
+사진 : <!PICTURE@image21>
+1번 : xhost
+2번 : xauth
+3번 : xlist
+4번 : xinit
+정답 : 1
+해설 : xauth=> Using authority file /run/user/0/gdm/Xauthority   xauth>xhost=> access control enabled, only authorized clients can connect   SI:localuser:root<#nbsp;>[해설작성자 : Hackpo]<#nbsp;><#nbsp;>

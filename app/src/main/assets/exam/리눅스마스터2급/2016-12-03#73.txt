@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-12-03
+과목 : 2
+문제번호 : 73
+문제지문 : 리눅스 시스템에 설정된 첫 번째 네트워크 인터페이스를 해제하려고 할 때 사용하는 명령으로 알맞은 것은?
+사진 : 
+1번 : ipconfig eth0 terminate
+2번 : ipconfig eth0 down
+3번 : ifconfig eth0 terminate
+4번 : ifconfig eth0 down
+정답 : 8
+해설 : 

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2010-09-04
+과목 : 1
+문제번호 : 8
+문제지문 : 홈 디렉토리(/home)에 사용자 계정 cache를 만들고， 홈 디렉토리에 생성된 사용자 디스크 사용 용량제한을 체크하는 명령으로 올바른 것은?
+사진 : 
+1번 : #quotacheck-mf /home/cache
+2번 : #quota-mf /home/cache
+3번 : #quotaon -mf /home/cache
+4번 : # chkdsk -mf /home/cache
+정답 : 1
+해설 : 

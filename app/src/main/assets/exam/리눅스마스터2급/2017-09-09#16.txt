@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2017-09-09
+과목 : 1
+문제번호 : 16
+문제지문 : PATH변수에 $HOME/data 라는 경로를 추가하려고 할 때 알맞은 명령은?
+사진 : 
+1번 : PATH = $PATH:$HOME/data
+2번 : $PATH = $PATH:$HOME/data
+3번 : PATH = $HOME/data
+4번 : $PATH = $HOME/data
+정답 : 1
+해설 : 

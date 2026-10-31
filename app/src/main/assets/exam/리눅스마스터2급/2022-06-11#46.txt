@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-06-11
+과목 : 1
+문제번호 : 46
+문제지문 : 다음 중 파티션에 할당된 UUID 값을 확인하는 명령어로 알맞은 것은?
+사진 : 
+1번 : uuid
+2번 : lsuid
+3번 : blkid
+4번 : fdisk
+정답 : 4
+해설 : blkid 는  block device 의 파일 시스템(file system) 유형이나 속성(LABEL, UUID 등) 을 출력하는 유틸리티입니다.<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>

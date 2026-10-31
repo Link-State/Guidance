@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-06-14
+과목 : 1
+문제번호 : 41
+문제지문 : 다음 중 yum 사용 방법으로 틀린 것은?
+사진 : 
+1번 : yum -y install telnet-server
+2번 : yum telnet-server
+3번 : yum list telnet-server
+4번 : yum search telnet-server
+정답 : 2
+해설 : 

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-10-10
+과목 : 2
+문제번호 : 70
+문제지문 : 다음 중 IP 주소 및 도메인을 관리하는 국제관리 기구로 알맞은 것은?
+사진 : 
+1번 : ICANN
+2번 : EIA
+3번 : ITU
+4번 : IEEE
+정답 : 1
+해설 : ICANN(아이칸) : the Internet Corporation for Assigned Names and Numbers인터넷 도메인 관리와 정책을 결정하는 비영리 국제관리 기구이다.EIA : Electronic Industries Association    : 전자 공업 연맹ITU : International Telecommunication Union    : 국제 전기 통신 연합IEEE : Institute of Electrical and Electronics Engineers     : 전기 전자 학회<#nbsp;>[해설작성자 : 이번 시험 떨어지면 내가 손씨가 아니라 박씨다.]<#nbsp;><#nbsp;>

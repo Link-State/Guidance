@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-10-10
+과목 : 1
+문제번호 : 13
+문제지문 : 다음 중 등장 시기가 오래된 것부터 나열한 순서로 알맞은 것은?
+사진 : 
+1번 : csh → tcsh → bash
+2번 : bash → csh → tcsh
+3번 : csh → bash → tcsh
+4번 : bash → tcsh → csh
+정답 : 1
+해설 : sh가 가장 오래됨 -> csh(c처럼된 명령어) -> tcsh(csh에서 몇개 추가) -> bash(csh와 ksh 합침)<#nbsp;>[해설작성자 : 행복 히오스]<#nbsp;><#nbsp;>

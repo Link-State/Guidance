@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-06-15
+과목 : 2
+문제번호 : 80
+문제지문 : 다음 중 VirtualBox에 대한 설명으로 틀린 것은?
+사진 : 
+1번 : 라이선스는 GNU GPL를 따른다.
+2번 : VMware의 VMDK 이미지를 지원한다.
+3번 : 인텔 및 AMD 기반의 반가상화를 지원한다.
+4번 : Microsoft Virtual PC 이미지인 VHD를 지원한다.
+정답 : 4
+해설 : VirtualBox는 전가상화를 지원한다<#nbsp;>[해설작성자 : 넌 해도 안돼 ㅎ]<#nbsp;><#nbsp;>1.버추얼박스 오픈 소스 에디션(OSE)라고 불리는 두 번째 버전이 바로 GPL 라이선스를 가지는 오픈 소스 버전@2.버추얼박스는 VMware Virtual Machine Disk Format(VMDK)의 이미지 파일을 읽고 쓸 수 있으며,3.버추얼박스는 인텔의 하드웨어 가상화 VT-x와 AMD의 AMD-V를 지원한다.4. Microsoft Virtual PC의 디스크 이미지(VHD) 또한 동일하게 지원하고 있다.<#nbsp;>[해설작성자 : 하면 됩니다! 될놈될 화이팅]<#nbsp;><#nbsp;>

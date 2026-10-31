@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-03-13
+과목 : 1
+문제번호 : 4
+문제지문 : 다음 중 XFS 파일 시스템을 생성하는 명령으로 알맞은 것은?
+사진 : 
+1번 : mke2fs
+2번 : xfs_mkfs
+3번 : xfs.mkfs
+4번 : mkfs.xfs
+정답 : 8
+해설 : ※파일 시스템 생성에 중심을 둠※mkfs= make file system→ xfs 파일 시스템을 생성하는 명령어이므로mkfs.xfs가 맞다.<#nbsp;>[해설작성자 : 편수희바라기유진]<#nbsp;><#nbsp;>1. mke2fsext2, ext3, ext4 파일 시스템을 생성하는 명령어입니다.XFS와는 관련이 없습니다.2. xfs_mkfsmkfs.xfs로 대체되었습니다.3. xfs.mkfs존재하지 않는 명령<#nbsp;>[해설작성자 : ROOPY]<#nbsp;><#nbsp;>

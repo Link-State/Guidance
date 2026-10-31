@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-06-10
+과목 : 1
+문제번호 : 8
+문제지문 : 다음 중 파일 시스템이 ext4인 /dev/sdb1 파티션을 /data 디렉터리로 마운트하는 명령으로 알맞은 것은?
+사진 : 
+1번 : mount -o ext4 /data /dev/sdb1
+2번 : mount -o ext4 /dev/sdb1 /data
+3번 : mount -t ext4 /data /dev/sdb1
+4번 : mount -t ext4 /dev/sdb1 /data
+정답 : 8
+해설 : -t = 파일 시스템의 유형을 지정하는데 사용-o = 마운트할 때 사용할 옵션을 지정하는데 사용

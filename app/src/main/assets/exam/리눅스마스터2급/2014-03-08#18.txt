@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-03-08
+과목 : 1
+문제번호 : 18
+문제지문 : /IHD/WHITE 경로를 기존의 PATH 환경변수에 추가하여 사용하고자 할 때 bash쉘에서 사용하는 설정으로 알맞은 것은?
+사진 : 
+1번 : PATH=/IHD/WHITE
+2번 : PATH=PATH:/IHD/WHITE
+3번 : PATH=$:/IHD/WHITE
+4번 : PATH=$PATH:/IHD/WHITE
+정답 : 8
+해설 : 

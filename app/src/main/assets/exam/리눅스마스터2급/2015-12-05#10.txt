@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2015-12-05
+과목 : 1
+문제번호 : 10
+문제지문 : 다음 중 nanuminfo 사용자의 디스크 용량을 Soft 10MB, Hard 11MB로 설정하기 위한 명령어로 알맞은 것은?
+사진 : 
+1번 : setquota -u nanuminfo 10M 11M 0 0 /home/nanuminfo
+2번 : setquota -u nanuminfo 11M 10M 0 0 /home/nanuminfo
+3번 : setquota -u nanuminfo 10M 11M 0 0 /home
+4번 : setquota -u nanuminfo 11M 10M 0 0 /home
+정답 : 4
+해설 : 

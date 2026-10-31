@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-03-13
+과목 : 1
+문제번호 : 15
+문제지문 : 다음 설명에 해당하는 파일로 알맞은 것은?
+사진 : <!PICTURE@image6>
+1번 : /bin/bash
+2번 : /etc/shells
+3번 : /etc/passwd
+4번 : /etc/shadow
+정답 : 4
+해설 : 사용자가 'linux2021' 일때, /etc/passwd 파일의 기록 항목 중에서 맨 마지막에 로그인쉘이 기록됩니다.    줄번호ex)  13   linux2021:x:1013:1013::/home/linux2021:/bin/bash일때, 홈쉘은 /bin/bash 가 되는 것입니다.<#nbsp;>[해설작성자 : 합격기원1000]<#nbsp;><#nbsp;>2) /etc/shells: 사용 가능할 쉘 리스트가 담긴 파일3) /etc/passwd: 시스템에 등록된 사용자의 정보들이 담겨있는 파일4) /etc/shadow: 암호화된 패스워드와 패스워드 설정 정책이 기재되어 있는 파일<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>

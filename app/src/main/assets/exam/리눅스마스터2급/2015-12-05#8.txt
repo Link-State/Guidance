@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2015-12-05
+과목 : 1
+문제번호 : 8
+문제지문 : 다음 중 /dev/hda2를 ext3 파일 시스템으로 생성하려고 할 때 명령으로 틀린 것은?
+사진 : 
+1번 : mkfs -t ext3 /dev/hda2
+2번 : mke2fs -t ext3 /dev/hda2
+3번 : mke2fs -j /dev/hda2
+4번 : fsck -t ext3 /dev/hda2
+정답 : 8
+해설 : 

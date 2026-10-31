@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-06-11
+과목 : 2
+문제번호 : 49
+문제지문 : 다음 설명에 해당하는 클러스터 구성 방식으로 알맞은 것은?
+사진 : <!PICTURE@image18>
+1번 : 고계산용 클러스터
+2번 : 부하분산 클러스터
+3번 : HA(High Available) 클러스터
+4번 : HPC(High Performance Computing) 클러스터
+정답 : 4
+해설 : [클러스터링 종류]① 고계산용 클러스터(HPC Cluster: High Performance Computing Cluster)- 베어울프(Beowulf) 클러스터라고도 하며, 과학 계산용으로 활용됨② 부하 분산 클러스터(LVS Cluster: Linux Virtual Server Cluster)- 대규모의 서비스를 제공하기 위해 사용됨- 여러 개의 서버가 부하 분산기에 연결되어 서비스를 제공함③ 고가용성 클러스터(HA Cluster)- 연속적인 서비스 제공을 위하여 사용- 부하 분산기와 백업 서버 사이에서 주기적으로 통신하며, 이상 유무 점검<#nbsp;>[해설작성자 : JSC]<#nbsp;><#nbsp;>

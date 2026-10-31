@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-03-12
+과목 : 1
+문제번호 : 38
+문제지문 : 다음 중 pic.tar에 elon.jpg 파일이 포함되었는지 확인하는 명령어로 알맞은 것은?
+사진 : 
+1번 : tar cf ./pic.tar |grep elon.jpg
+2번 : tar fvc ./pic.tar |grep "elon.jpg"
+3번 : tar vft ./pic.tar |grep elon.jpg
+4번 : tar rfv ./pic.tar |grep "elon.jpg"
+정답 : 4
+해설 : 

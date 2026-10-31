@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-09-03
+과목 : 1
+문제번호 : 44
+문제지문 : 다음 중 chmod 명령어 사용법 관련된 예로 틀린 것은?
+사진 : 
+1번 : chmod u+s a.out
+2번 : chmod g+s a.out
+3번 : chmod o+t /project
+4번 : chmod g+t /project
+정답 : 8
+해설 : u = user 파일소유자g = group 파일소유그룹o = 일반 사용자t = Stikybit 설정s = SetUID , SetGID설정.여기서 chmode g + t dir 와 chmode u + t dir은 입력해도 아무런 변화가 없다.따라서 정답은 4<#nbsp;>[해설작성자 : 파이팅]<#nbsp;><#nbsp;>파이팅님 해설에 추가합니다.Sticky bit(t)의 특성:Sticky bit는 디렉토리의 기타 권한(other)에만 설정할 수 있습니다chmod o+t /project &#9989; (정상 작동)chmod u+t /project &#10060; (효과 없음)chmod g+t /project &#10060; (효과 없음)그래서 4번이 효과가없는 명령어가 되므로 답이 4번<#nbsp;>[해설작성자 : 쥬씨]<#nbsp;><#nbsp;>

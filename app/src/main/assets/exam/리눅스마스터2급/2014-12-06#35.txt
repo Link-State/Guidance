@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-12-06
+과목 : 1
+문제번호 : 35
+문제지문 : 다음의 조건일 때 ( 괄호 )안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image12>
+1번 : (ㄱ) uncompress (ㄴ) bunzip2
+2번 : (ㄱ) bunzip2 (ㄴ) uncompress
+3번 : (ㄱ) uncompress (ㄴ) gunzip
+4번 : (ㄱ) gunzip (ㄴ) uncompress
+정답 : 1
+해설 : 

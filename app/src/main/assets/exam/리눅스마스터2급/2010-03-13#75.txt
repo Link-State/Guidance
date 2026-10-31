@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2010-03-13
+과목 : 2
+문제번호 : 75
+문제지문 : 다음 중 로컬 DNS 서버의 주소를 변경하기 위해서 설정해야 하는 파일은 무엇인가?
+사진 : 
+1번 : /etc/host.conf
+2번 : /etc/sysconfig/network
+3번 : /etc/sys config/network-scripts/ifcfg-eth0
+4번 : /etc/resolv.conf
+정답 : 8
+해설 : 

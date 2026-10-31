@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-12-08
+과목 : 1
+문제번호 : 6
+문제지문 : 다음 ( 괄호 ) 안에 들어갈 명령으로 알맞은 것은?
+사진 : <!PICTURE@image3>
+1번 : usermod kait lin.txt
+2번 : groupmod kait lin.txt
+3번 : chown kait lin.txt
+4번 : chgrp kait lin.txt
+정답 : 8
+해설 : chgroup 체인지 그룹명<#nbsp;>[해설작성자 : 에이든]<#nbsp;><#nbsp;>chgrp [그룹명] [파일명]chown :[그룹명] [파일명]<#nbsp;>[해설작성자 : 시험붙게해줴요]<#nbsp;><#nbsp;>

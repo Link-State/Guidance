@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2009-09-06
+과목 : 2
+문제번호 : 60
+문제지문 : 다음 중 애플리케이션 계층 프로토콜이 아닌 것은?
+사진 : 
+1번 : TCP(Transmission Control Protocol)
+2번 : FTP(File Transfer Protocol)
+3번 : SMTP(Simple Mail Transfer Protocol)
+4번 : DNS(Domain Name Service)
+정답 : 1
+해설 : 

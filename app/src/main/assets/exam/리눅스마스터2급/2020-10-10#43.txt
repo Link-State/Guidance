@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-10-10
+과목 : 1
+문제번호 : 43
+문제지문 : 다음 중 lin.txt라는 문서 파일을 출력한 후에 삭제하는 명령으로 알맞은 것은?
+사진 : 
+1번 : lp -r lin.txt
+2번 : lp -d lin.txt
+3번 : lpr -r lin.txt
+4번 : lpr -d lin.txt
+정답 : 4
+해설 : lpr 명령어=> lpr -r 파일명: 출력한 뒤 지정 파일 삭제lp 명령어=> lp -d 프린터명: 기본 설정 프린트 이외에 다른 프린터로 지정참고)계열 별 프린터 관련 명령어BSD 계열: lpr, lpq, lprm, lpcSystem V 계열: lp , lpstat, cancel<#nbsp;>[해설작성자 : 뚠혀니]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-12-11
+과목 : 1
+문제번호 : 32
+문제지문 : 다음 설명에 해당하는 파일로 알맞은 것은?
+사진 : <!PICTURE@image16>
+1번 : /bin/bash
+2번 : /etc/shells
+3번 : /etc/passwd
+4번 : /etc/skel
+정답 : 2
+해설 : /etc/shells:사용 가능한 쉘 목록 정보 저장/etc/passwd:계정과 관련된 정보 저장<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>

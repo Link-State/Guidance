@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2010-06-12
+과목 : 2
+문제번호 : 65
+문제지문 : 다음에서 설명하는 이것은 무엇에 대한 설명인가?
+사진 : <!PICTURE@image14>
+1번 : MUA(Mail User Agent)
+2번 : MTA(Mail Transfer Agent)
+3번 : MDA(Mail Delivery Agent)
+4번 : MTU(Mail Transfer Unit)
+정답 : 2
+해설 : 

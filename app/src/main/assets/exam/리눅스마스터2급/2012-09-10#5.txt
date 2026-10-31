@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2012-09-10
+과목 : 1
+문제번호 : 5
+문제지문 : /project 디렉터리에 대해 모든 사용자가 읽기, 쓰기, 실행 가능하며, /project 디렉터리에서 생성 되는 파일 및 디렉터리가 penguin 그룹소유로 되도록 설정할 때 알맞은 명령은?
+사진 : <!PICTURE@image4>
+1번 : chmod 2666 /project
+2번 : chmod 2777 /project
+3번 : chmod 4666 /project
+4번 : chmod 4777 /project
+정답 : 2
+해설 : 

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-03-13
+과목 : 2
+문제번호 : 56
+문제지문 : 다음 그림에 해당하는 이미지 뷰어 프로그램으로 알맞은 것은?
+사진 : <!PICTURE@image26>
+1번 : Eog
+2번 : ImageMagicK
+3번 : Gimp
+4번 : Totem
+정답 : 1
+해설 : ImageMagicK와 GIMP는 그래픽 편집 소프트웨어이며, Totem은 음악/동영상 플레이어임.Eog는 Eye of Gnome으로 그래픽 뷰어임.<#nbsp;>[해설작성자 : 11]<#nbsp;><#nbsp;>

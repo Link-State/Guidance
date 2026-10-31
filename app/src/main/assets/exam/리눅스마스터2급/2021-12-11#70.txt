@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-12-11
+과목 : 2
+문제번호 : 70
+문제지문 : 다음 중 이더넷 환경에서 다중 접속의 반송파 감지 및 충돌 탐지 방식을 뜻하는 용어로 알맞은 것은?
+사진 : 
+1번 : CSMA/CA
+2번 : CSMA/CD
+3번 : FDDI
+4번 : DQDB
+정답 : 2
+해설 : CSMA/CD : Carrier Sense Multiple Access/ Collision Detection          단말기가 전송로의 신호 유무를 조사하고 다른 단말기가 신호를 송출하는지 확인한다.          이더넷FDDI : Fiber-Distributed Data Interface       LAN상의 고속스테이션을 연결 또는 백본방 연결 시 사용       Dual-ring 구조 : 데이터 전송 링과 백업용 링DQDB : Distributed Queue Dual Bus       MAN에서 사용되는 IEEE 802.6 규격인 QPSX(Queued Packet Synchronous Exchange)의 제어접속에 사용       Dual-bus 구조 : 각 버스는 단방향이며 버스의 헤드부분에는 53바이트의 슬롯 생성기가 있다.<#nbsp;>[해설작성자 : 공부중입니다]<#nbsp;><#nbsp;>

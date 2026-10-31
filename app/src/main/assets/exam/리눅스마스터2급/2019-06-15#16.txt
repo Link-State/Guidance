@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-06-15
+과목 : 1
+문제번호 : 16
+문제지문 : 다음 중 ihduser 사용자가 로그인 직후에 부여 받은 셸을 확인하는 방법으로 틀린 것은?
+사진 : 
+1번 : echo $SHELL
+2번 : grep ihduser /etc/passwd
+3번 : env | grep SHELL
+4번 : chsh -l
+정답 : 8
+해설 : 셸의 확인 : echo $SHELL셸의 변경 : chsh(change shell)    -l : 변경가능한 셸의 목록 출력 = cat /etc/shells

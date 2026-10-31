@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-03-10
+과목 : 1
+문제번호 : 5
+문제지문 : 다음 중 그룹 공유 디렉터리인 data에 Set-GID 및 스티키 비트(Sticky Bit)를 설정하는 방법으로 알맞은 것은?
+사진 : 
+1번 : chmod go+s data
+2번 : chmod go+t data
+3번 : chmod g+t,o+s data
+4번 : chmod g+s,o+t data
+정답 : 8
+해설 : 

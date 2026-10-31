@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-09-21
+과목 : 1
+문제번호 : 12
+문제지문 : 다음 중 관리자 계정으로 ihduser의 로그인 셸을 변경할 때 수정하는 파일로 가장 알맞은 것은?
+사진 : 
+1번 : /etc/shells
+2번 : /etc/passwd
+3번 : /etc/profile
+4번 : ~/.bash_profile
+정답 : 2
+해설 : 7번째 컬럼에 쉘 수정 가능[root@hpc ~]# cat /etc/passwdroot:x:0:0:root:/root:/bin/bash<#nbsp;>[해설작성자 : 잼도리]<#nbsp;><#nbsp;>

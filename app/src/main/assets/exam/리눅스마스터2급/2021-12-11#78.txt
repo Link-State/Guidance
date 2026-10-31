@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-12-11
+과목 : 2
+문제번호 : 78
+문제지문 : 다음 중 GNOME과 가장 거리가 먼 것은?
+사진 : 
+1번 : konqueror
+2번 : nautilus
+3번 : metacity
+4번 : mutter
+정답 : 1
+해설 : 1. konqueror : KDE기반. 웹 브라우저 및 파일 관리 시스템2. nautilus : GNOME 데스크톱 기반의 파일 관리 프로그램3. metacity : GNOME 2.x 윈도우 매니저4. mutter : GNOME 3.x 윈도우 매니저<#nbsp;>[해설작성자 : 해설을 보세요]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-27
+과목 : 1
+문제번호 : 12
+문제지문 : 현재 호스트에서 ihd.or.kr까지 연결되는 과정을 알고 싶을 때 사용할 명령은?
+사진 : 
+1번 : traceroute ihd.or.kr
+2번 : ping ihd.or.kr
+3번 : telnet.ihd.or.kr
+4번 : ftp ihd.or.kr
+정답 : 1
+해설 : 

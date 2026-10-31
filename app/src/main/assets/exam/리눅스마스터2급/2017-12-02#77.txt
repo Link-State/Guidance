@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2017-12-02
+과목 : 2
+문제번호 : 77
+문제지문 : 다음 중 고계산용 클러스터 기술과 가장 거리가 먼 것은?
+사진 : 
+1번 : Backup Node
+2번 : GNU C Compiler
+3번 : PVM(Parallel Virtual Machine)
+4번 : MPI(Message Passing Interface)
+정답 : 1
+해설 : Backup Node, Primary node는 고가용성 클러스터에 나오는 개념<#nbsp;>[해설작성자 : 할롱]<#nbsp;><#nbsp;>

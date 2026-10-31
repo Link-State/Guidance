@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-09-11
+과목 : 2
+문제번호 : 64
+문제지문 : 다음 설명에 해당하는 파일로 가장 알맞은 것은?
+사진 : <!PICTURE@image28>
+1번 : /etc/resolv.conf
+2번 : /etc/services
+3번 : /etc/sysconfig/network-scripts
+4번 : /etc/hosts
+정답 : 8
+해설 : 1) /etc/resolv.conf: 사용하고자 하는 네임서버를 지정하는 파일2) /etc/services: 리눅스 서버에서 사용하는 모든 포트들에 대한 정의를 설정하는 파일3) /etc/sysconfig/network-scripts: 리눅스 ip 주소를 설정하는 파일4) /etc/hosts: 특정 URL 주소에 접속할 때, DNS 서버에 질의하지 않고 지정된 IP 주소로 연결해 주는 기능을 하는 파일<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>

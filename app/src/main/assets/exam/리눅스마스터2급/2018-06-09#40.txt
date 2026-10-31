@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-06-09
+과목 : 1
+문제번호 : 40
+문제지문 : 다음 조건에 해당하는 명령으로 알맞은 것은?
+사진 : <!PICTURE@image19>
+1번 : tar zcvf linux.tar.gz *.txt
+2번 : tar jcvf linux.tar.bz2 *.txt
+3번 : tar zxvf linux.tar.gz *.txt
+4번 : tar jxvf linux.tar.bz2 *.txt
+정답 : 1
+해설 : 1. tar로 압축하기> tar -cvf [파일명.tar] [폴더명]2. tar 압축 풀기> tar -xvf [파일명.tar]3. tar.gz로 압축하기> tar -zcvf [파일명.tar.gz] [폴더명]4. tar.gz 압축 풀기> tar -zxvf [파일명.tar.gz]-c파일을 tar로 묶음-p파일 권한을 저장-v묶거나 파일을 풀 때 과정을 화면으로 출력-f파일 이름을 지정-C경로를 지정-xtar 압축을 풂-zgzip으로 압축하거나 해제함

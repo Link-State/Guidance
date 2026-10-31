@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2012-03-13
+과목 : 2
+문제번호 : 80
+문제지문 : 다음 설명은 클라우드 컴퓨팅의 어떤 서비스인가?
+사진 : <!PICTURE@image17>
+1번 : SaaS(Software as a Service)
+2번 : PaaS(Platform as a Service)
+3번 : IaaS(Infrastructure as a Service)
+4번 : IaaS(Internet as a Service)
+정답 : 1
+해설 : 

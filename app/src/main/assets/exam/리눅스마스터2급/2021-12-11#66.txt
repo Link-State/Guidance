@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-12-11
+과목 : 2
+문제번호 : 66
+문제지문 : 다음 중 Secure 기반의 원격제어 서비스와 연관이 없는 것은?
+사진 : 
+1번 : ssh
+2번 : sftp
+3번 : scp
+4번 : sccp
+정답 : 8
+해설 : SSH : 다른 컴퓨터에 로그인 하여 원격 시스템에서 명령 실행 및 다른 시스템으로 파일 복사 가능관련 서비스 : rsh(remote shell), scp(원격 파일 로컬로 복사해오기), sftp(ssh ftp, ftp의 보안연결)관련 파일 : ~/.ssh/authorized_keys<#nbsp;>[해설작성자 : 해설을 보세요]<#nbsp;><#nbsp;>scp = Secure CoPy 파일 전송 프로토콜<#nbsp;>[해설작성자 : 할루]<#nbsp;><#nbsp;>SCCP (Skinny Client Control Protocol): Cisco에서 사용하는 VoIP (Voice over IP) 네트워크를 위한 통신 프로토콜<#nbsp;>[해설작성자 : 빠대비]<#nbsp;><#nbsp;>

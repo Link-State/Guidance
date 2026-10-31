@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-12-08
+과목 : 2
+문제번호 : 58
+문제지문 : 네트워크 구성 중 ifconfig 명령어를 이용해 네트워크 인터페이스에 IP를 할당하고 해당 인터페이스를 활성화 하려고 한다. 다음 중 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image22>
+1번 : ㉠: eth0 ㉡: netmask ㉢: up
+2번 : ㉠: up ㉡: eth0 ㉢: netmask
+3번 : ㉠: ip ㉡: eth0 ㉢: mask
+4번 : ㉠: addr ㉡: mask ㉢: eth0
+정답 : 1
+해설 : ipconfig eth0 'IP주소' netmast '서브넷마스크' up여기서 up은 생략 가능함.<#nbsp;>[해설작성자 : Chae YuJin]<#nbsp;><#nbsp;>

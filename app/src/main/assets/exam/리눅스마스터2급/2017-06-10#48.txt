@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2017-06-10
+과목 : 1
+문제번호 : 48
+문제지문 : 다음 중 이름이 lp인 프린터로 seoul.txt 문서를 5장 출력하기 위한 명령으로 알맞은 것은?
+사진 : 
+1번 : lpr -% 5 -P lp seoul.txt
+2번 : lpr -$ 5 -P lp seoul.txt
+3번 : lpr -# 5 -P lp seoul.txt
+4번 : lpr -& 5 -P lp seoul.txt
+정답 : 4
+해설 : 2과목 : 리눅스 활용

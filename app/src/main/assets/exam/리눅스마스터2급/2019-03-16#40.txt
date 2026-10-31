@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-03-16
+과목 : 1
+문제번호 : 40
+문제지문 : 다음 설명에 해당하는 프로그램으로 알맞은 것은?
+사진 : <!PICTURE@image13>
+1번 : dselect
+2번 : alien
+3번 : synaptic
+4번 : aptitude
+정답 : 4
+해설 : synaptic은 데비안 패키지 관리 시스템인 APT(Advanced Packaging Tool)의 그래픽 유저 인터페이스이자 프론트엔드 격의 컴퓨터 프로그램<#nbsp;>[해설작성자 : 해설좀적자]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2012-09-10
+과목 : 1
+문제번호 : 45
+문제지문 : 다음 중 아래의 설명에서 ( 괄호 )에 알맞은 것은?
+사진 : <!PICTURE@image6>
+1번 : /usr/share/linux/Documentation/sound
+2번 : /etc/share/linux/Documentation/sound
+3번 : /usr/src/linux/Documentation/sound
+4번 : /etc/src/linux/Documentation/sound
+정답 : 4
+해설 : 

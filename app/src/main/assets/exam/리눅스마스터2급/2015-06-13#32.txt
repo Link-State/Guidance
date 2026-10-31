@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2015-06-13
+과목 : 1
+문제번호 : 32
+문제지문 : 다음 중 “vi +15 index.html”과 동일한 명령으로 알맞은 것은?
+사진 : 
+1번 : vi -ic 15 index.html
+2번 : vi -ir 15 index.html
+3번 : vi -iR 15 index.html
+4번 : vi -il 15 index.html
+정답 : 1
+해설 : 

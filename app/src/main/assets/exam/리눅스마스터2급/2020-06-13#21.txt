@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-06-13
+과목 : 1
+문제번호 : 21
+문제지문 : 다음 중 fg %2 명령을 실행했을 경우 설명으로 알맞은 것은?
+사진 : <!PICTURE@image12>
+1번 : fg + 와 동일한 명령으로 sleep 1000 작업이 실행된다.
+2번 : 백그라운드에서 실행되던 sleep 2000 작업이 실행된다.
+3번 : fg - 와 동일한 명령으로 sleep 2000 작업이 실행된다.
+4번 : 백그라운드에서 실행되던 sleep 3000 작업이 실행된다.
+정답 : 8
+해설 : fg - foreground 작업  , fg %[ID값] - background 작업을 foreground로 옮기기bg - background 작업  , bg %[ID값] -<#nbsp;>[해설작성자 : Progular]<#nbsp;><#nbsp;>

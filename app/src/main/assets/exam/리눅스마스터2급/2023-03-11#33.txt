@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-03-11
+과목 : 1
+문제번호 : 33
+문제지문 : 다음 설명에 해당하는 vi 편집기의 ex 모드 환경설정으로 알맞은 것은?
+사진 : <!PICTURE@image16>
+1번 : set ai
+2번 : set nu
+3번 : set sm
+4번 : set ts
+정답 : 1
+해설 : set ai(Autoindent) :  vi 편집기에서 자동으로 들여쓰기와 행 바꿈을 해주는 기능으로, 새로운 줄에서 바로 윗줄의 시작 열과 같은 위치에 커서를 위치시킴.<#nbsp;>[해설작성자 : Yun]<#nbsp;><#nbsp;>set nu(set number) : vi 편집기에서 문서의 각 라인번호를 표시해주는 명령<#nbsp;>[해설작성자 : 한큐에 붙었으면 ㅠ]<#nbsp;><#nbsp;>set ts(tab stop) : vi 편집기에서 탭 간격 조절<#nbsp;>[해설작성자 : 용선생]<#nbsp;><#nbsp;>set sm (showmatch) : 괄호 입력 시 짝이 맞는 괄호를 강조.<#nbsp;>[해설작성자 : 빠대비]<#nbsp;><#nbsp;>

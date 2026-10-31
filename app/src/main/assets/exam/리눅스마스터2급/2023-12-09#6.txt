@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-12-09
+과목 : 1
+문제번호 : 6
+문제지문 : 다음 중 스캐너 사용과 관련된 프로그램으로 알맞은 것은?
+사진 : 
+1번 : ALSA
+2번 : CUPS
+3번 : SANE
+4번 : LPRng
+정답 : 4
+해설 : ALSA: Advanced Linux Sound Architecture 스피커CUPS: Common UNIX Printing System 프린터SANE: Scanner Access Now Easy 스캐너LPRng: Line Printer next generation 프린터스캐너 프로그램은 S로 시작한다고 외웁시다..GUI포함인 Xsane이 나오는 경우도 있긴 합니다.<#nbsp;>[해설작성자 : 5일벼락치기로합격]<#nbsp;><#nbsp;>

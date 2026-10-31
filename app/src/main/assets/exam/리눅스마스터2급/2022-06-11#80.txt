@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-06-11
+과목 : 2
+문제번호 : 80
+문제지문 : 다음 중 시스템 시작 시 X 윈도 모드로 부팅하는 대신에 텍스트 모드로 부팅되도록 설정하는 명령으로 알맞은 것은?
+사진 : 
+1번 : systemctl set-default multi-user.target
+2번 : systemctl set-default texmode.target
+3번 : systemctl set-default runlevel5.target
+4번 : systemctl set-default graphical.target
+정답 : 1
+해설 : X 윈도를 실행하는 방법에는 부팅 시에 X 윈도를 실행하는 방법( 예전 RunLevel 5 ) 과 텍스트 모드 ( 예전 RunLevel 3 ) 에서 실행하는 방법으로 나눌 수 있다.Text 모드는 multi-user.target 이고 X 윈도 실행 모드는 graphical.target  이다- 그래피컬(runlevel 5)로 변경systemctl set-default graphical.target<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>

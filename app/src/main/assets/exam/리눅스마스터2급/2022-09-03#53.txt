@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-09-03
+과목 : 2
+문제번호 : 53
+문제지문 : 다음은 특정 IP 주소에 가상 도메인을 설정하는 과정이다. ( 괄호 ) 안에 들어갈 파일명으로 알맞은 것은?
+사진 : <!PICTURE@image28>
+1번 : /etc/hosts
+2번 : /etc/resolv.conf
+3번 : /etc/sysconfig/network
+4번 : /etc/sysconfig/network-scripts
+정답 : 1
+해설 : /etc/hosts : DNS에 쿼리를 보내기 전 해당 파일에서 먼저 도메인을 탐색. IP와 도메인을 1:1로 매핑. 가상의 도메인 설정/etc/resolv.conf : DNS에 보낼 도메인 쿼리를 단축/etc/sysconfig/network : 시스템 전체에 대한 global한 기본 게이트웨이주소, 호스트이름, 네트워크연결 허용여부 등을 설정<#nbsp;>[해설작성자 : 찰떡]<#nbsp;><#nbsp;>

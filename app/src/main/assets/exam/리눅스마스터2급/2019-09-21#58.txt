@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-09-21
+과목 : 2
+문제번호 : 58
+문제지문 : 다음 설명에 해당하는 것은?
+사진 : <!PICTURE@image23>
+1번 : SMB
+2번 : CIFS
+3번 : TELNET
+4번 : Usenet
+정답 : 2
+해설 : CIFS = Common Internet File System<#nbsp;>[해설작성자 : 모르면 해보자.]<#nbsp;><#nbsp;>

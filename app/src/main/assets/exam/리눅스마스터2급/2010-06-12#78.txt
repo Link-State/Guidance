@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2010-06-12
+과목 : 2
+문제번호 : 78
+문제지문 : 다음 중 리눅스로 구현되는 클러스터 시스템이 아닌 것은?
+사진 : 
+1번 : LVS(Linux Virtual Server)
+2번 : HA(High Availability)
+3번 : HPC(High Performance Computing)
+4번 : KVM(Kernel Virtual Machine)
+정답 : 8
+해설 : 

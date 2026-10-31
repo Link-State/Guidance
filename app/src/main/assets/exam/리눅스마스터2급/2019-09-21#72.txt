@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-09-21
+과목 : 2
+문제번호 : 72
+문제지문 : 다음 중 OSI 7계층의 전송 계층에서 사용하는 프로토콜 데이터 단위(Protocol Data Unit)로 알맞은 것은?
+사진 : 
+1번 : bit
+2번 : frame
+3번 : packet
+4번 : segment
+정답 : 8
+해설 : OSI 7계층의 프로토콜 데이터 단위응용계층 APDU표현계층 PPDU세션계층 SPDU전송계층 tcp 세그먼트/ udp 데이터그램네트워크 계층 패킷데이터링크 계층 프레임<#nbsp;>[해설작성자 : 오랜만에공부하니힘들다]<#nbsp;><#nbsp;>물리계층 bit데이터계층 frame네트워크계층 packet전송계층 segmenta(b)cde(f)ghijklmno(p)qr(s)abcd 순서대로 외우면 쉽다 객관식이라 다나옴 ㅎ<#nbsp;>[해설작성자 : 웅냠]<#nbsp;><#nbsp;>

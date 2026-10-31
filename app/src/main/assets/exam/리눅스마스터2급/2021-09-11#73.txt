@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-09-11
+과목 : 2
+문제번호 : 73
+문제지문 : 다음 중 PDF 문서 뷰어 프로그램으로 알맞은 것은?
+사진 : 
+1번 : Eog
+2번 : Evince
+3번 : Gimp
+4번 : Gwenview
+정답 : 2
+해설 : 1.  Eog : 이미지 뷰어 프로그램2.  Evince3.  Gimp : 이미지 편집, 변환, 생성 프로그램4.  Gwenview : 이미지 뷰어<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>해당문제 관련하여 아래 사항도 암기필수 (기출에 자주 나옴)관련 데스크탑 짝지Eog - GNOMEGimp - GNOMEGwenview - KDE<#nbsp;>[해설작성자 : 자격증 사냥꾼]<#nbsp;><#nbsp;>

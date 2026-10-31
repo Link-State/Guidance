@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2015-12-05
+과목 : 1
+문제번호 : 1
+문제지문 : 다음 중 ⓐ, ⓑ, ⓒ가 의미하는 내용을 순서대로 나열한 것은?
+사진 : <!PICTURE@image1>
+1번 : 허가권(Permission), 사용자 소유권(User Ownership), 그룹 소유권(Group Ownership)
+2번 : 허가권(Permission), 그룹 소유권(Group Ownership), 사용자 소유권(User Ownership)
+3번 : 사용자 소유권(User Ownership), 허가권(Permission), 그룹 소유권(Group Ownership)
+4번 : 그룹 소유권(Group Ownership), 허가권(Permission), 사용자 소유권(User Ownership)
+정답 : 1
+해설 : 

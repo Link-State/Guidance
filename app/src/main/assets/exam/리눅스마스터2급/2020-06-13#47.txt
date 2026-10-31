@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-06-13
+과목 : 1
+문제번호 : 47
+문제지문 : 다음 중 GUI 기반의 스캐너 도구로 알맞은 것은?
+사진 : 
+1번 : xcam
+2번 : scanadf
+3번 : scanimage
+4번 : sane-find-scanner
+정답 : 1
+해설 : ○ sane-find-scanner: SCSI 스캐너와 USB 스캐너 정보 출력 명령어○ scanimage: 이미지 스캔○ scanadf: 여러개의 사진 스캔○ xcam: GUI 기반으로 평판 스캐너나 카메라로부터 이미지 스캔<#nbsp;>[해설작성자 : 리눅스마스터2급 준비중]<#nbsp;><#nbsp;>

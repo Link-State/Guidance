@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-09-03
+과목 : 2
+문제번호 : 78
+문제지문 : GNOME 데스크톱을 사용 중인데, 다른 데스크톱 환경으로 변경하려고 한다. 다음 중 설치 가능한 데스크톱 환경으로 알맞은 것은?
+사진 : 
+1번 : KDE
+2번 : Mutter
+3번 : Metacity
+4번 : Nautilus
+정답 : 1
+해설 : 데스크톱 환경 GNOME,KDE,LXDE,Xface이 중에서 GNOME > GTK+(라이브러리),eog(뷰어),totem(사운드또는 동영상),GIMP(이미지편집기),Nautilus(파일탐색기)                  mutter(GNOME3버전 윈도매니저),metacity(GNOME2버전 윈도매니저)KDE >QT(라이브러리),gwenview(뷰어),kwin(윈도매니저) dolpin(파일관리자)등등기출문제들을 풀어보시면서 KDE,GNOME문제들을 많이 접해보시면 도움이됩니다.<#nbsp;>[해설작성자 : 가채점 90점 합격자]<#nbsp;><#nbsp;>2, 3, 4번은 데스크톱 환경이 아닌 데스크톱 환경에서 사용되는 윈도 매니저 또는 파일 관리자.때문에 데스크톱 환경인 1번 KDE가 정답대표적인 데스크톱 환경) GNOME, KDE, Xfce, EDE<#nbsp;>[해설작성자 : 찰떡 ]<#nbsp;><#nbsp;>

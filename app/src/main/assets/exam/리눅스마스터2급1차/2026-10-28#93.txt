@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-28
+과목 : 1
+문제번호 : 93
+문제지문 : 다음 중 해킹과 관련된 도구 및 설명서들이 내장되어 있어서 정보보안을 공부하는 데 유용한 리눅스 배포판 조합으로 알맞은 것은?
+사진 : 
+1번 : Kali Linux, Scientific Linux
+2번 : Vector Linux, Scientific Linux
+3번 : BackTrack, Kali Linux
+4번 : BackTrack, Vector Linux
+정답 : 4
+해설 : 둘 다 보안/침투테스트 도구 포함 배포판.<#nbsp;>Scientific, Vector는 해당 아님.

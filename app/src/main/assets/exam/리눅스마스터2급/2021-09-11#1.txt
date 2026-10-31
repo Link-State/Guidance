@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-09-11
+과목 : 1
+문제번호 : 1
+문제지문 : 다음중 프린터 큐의 상태를 출력하는 명령으로 알맞은 것은?
+사진 : 
+1번 : lp
+2번 : lpr
+3번 : lpc
+4번 : lpstat
+정답 : 8
+해설 : - lp: 프린터 작업요청, 옵션 '-n'(인쇄할 매수 지정)- lpstat: 프린터 큐 상태 확인- cancel: 프린트 작업 취소<#nbsp;>[해설작성자 : 해설 보세요]<#nbsp;><#nbsp;>해당문제 관련하여 아래 문제도 많이 나오니 암기필수.SystemV 계열 : lp, lpstat, lpadmin, cancelBSD계열 : lpr, lpq, lpc, lprmlp=lpr, lpstat=lpq, lpadmin=lpc, cancel=lprm<#nbsp;>[해설작성자 : 자격증 사냥꾼]<#nbsp;><#nbsp;>

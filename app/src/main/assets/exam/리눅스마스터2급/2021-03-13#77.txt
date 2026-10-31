@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-03-13
+과목 : 2
+문제번호 : 77
+문제지문 : 다음 설명에 해당하는 프로그램으로 알맞은 것은?
+사진 : <!PICTURE@image33>
+1번 : Docker
+2번 : Ansible
+3번 : OpenStack
+4번 : Kubernetes
+정답 : 2
+해설 : OpenStack : IaaS 형태의 클라우드 컴퓨팅 오픈 소스 프로젝트, OpenStack Foundation에서 유지 보수, 아파치 라이센스<#nbsp;>[해설작성자 : 떡호꿀]<#nbsp;><#nbsp;>Docker-하이퍼 바이저나 게스트 OS없이 서버 운영에 필요한 프로그램과 라이브러리만 격리해서 설치 및 사용 가능<#nbsp;>[해설작성자 : 이번주]<#nbsp;><#nbsp;>Kubernetes- 구글에서 개발한 컨테이너 오케스트레이션 도구<#nbsp;>[해설작성자 : [CKA를 따보자]<#nbsp;><#nbsp;>]

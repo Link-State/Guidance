@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-12-12
+과목 : 1
+문제번호 : 11
+문제지문 : 다음은 root 사용자가 kaituser의 셸을 변경하는 과정이다. ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image5>
+1번 : kaituser
+2번 : -s kaituser
+3번 : -u kaituser
+4번 : -v kaituser
+정답 : 1
+해설 : chsh 대화형 셸 변경chsh -l : 셸 목록 보기chsh -s : 셸 이름 지정<#nbsp;>[해설작성자 : 선물]<#nbsp;><#nbsp;>-s, --shell : 지정하는 쉘을 앞으로 사용할 로그인 쉘로 바꾼다.-l, --list-shells : /etc/shells 파일 안에 지정된 쉘을 출력한다.-u, --help : 도움말을 출력한다.-v, --version : 버전 정보를 출력한다.<#nbsp;>[해설작성자 : NSS]<#nbsp;><#nbsp;>사용자 셸 변경&#65279;1) 로그인 한 후 chsh 명령 입력2) 사용자 암호 입력한 후 변경하려는 셸의 절대 경로(/bin/bash, /bin/sh 등)을 입력3) 변경된 셸은 다음 로그인부터 적용된다.4) /etc/passwd 에서 마지막 7번ㅤㅉㅒㅤ 필드에 로그인한 쉘을 확인한다.<#nbsp;>[해설작성자 : 카구야]<#nbsp;><#nbsp;>chsh와 chsh -s가 좀 헤깔리실텐데1. chsh kaituser는 사용자의 셸을 변경하라는 의미이고...2. chsh -s kaituser는 잘못된 형식입니다..-s를 적용하려면 뒤에 실제 셸의 경로가 와야합니다.즉, chsh -s /bin/bash kaituser와 같이 사용해야 올바른 형식이 됩니다.<#nbsp;>[해설작성자 : 자격증 사냥꾼]<#nbsp;><#nbsp;>

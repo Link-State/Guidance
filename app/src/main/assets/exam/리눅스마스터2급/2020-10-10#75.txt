@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-10-10
+과목 : 2
+문제번호 : 75
+문제지문 : 다음 설명과 관련 있는 파일로 알맞은 것은?
+사진 : <!PICTURE@image29>
+1번 : /etc/hosts
+2번 : /etc/services
+3번 : /etc/sysconfig/network
+4번 : /etc/sysconfig/network-scripts
+정답 : 1
+해설 : hosts 파일은 도메인의 IP를 찾을 때 컴퓨터가 맨 처음 조사하는 파일인데 잘못 설정해서 청와대 홈페이지로 연결된듯<#nbsp;>[해설작성자 : 브라더진]<#nbsp;><#nbsp;>

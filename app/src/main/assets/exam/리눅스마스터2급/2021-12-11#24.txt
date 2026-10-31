@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-12-11
+과목 : 1
+문제번호 : 24
+문제지문 : 다음은 ihduser가 cron 설정을 하는 과정이다. ( 괄호 ) 안에 들어갈 명령어의 옵션으로 알맞은 것은?
+사진 : <!PICTURE@image11>
+1번 : -n
+2번 : -e
+3번 : -i
+4번 : -u
+정답 : 2
+해설 : cron주기적으로 반복되는 일을 자동적으로 실행데몬: crond관련파일: /etc/crontab옵션-e:(crontab을 작성하거나 수정)-u :(특정 사용자의 일정 수정)<#nbsp;>[해설작성자 : 해설을 보세요]<#nbsp;><#nbsp;>Options:-u <user>  define user-e         edit user's crontab-l         list user's crontab-r         delete user's crontab-i         prompt before deleting-n <host>  set host in cluster to run users' crontabs-c         get host in cluster to run users' crontabs-s         selinux context-x <mask>  enable debugging<#nbsp;>[해설작성자 : 실무자]<#nbsp;><#nbsp;>

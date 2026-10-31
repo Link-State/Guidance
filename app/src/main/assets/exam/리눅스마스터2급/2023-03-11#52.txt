@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-03-11
+과목 : 2
+문제번호 : 52
+문제지문 : 다음 중 KDE와 가장 관계가 깊은 라이브러리로 알맞은 것은?
+사진 : 
+1번 : Qt
+2번 : GTK+
+3번 : FLTK
+4번 : Motif
+정답 : 1
+해설 : KDE 환경은 QT라이브러리를 사용.GTK+는 GNOME 환경에서 사용.<#nbsp;>[해설작성자 : 풍선검왕자]<#nbsp;><#nbsp;>Qt - KDE (K Desktop Environment)GTK+ - GNOMEFLTK : FLTK는 특정 데스크탑 환경과 직접 연결되지 않습니다.Motif - CDE (Common Desktop Environment)<#nbsp;>[해설작성자 : 빠대비]<#nbsp;><#nbsp;>

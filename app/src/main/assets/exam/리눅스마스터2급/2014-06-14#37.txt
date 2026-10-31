@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-06-14
+과목 : 1
+문제번호 : 37
+문제지문 : 다음 중 /backup 디렉토리를 backup.tar.gz 으로 압축하는 명령으로 알맞은 것은?
+사진 : 
+1번 : tar -cvzf /backup backup.tar.gz
+2번 : tar -tvzf /backup backup.tar.gz
+3번 : tar -cvzf backup.tar.gz /backup
+4번 : tar -tvzf backup.tar.gz /backup
+정답 : 4
+해설 : 

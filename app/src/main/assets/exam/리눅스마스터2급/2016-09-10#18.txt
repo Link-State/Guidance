@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-09-10
+과목 : 1
+문제번호 : 18
+문제지문 : 다음 중 아래 조건을 만족하는 PATH 변수 설정으로 알맞은 것은?
+사진 : <!PICTURE@image9>
+1번 : export PATH=PATH:/home/ihd/bin/backup.sh
+2번 : export PATH=$PATH:/home/ihd/bin/backup.sh
+3번 : export PATH=PATH:/home/ihd/bin
+4번 : export PATH=$PATH:/home/ihd/bin
+정답 : 8
+해설 : PATH 변수에 경로를 추가를 하는 경우이기에 /home/ihd/bin 까지만 입력해야 된다.<#nbsp;>[해설작성자 : 황상연]<#nbsp;><#nbsp;>

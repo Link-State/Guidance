@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-06-15
+과목 : 2
+문제번호 : 76
+문제지문 : 다음 중 시스템에서 사용할 DNS 서버의 주소를 등록하는 파일로 알맞은 것은?
+사진 : 
+1번 : /etc/hosts
+2번 : /etc/resolv.conf
+3번 : /etc/sysconfig/network
+4번 : /etc/sysconfig/network-scripts
+정답 : 2
+해설 : /etc/hosts => 특정 도메인 값을 찾을 때/etc/resolv.conf => DNS서버를 등록할 때 사용하는 파일/etc/sysconfig/network => Hostname / default GW정보 지정/etc/sysconfig/network-scripts => ip에 대한 설정 스크립트 확인<#nbsp;>[해설작성자 : 융합it 열심히 공부하자]<#nbsp;><#nbsp;>

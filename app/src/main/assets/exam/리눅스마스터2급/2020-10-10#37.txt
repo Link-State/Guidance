@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-10-10
+과목 : 1
+문제번호 : 37
+문제지문 : 다음 중 yum 명령을 사용한 작업 이력을 확인하는 명령으로 알맞은 것은?
+사진 : 
+1번 : yum list
+2번 : yum install list
+3번 : yum history list
+4번 : yum command list
+정답 : 4
+해설 : yum install 패키지명: 사용자에게 설치 여부를 묻는 부분이 나옴yum remove 패키지명 : 지정한 패키지 제거yum history : 패키지 설치, 삭제 등 작업 이력 확인<#nbsp;>[해설작성자 : 뚠혀니]<#nbsp;><#nbsp;>yum info 그룹 또는 패키지 : 패키지 또는 그룹의 패키지를 자세하게 확인합니다.<#nbsp;>[해설작성자 : Tlqejr]<#nbsp;><#nbsp;>

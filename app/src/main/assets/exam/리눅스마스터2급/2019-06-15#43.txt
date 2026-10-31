@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-06-15
+과목 : 1
+문제번호 : 43
+문제지문 : 다음 중 ( 괄호 )안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image11>
+1번 : ㉠ : HTTP, ㉡ : IPP, ㉢ : SMB, ㉣ : BSD, ㉤ : System V
+2번 : ㉠ : HTTP, ㉡ : NFS, ㉢ : CIFS, ㉣ : Linux, ㉤ : Windows
+3번 : ㉠ : RFC 1179, ㉡ : IPP, ㉢ : SMB, ㉣ : BSD, ㉤ : System V
+4번 : ㉠ : RFC 1179, ㉡ : NFS, ㉢ : CIFS, ㉣ : Linux, ㉤ : Windows
+정답 : 1
+해설 : - /etc/cups/printers.conf : 프린터 큐 관련 설정 파일- 컴퓨터를 인쇄 서버로 가능하도록 해주는 유닉스 계열의 운영체제를 위한 모듈 방식의 프린팅 시스템. - HTTP기반의 IPP(Internet Printing Protocol)을 사용- System V 형식과 BSD 형식의 커맨드라인 인터페이스도 지원- SMB 프로토콜도 부분적으로 지원<#nbsp;>[해설작성자 : 찾아서 붙였습니다..참조하세요^^]<#nbsp;><#nbsp;>

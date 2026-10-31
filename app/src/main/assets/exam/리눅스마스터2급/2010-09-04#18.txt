@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2010-09-04
+과목 : 1
+문제번호 : 18
+문제지문 : crontab에 대한 설명으로 올바른 것은?
+사진 : <!PICTURE@image3>
+1번 : 9월 30일 월요일에 /bin/login의 내용을 master@ihd.or.kr 주소로 메일을 보낸다.
+2번 : 토요일 오전 9시30분에 /bin/login의 내용을 master@ihd.or.kr 주소로 메일을 보낸다.
+3번 : 일요일 오전 9시30분에 /bin/login의 내용을 master@ihd.or.kr 주소로 메일을 보낸다.
+4번 : 토요일 오전 9시30분에 /bin/login의 내용을 /bin/mail로 메일을 보낸다.
+정답 : 4
+해설 : 

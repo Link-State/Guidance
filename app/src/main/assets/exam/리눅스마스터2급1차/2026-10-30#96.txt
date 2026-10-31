@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-30
+과목 : 1
+문제번호 : 96
+문제지문 : RPM 패키지 파일 package.rpm을 설치하는 명령어로 옳은 것은 무엇인가?
+사진 : 
+1번 : rpm -ivh package.rpm
+2번 : rpm -qf package.rpm
+3번 : rpm -e package.rpm
+4번 : rpm --verify-only package.rpm
+정답 : 1
+해설 : rpm -i는 설치, -v는 상세 출력, -h는 진행 표시를 뜻한다.

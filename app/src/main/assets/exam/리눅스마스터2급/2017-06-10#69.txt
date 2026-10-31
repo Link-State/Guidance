@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2017-06-10
+과목 : 2
+문제번호 : 69
+문제지문 : 다음 중 www.ihd.or.kr 서버에 admin 계정으로 접속하는 명령으로 알맞은 것은?
+사진 : 
+1번 : ssh -l www.ihd.or.kr admin
+2번 : ssh admin@www.ihd.or.kr
+3번 : telnet admin@www.ihd.or.kr
+4번 : telnet -l www.ihd.or.kr admin
+정답 : 2
+해설 : 

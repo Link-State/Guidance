@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-09-11
+과목 : 1
+문제번호 : 45
+문제지문 : 특정 파티션에 실행 파일이 실행되지 않도록 /etc/fstab 파일에 noexec 설정을 할 때 등록해야 하는 필드(field)로 알맞은 것은?
+사진 : 
+1번 : 2번째 필드
+2번 : 3번째 필드
+3번 : 4번째 필드
+4번 : 5번째 필드
+정답 : 4
+해설 : /etc/fstab 파일에 설정하는 각 필드 값[ 장치명 ] [ 마운트 포인트 ] [ 파일 시스템 종류 ] [ 마운트 옵션 ] [ Dump 값 ] [ 무결성 검사 우선순위 값 ]이 중 noexec 옵션 값이 들어가는 곳은 '마운트 옵션' 필드이므로 답은 '3. 4번째 필드'이다.추가)마운트 옵션 종류default - rw, nouser, auto, exec, suid 옵션이 설정된 기본 옵션auto - 부팅 시 자동으로 mount한다noauto - auto의 반대, 부팅 시 자동으로 mount하지 않는다exec - 실행 파일이 실행되는 것을 허용함noexec - exec의 반대, 실행 파일이 실행되는 것을 허용하지 않음suid - Set-UID, Set-GID를 설정할 수 있음nosuid - suid의 반대, Set-UID, Set-GID를 설정할 수 없음ro - Read-Only, 읽기 전용 파일 시스템rw - Read and Write, 읽고 쓰기가 가능한 파일 시스템으로 설정user - 일반 사용자가 mount 할 수 있음nouser - user의 반대, 일반 사용자가 mount 할 수 없으며 root 유저만 mount 할 수 있다.quota - quota 설정 가능noquota - quota의 반대, quota 설정 불가능<#nbsp;>[해설작성자 : Lorem_Ipsum]<#nbsp;><#nbsp;>/etc/fstab 필드 정리[장치명] [마운트위치] [파일시스템종류] [옵션] [덤프] [점검]이때 noexec는 옵션에 해당되므로 4번째 필드<#nbsp;>[해설작성자 : 하루]<#nbsp;><#nbsp;>

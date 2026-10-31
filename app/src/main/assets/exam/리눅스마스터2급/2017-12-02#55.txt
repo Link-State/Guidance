@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2017-12-02
+과목 : 2
+문제번호 : 55
+문제지문 : 다음 중 X 윈도우 환경에서 사용하는 파일 관리 프로그램으로 알맞은 것은?
+사진 : 
+1번 : evolution
+2번 : nautilus
+3번 : Gwenview
+4번 : Okular
+정답 : 2
+해설 : evolution: 메일 클라이언트nautilus: GNOME 기본 파일 관리 프로그램Gwenview: 이미지 뷰어Okular: 파일 뷰어<#nbsp;>[해설작성자 : 지나가던 행인]<#nbsp;><#nbsp;>

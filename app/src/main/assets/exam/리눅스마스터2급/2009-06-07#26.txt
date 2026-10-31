@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2009-06-07
+과목 : 1
+문제번호 : 26
+문제지문 : 다음 중 기존 환경변수 PATH값에 새로운 디렉토리를 추가하는 명령으로 알맞은 것은?
+사진 : 
+1번 : PATH=$PATH : newpath
+2번 : PATH=$PATH ; newpath
+3번 : $PATH=PATH : newpath
+4번 : $PATH=PATH ; newpath
+정답 : 1
+해설 : 

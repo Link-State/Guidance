@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-10-10
+과목 : 1
+문제번호 : 8
+문제지문 : 다음 중 리눅스에서 사용하는 파일시스템 유형으로 틀린 것은?
+사진 : 
+1번 : ext
+2번 : vfat
+3번 : ntfs
+4번 : smb
+정답 : 8
+해설 : ext: 리눅스 전용 "디스크" 기반 파일 시스템vfat: windowNT가 지원하는 파일 시스템 중 FAT을 확장한 것, "디스크 기반"ntfs: 윈도우에서 사용하는 "디스크" 기반 파일 시스템smb: "네트워크" 파일 시스템,<#nbsp;>[해설작성자 : 해설 지원]<#nbsp;><#nbsp;>windowXP : ntfsISO : loopNFS : nfsFAT-32 : vfatSAMBA : smbfslinux-disk : ext<#nbsp;>[해설작성자 : 지금 내기분은 08년도 박지성]<#nbsp;><#nbsp;>

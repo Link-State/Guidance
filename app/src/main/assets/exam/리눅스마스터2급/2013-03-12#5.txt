@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2013-03-12
+과목 : 1
+문제번호 : 5
+문제지문 : 현재 ihd.txt 허가권은 666 이다. 아래의 보기와 같이 변경하려 할 때 틀린 것은?
+사진 : <!PICTURE@image2>
+1번 : chmod 744 ihd.txt
+2번 : chmod u=rwx,g=r,o=r ihd.txt
+3번 : chmod u+x,go-wx ihd.txt
+4번 : chmod u+rwx,go+r ihd.txt
+정답 : 8
+해설 : 

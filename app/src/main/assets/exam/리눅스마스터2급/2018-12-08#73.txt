@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-12-08
+과목 : 2
+문제번호 : 73
+문제지문 : 다음 중 GUI 기반으로 네트워크를 설정할 때 사용하는 명령어로 알맞은 것은?
+사진 : 
+1번 : setup
+2번 : mii-tool
+3번 : nm-connection-editor
+4번 : system-config-network
+정답 : 4
+해설 : GUI 기반으로 네트워크 설정할때는 nm-connection-editorCUI 기반으로 네트워크 설정할때는 system-config-network

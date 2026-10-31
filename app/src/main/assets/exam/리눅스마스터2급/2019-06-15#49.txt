@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-06-15
+과목 : 2
+문제번호 : 49
+문제지문 : 다음 그림에 해당하는 프로그램으로 알맞은 것은?
+사진 : <!PICTURE@image14>
+1번 : eog
+2번 : Totem
+3번 : Okular
+4번 : ImageMagicK
+정답 : 1
+해설 : eog - GNOME 데스크톱에서 제공하는 이미지 뷰어 프로그램Totem - GNOME 데스크톱 기반 Movie PlayerOKular - KDE 문서 뷰어 프로그램ImageMagicK - 비트맵 이미지를 보여주고 생성 및 편집이 가능하도록 지원해주는 프로그램 패키지

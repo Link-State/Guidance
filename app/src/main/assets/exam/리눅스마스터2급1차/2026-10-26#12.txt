@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-26
+과목 : 1
+문제번호 : 12
+문제지문 : ls 명령어를 사용하여 다음과 같은 출력 결과가 나오게 하기 위한 옵션은?
+사진 : drwxr-xr-x 4 root level0 4096 Jul 5 08:29<#nbsp;>drwxr-xr-x 36 root root 4096 Jul 31 12:30..<#nbsp;>-rw-r--r-- 1 root root 24 Jul 5 08:29 bash_logout<#nbsp;>-rw-r-r-- 1 root root 230 Jul 5 08:29 ,bash_profile<#nbsp;>-rw-r-r-- 1 root root 124 Jul 5 08:29 ,bashrc<#nbsp;>-rw-r-r-- 1 root root 3394 Jul 5 08:29 .screenrc<#nbsp;>drwxr-x--x 2 root level0 4096 Jul 6 18:01 public_html<#nbsp;>
+1번 : -c
+2번 : -al
+3번 : -d
+4번 : -dl
+정답 : 2
+해설 : 

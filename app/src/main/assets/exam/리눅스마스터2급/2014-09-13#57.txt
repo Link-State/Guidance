@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-09-13
+과목 : 2
+문제번호 : 57
+문제지문 : 다음에서 설명하는 프로토콜의 기능으로 알맞은 것은?
+사진 : <!PICTURE@image10>
+1번 : 흐름제어(Flow Control)
+2번 : 연결 제어(Connection Control)
+3번 : 전송 서비스(Transmission Service)
+4번 : 멀티플렉싱(Multiplexing)
+정답 : 4
+해설 : 

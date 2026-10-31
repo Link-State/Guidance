@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-06-10
+과목 : 1
+문제번호 : 44
+문제지문 : 다음 설명에 해당하는 프로그램으로 알맞은 것은?
+사진 : <!PICTURE@image24>
+1번 : OSS
+2번 : ALSA
+3번 : SANE
+4번 : XSANE
+정답 : 8
+해설 : OSS(Open Sound System) - 오디오 인터페이스ALSA(Advanced Linux Sound Architecture) - 오디오 드라이버와 라이브러리의 집합, OSS의 대안SANE(Scanner Access Now easy) - 스캐너를 제어하기 위한 소프트웨어 프레임 워크XSANE - SANE 프레임 워크를 기반으로 한 그래픽 사용자 인터페이스를 제공하는 스캐너 소프트웨어<#nbsp;>[해설작성자 : 합격 ㄱ]<#nbsp;><#nbsp;>

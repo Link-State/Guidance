@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-12-08
+과목 : 2
+문제번호 : 74
+문제지문 : 다음에서 설명하는 netstat의 상태 값으로 알맞은 것은?
+사진 : <!PICTURE@image28>
+1번 : LISTEN
+2번 : SYN-SENT
+3번 : ESTABLISHED
+4번 : SYN_RECEIVED
+정답 : 8
+해설 : STATE 순서LISTEN -> SYN_SENT -> SYN_RECEIVED -> ESTABLISHED서버측 수신대기 -> 클라이언트쪽의 접속요청 -> 서버측 요청수신응답 -> 연결<#nbsp;>[해설작성자 : 시험 너무 멀었다]<#nbsp;><#nbsp;>

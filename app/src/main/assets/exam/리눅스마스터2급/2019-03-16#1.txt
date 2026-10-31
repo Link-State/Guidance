@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-03-16
+과목 : 1
+문제번호 : 1
+문제지문 : 다음은 /etc/fstab 파일 내용의 일부이다. ( 괄호 )안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image1>
+1번 : /dev/sdb1 /backup ext4 defaults
+2번 : /backup /dev/sdb1 ext4 defaults
+3번 : /dev/sdb1 /backup defaults ext4
+4번 : /backup /dev/sdb1 defaults ext4
+정답 : 1
+해설 : 파일 시스템 장치명 , 마운트 포인트 , 파일 시스템 종류 , 옵션 , dump 관련 설정 , 파일 점검 옵션/dev/sdb1            /backup         /ext4            /defaults      0               0<#nbsp;>[해설작성자 : kimpo 사이버보안]<#nbsp;><#nbsp;>

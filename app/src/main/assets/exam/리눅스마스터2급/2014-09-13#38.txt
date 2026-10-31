@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-09-13
+과목 : 1
+문제번호 : 38
+문제지문 : 다음 중 totem이라는 패키지를 yum으로 업데이트 할 때 알맞은 것은?
+사진 : 
+1번 : yum update totem
+2번 : yum search totem
+3번 : yum list totem
+4번 : yum update
+정답 : 1
+해설 : 

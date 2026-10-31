@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-12-03
+과목 : 1
+문제번호 : 18
+문제지문 : 다음 중 예제와 같이 history 명령어 수행시 명령어의 수행 시간을 출력하도록 하는 설정으로 알맞은 것은?
+사진 : <!PICTURE@image13>
+1번 : export HISTSIZE="%Y.%m.%d %T "
+2번 : export HISTFILE="%Y.%m.%d %T "
+3번 : export HISTFILESIZE="%Y.%m.%d %T "
+4번 : export HISTTIMEFORMAT="%Y.%m.%d %T "
+정답 : 8
+해설 : 

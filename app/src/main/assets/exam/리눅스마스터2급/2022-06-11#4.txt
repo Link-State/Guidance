@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-06-11
+과목 : 1
+문제번호 : 4
+문제지문 : 다음 중 사운드 카드와 관련된 조합으로 알맞은 것은?
+사진 : 
+1번 : OSS, CUPS
+2번 : ALSAM CUPS
+3번 : OSS, SANE
+4번 : OSS, ALSA
+정답 : 8
+해설 : 프린터 관련 : LPRng, CUPS사운드 카드 관련 : OSS, ALSA스캐너 관련 : SANE, XSANE<#nbsp;>[해설작성자 : JSC]<#nbsp;><#nbsp;>

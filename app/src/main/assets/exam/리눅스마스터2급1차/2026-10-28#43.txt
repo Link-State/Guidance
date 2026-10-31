@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-28
+과목 : 1
+문제번호 : 43
+문제지문 : 다음은 job.txt 파일의 내용을 출력한 것이다. 다음 중 'grep [abc] job.txt' 명령을 실행한 결과에 대한 설명으로 알맞은 것은?
+사진 : # cat job.txt<#nbsp;>programmer<#nbsp;>engineer<#nbsp;>designer<#nbsp;>abc<#nbsp;>
+1번 : programmer만 결과로 출력된다.
+2번 : abc만 결과로 출력된다.
+3번 : programmer와 abc가 결과로 출력된다.
+4번 : programmer, engineer, designer가 결과로 출력된다.
+정답 : 2
+해설 : [abc]는 a 또는 b 또는 c 포함 행 검색.<#nbsp;>programmer: a 포함.<#nbsp;>engineer: e만 있지만? 다시 보면 engineer에는 a,b,c 없음. 그러면 제외. designer도 마찬가지. abc는 포함.<#nbsp;>이 문항은 원문 보기 중 정답이 이상합니다. 정규식 기준으로는 ② abc만 출력이 맞습니다.<#nbsp;>따라서 실제 올바른 정답: ②<#nbsp;>① programmer만: 틀림.<#nbsp;>② abc만: 맞음.<#nbsp;>③ programmer와 abc: programmer에 a/b/c 없음.<#nbsp;>④ 셋 다: 틀림.

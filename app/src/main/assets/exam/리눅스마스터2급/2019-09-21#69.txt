@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-09-21
+과목 : 2
+문제번호 : 69
+문제지문 : 다음 중 3-way handshaking에서 수행하는 패킷의 순서로 알맞은 것은?
+사진 : 
+1번 : SYN → ACK → ACK/SYN
+2번 : SYN → ACK/SYN → ACK
+3번 : ACK → ACK/SYN → SYN
+4번 : ACK → SYN → ACK/SYN
+정답 : 2
+해설 : 클라이언트 -----------------  서버    1        === SYN ===>>              2    <=== SYN + ACK ===    3       === ACK === >><#nbsp;>[해설작성자 : sadas]<#nbsp;><#nbsp;>

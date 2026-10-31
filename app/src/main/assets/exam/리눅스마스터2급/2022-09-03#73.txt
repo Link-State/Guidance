@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-09-03
+과목 : 2
+문제번호 : 73
+문제지문 : 다음 중 마이크로소프트사의 파워포인트를 대체해서 사용할 수 있는 프로그램으로 알맞은 것은?
+사진 : 
+1번 : LibreOffice Writer
+2번 : LibreOffice Draw
+3번 : LibreOffice Calc
+4번 : LibreOffice Impress
+정답 : 8
+해설 : Libreoffice Writer 문서 작성기Libreoffice Impress 파워포인트Libreoffice Calc 스프레드 시트Libreoffice Draw 드로잉 프로그램<#nbsp;>[해설작성자 : 시험4일전]<#nbsp;><#nbsp;>

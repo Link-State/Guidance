@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-03-11
+과목 : 2
+문제번호 : 76
+문제지문 : 다음 설명에 해당하는 netstat 명령의 상태값(State)으로 알맞은 것은?
+사진 : <!PICTURE@image36>
+1번 : SYN_RECV
+2번 : LISTEN
+3번 : ESTABLISHED
+4번 : SYS_SENT
+정답 : 4
+해설 : TCP 3way handshake: SYN - ACK/SYN - ACKLISTEN : 연결 요청 대기 상태, 포트가 열린 상태 SSH 접속 시 22번 포트가 열린상태SYN_SENT : 클라이언트 피시가 SYN 신호를 보낸 상태SYN_RECEIVED : 서버가 클라이언트로 부터 접속 요구(SYN)을 받고 클라이언트에게 응답했지만 아직 클라이언트에게 확답(ACK)를 못 받은 상태ESTABLISHED : 연결이 완료된 상태 이제 TCP 로 데이터를 주고 받을 수 있음<#nbsp;>[해설작성자 : 5707번째 이용자]<#nbsp;><#nbsp;>

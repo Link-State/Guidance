@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2008-08-31
+과목 : 1
+문제번호 : 7
+문제지문 : /usr/www 디렉토리 밑에 있는 모든 파일에 대해 (하위 디렉토리 포함) 사용자를 nobody, 그룹을 httpd로 변경하려고 할 때 사용할 명령으로 알맞은 것은?
+사진 : 
+1번 : chown -r nobody /usr/www; chgrp -r httpd /usr/www
+2번 : chown -c nobody /usr/www; chgrp -c httpd /usr/www
+3번 : chown -R nobody /usr/www; chgrp -R httpd /usr/www
+4번 : chmod -R nobody /usr/www; chgrp -R httpd /usr/www
+정답 : 4
+해설 : 

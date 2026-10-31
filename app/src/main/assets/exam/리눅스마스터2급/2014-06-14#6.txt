@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-06-14
+과목 : 1
+문제번호 : 6
+문제지문 : 다음 중 ISO 이미지 파일을 /mnt 디렉토리에 읽기 전용으로 마운트 하는 명령으로 알맞은 것은?
+사진 : 
+1번 : mount -t iso9660 -o rw,loop /test.iso /mnt
+2번 : mount -t iso9660 -o rw,acl /test.iso /mnt
+3번 : mount -t iso9660 -o ro,loop /test.iso /mnt
+4번 : mount -t sr0 -o ro,loop /test.iso /mnt
+정답 : 4
+해설 : 

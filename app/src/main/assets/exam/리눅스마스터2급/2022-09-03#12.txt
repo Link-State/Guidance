@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-09-03
+과목 : 1
+문제번호 : 12
+문제지문 : 다음 중 소스 파일을 이용한 설치 단계로 가장 알맞은 것은?
+사진 : 
+1번 : make clean → make → make install
+2번 : make → make clean → make install
+3번 : configure → make → make install
+4번 : configure → make clean → make install
+정답 : 4
+해설 : configure -> make -> make install<#nbsp;>[해설작성자 : 가채점 90점 합격자]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2018-03-10
+과목 : 2
+문제번호 : 60
+문제지문 : 다음 중 CentOS 6 버전에서 텍스트 기반으로 네트워크 주소를 설정할 때 사용하는 명령으로 알맞은 것은?
+사진 : 
+1번 : netconf
+2번 : netconfig
+3번 : system-config-network
+4번 : nm-connection-editor
+정답 : 4
+해설 : 

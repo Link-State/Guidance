@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2017-06-10
+과목 : 1
+문제번호 : 3
+문제지문 : 파일의 허가권이 다음과 같다. 사용자는 읽기, 쓰기, 실행 권한을 부여하고, 그룹과 다른 사용자는 읽기와 실행 권한만 설정하려고 할 때 알맞은 것은?
+사진 : <!PICTURE@image2>
+1번 : chmod 755 test.txt
+2번 : chmod u+rwx,g+rx,o+rx test.txt
+3번 : chmod 577 test.txt
+4번 : chmod u+rwx,go+rx test.txt
+정답 : 1
+해설 : 

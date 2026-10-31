@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2009-06-07
+과목 : 1
+문제번호 : 4
+문제지문 : 디렉토리 project에 포함된 하위파일과 디렉토리의 소유자를 ihd로 변경하고자 할 때 사용하는 명령어로 알맞은 것은?
+사진 : <!PICTURE@image1>
+1번 : chown -R ihd project
+2번 : chown -D ihd project
+3번 : chgrp -R ihd project
+4번 : chgrp -D ihd project
+정답 : 1
+해설 : 

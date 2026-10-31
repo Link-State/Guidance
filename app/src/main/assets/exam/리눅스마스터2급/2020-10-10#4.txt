@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-10-10
+과목 : 1
+문제번호 : 4
+문제지문 : 각 사용자의 디스크 사용량을 제한하려고 한다. 다음 중 디스크 쿼터를 설정하는 명령어의 순서로 알맞은 것은?
+사진 : 
+1번 : repquota → edquota → quotacheck → quotaon
+2번 : quotaon → quotacheck → edquota → repquota
+3번 : quotacheck → edquota → quotaon → repquota
+4번 : edquota → quotacheck → quotaon → repquota
+정답 : 4
+해설 : quotacheck : 마운트 옵션에 quota관련 속송이 부여되어있는 파일시스템을 찾아서 쿼타 설정을 위해 필요한 쿼타파일을 생성해준다.edquota : 사용자 및 그룹별 디스크 사용량 제한을 설정하거나 이미 설정 되어 있는 쿼타를 편집할수 있다.quotaon : 쿼타 가동하기repquota : 특정 파일 시스템 내의 각 사용자별 디스크 사용량에 대한 내용 확인<#nbsp;>[해설작성자 : 행복히오스]<#nbsp;><#nbsp;>

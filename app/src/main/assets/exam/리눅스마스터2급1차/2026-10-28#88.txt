@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-28
+과목 : 1
+문제번호 : 88
+문제지문 : root 계정 및 GRUB 패스워드를 잊어버려서 root 패스워드를 복구할 수 없는 상황이다. 다음 중 리눅스 설치 디스크를 이용해서 복구하려고 할 때 선택하는 모드로 알맞은 것은?
+사진 : 
+1번 : install or upgrade an existing system
+2번 : Rescue installed system
+3번 : linux dd
+4번 : Boot from local drive
+정답 : 2
+해설 : 설치 디스크로 복구 모드 진입.<#nbsp;>① 설치/업그레이드 모드.<#nbsp;>③ 드라이버 디스크 관련.<#nbsp;>④ 로컬 부팅.

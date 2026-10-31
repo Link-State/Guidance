@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-12-12
+과목 : 1
+문제번호 : 37
+문제지문 : 다음 중 httpd 라는 패키지를 리눅스 배포판 중 수세에서 주로 사용하는 온라인 패키지 관리 기법으로 설치하는 명령으로 알맞은 것은?
+사진 : 
+1번 : yum install httpd -y
+2번 : apt-get install httpd
+3번 : zypper install httpd
+4번 : rpm -i httpd
+정답 : 4
+해설 : yum 은 레드헷 계열apt-get은 데비안 계열rpm 은 레드헷zypper은 수세리눅스<#nbsp;>[해설작성자 : 행복히오스]<#nbsp;><#nbsp;>

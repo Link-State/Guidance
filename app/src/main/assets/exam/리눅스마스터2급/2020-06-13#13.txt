@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-06-13
+과목 : 1
+문제번호 : 13
+문제지문 : 다음 명령에 대한 설명으로 알맞은 것은?
+사진 : <!PICTURE@image7>
+1번 : 최근에 실행한 마지막 5개의 명령어 목록을 출력한다.
+2번 : 히스토리 명령 목록의 번호 중에서 5번에 해당하는 명령을 실행한다.
+3번 : 히스토리 명령 목록에서 5만큼 거슬러 올라가서 해당 명령을 실행한다.
+4번 : 히스토리 명령 목록에서 번호가 1번부터 5번에 해당하는 명령을 출력한다.
+정답 : 1
+해설 : [관리자 입니다시험 시행처에서 본문제 답을 잘못 기제하여2번로 발표되었는데정답을 1번으로 수정하여 다시 발표하였습니다.그점 참고부탁 드립니다.][root@localhost ~]# 7-bash: 7: command not found[root@localhost ~]# 8-bash: 8: command not found[root@localhost ~]# 9-bash: 9: command not found[root@localhost ~]# 10-bash: 10: command not found[root@localhost ~]# history 51021  71022  81023  91024  101025  history 5[root@localhost ~]#centos7 개인 서버에서 test 한결과입니다.

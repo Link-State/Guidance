@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-09-09
+과목 : 2
+문제번호 : 67
+문제지문 : 다음 중 CentOS 7 시스템을 텔넷 서버로 사용하기 위해 설치해야 하는 패키지명으로 알맞은 것은?
+사진 : 
+1번 : telnet
+2번 : telnet_server
+3번 : telnet-server
+4번 : server-telnet
+정답 : 4
+해설 : 보통 설치 시 명령[root@localhost]# yum install telnet-server<#nbsp;>[해설작성자 : 공부중]<#nbsp;><#nbsp;>

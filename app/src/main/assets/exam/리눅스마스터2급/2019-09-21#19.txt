@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-09-21
+과목 : 1
+문제번호 : 19
+문제지문 : 다음 중 [Ctrl]+[C]를 입력했을 때 발생하는 시그널 이름으로 알맞은 것은?
+사진 : 
+1번 : SIGINT
+2번 : SIGQUIT
+3번 : SIGSTOP
+4번 : SIGCONT
+정답 : 1
+해설 : 2 SIGINT = Ctrl + C3 SIGQUIT = Ctrl + \20 SIGTSTP = Ctrl + Z<#nbsp;>[해설작성자 : Hackpo]<#nbsp;><#nbsp;>18 SIGCONT : 정지된 프로세스를 다시 실행시킨다.<#nbsp;>[해설작성자 : 빠진 부분 채웁니다.]<#nbsp;><#nbsp;>

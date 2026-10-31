@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-03-12
+과목 : 1
+문제번호 : 23
+문제지문 : 다음 중 서비스 데몬을 구동하는 방법으로 틀린 것은?
+사진 : 
+1번 : service crond restart
+2번 : /etc/init.d/httpd start
+3번 : /etc/rc.d/init.d/httpd start
+4번 : /etc/rc.d/nfs start
+정답 : 8
+해설 : 

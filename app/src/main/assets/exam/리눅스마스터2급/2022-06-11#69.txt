@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2022-06-11
+과목 : 2
+문제번호 : 69
+문제지문 : 다음 설명에 해당하는 TCP 프로토콜의 패킷으로 알맞은 것은?
+사진 : <!PICTURE@image22>
+1번 : RST
+2번 : SYN/ACK
+3번 : SYN
+4번 : ACK
+정답 : 4
+해설 : 1. Client > Server : TCP SYN2. Server > Client : TCP SYN / ACK3. Client > Server : TCP ACK<#nbsp;>[해설작성자 : HSY]<#nbsp;><#nbsp;>

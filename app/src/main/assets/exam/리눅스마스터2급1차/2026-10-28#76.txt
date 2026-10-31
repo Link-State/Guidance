@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-28
+과목 : 1
+문제번호 : 76
+문제지문 : 리눅스 설치 시에 MySQL, PostgreSQL 같은 프로그램을 사용하기 위해 선택하는 패키지 그룹으로 가장 알맞은 것은?
+사진 : 
+1번 : Web Server
+2번 : Database Server
+3번 : Virtual Host
+4번 : Software Development Workstation
+정답 : 2
+해설 : MySQL, PostgreSQL 등 DB 서버 패키지 그룹.

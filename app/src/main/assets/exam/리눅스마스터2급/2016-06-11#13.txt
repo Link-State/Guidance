@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2016-06-11
+과목 : 1
+문제번호 : 13
+문제지문 : 다음 조건으로 bash 셸에서 변수를 설정하고 확인하려 할 때 알맞은 것은?
+사진 : <!PICTURE@image7>
+1번 : (ㄱ) city=seoul (ㄴ) echo $city
+2번 : (ㄱ) city=seoul (ㄴ) echo $CITY
+3번 : (ㄱ) seoul=city (ㄴ) echo $CITY
+4번 : (ㄱ) seoul=city (ㄴ) echo $city
+정답 : 1
+해설 : 

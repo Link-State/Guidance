@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-12-11
+과목 : 2
+문제번호 : 62
+문제지문 : 리눅스 시스템에 첫 번째 네트워크 인터페이스로 설정된 eth0의 작동을 중지시킬 때 사용하는 명령어로 알맞은 것은?
+사진 : 
+1번 : ifconfig eth0 up
+2번 : ifconfig eth0 down
+3번 : ipconfig eth0 down
+4번 : ipconfig eth0 up
+정답 : 2
+해설 : Ipconfig: windowsIfconfig: 리눅스 계열<#nbsp;>[해설작성자 : comcbt.com 이용자]<#nbsp;><#nbsp;>

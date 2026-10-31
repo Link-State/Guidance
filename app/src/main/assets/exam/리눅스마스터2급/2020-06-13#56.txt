@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-06-13
+과목 : 2
+문제번호 : 56
+문제지문 : 다음 중 GNOME 데스크톱에서 제공하는 Eye of GNOME Image Viewer를 실행시키기 위해 명령행에서 입력하는 명령으로 알맞은 것은?
+사진 : 
+1번 : image
+2번 : viewer
+3번 : eog
+4번 : eyes
+정답 : 4
+해설 : Eye of GNOME Image Viewer 이부분의 약자로 생각하시는게 외우시는데 도움이 될듯합니다.-> eog<#nbsp;>[해설작성자 : Nex]<#nbsp;><#nbsp;>

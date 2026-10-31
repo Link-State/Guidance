@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2013-12-07
+과목 : 1
+문제번호 : 12
+문제지문 : 다음 중 사용자의 명령이 셸(Shell)을 통해 시스템에 전달되는 과정의 순서로 알맞은 것은?
+사진 : 
+1번 : Terminal → Device Driver → Shell → Linux Kernel
+2번 : Terminal → Shell → Device Driver → Linux Kernel
+3번 : Shell → Terminal → Device Driver → Linux Kernel
+4번 : Linux Kernel → Shell → Device Driver → Terminal
+정답 : 1
+해설 : 

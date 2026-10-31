@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-30
+과목 : 1
+문제번호 : 63
+문제지문 : gzip으로 압축된 tar 아카이브 archive.tar.gz를 풀 때 흔히 사용하는 명령어는 무엇인가?
+사진 : 
+1번 : tar -xzf archive.tar.gz
+2번 : tar -cvf archive.tar.gz
+3번 : gzip -d -c archive.tar.gz archive.tar
+4번 : untar -z archive.tar.gz
+정답 : 1
+해설 : tar -xzf는 gzip으로 압축된 tar 아카이브를 추출한다.

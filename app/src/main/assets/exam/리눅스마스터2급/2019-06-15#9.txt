@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2019-06-15
+과목 : 1
+문제번호 : 9
+문제지문 : 다음 중 /home 영역을 다시 마운트 하는 명령으로 알맞은 것은?
+사진 : 
+1번 : mount -o re /home
+2번 : mount -t re /home
+3번 : mount -o remount /home
+4번 : mount -t remount /home
+정답 : 4
+해설 : mount : 보조기억장치들의 연결에 사용되는 명령어. 단독으로 사용할 경우 현재 시스템에 마운트된 장비 정보를 출력.# mount [옵션] [장치] [디렉터리]-a : /etc/fstab에 있는 파일 시스템을 모두 마운트.-t : 파일시스템을 지정. '-t ext4'의 형식으로 사용.-o : 추가 옵션을 명시.    ro : Read Only. 읽기 전용    remount : 재마운트    loop : iso파일 마운트    [계정] [패스워드] : 마운트 시 계정 인증이 필요할 때 사용    acl : Access Control Lists를 마운트할 때 사용.<#nbsp;>[해설작성자 : 조띵]<#nbsp;><#nbsp;>

@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-12-12
+과목 : 2
+문제번호 : 73
+문제지문 : 다음 설명과 관련 있는 파일로 알맞은 것은?
+사진 : <!PICTURE@image27>
+1번 : /etc/hosts
+2번 : /etc/resolv.conf
+3번 : /etc/sysconfig/network
+4번 : /etc/sysconfig/network-scripts
+정답 : 1
+해설 : 1. /etc/hosts: IP주소와 도메인 주소를 1:1로 등록하여 도메인에 대한 IP주소를 조회하도록 한다.2. /etc/resolv.conf: 기본적으로 사용할 도메인명과 네임서버를 설정한다.3. /etc/sysconfig/network: 네트워크 기본정보가 설정되어 있는 파일이다.4. /etc/sysconfig/network-scripts/ifcfg-ethX: 지정된 네트워크 인터페이스의 네트워크 환경 설정 정보가 저장된다..<#nbsp;>[해설작성자 : 지나가던 나그네]<#nbsp;><#nbsp;>

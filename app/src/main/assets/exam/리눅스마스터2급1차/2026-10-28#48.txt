@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-28
+과목 : 1
+문제번호 : 48
+문제지문 : 다음 중 ihduser 사용자의 아이디를 kaitmember로 변경할 때 알맞은 것은?
+사진 : 
+1번 : usermod -l kaitmember ihduser
+2번 : usermod -n kaitmember ihduser
+3번 : usermod -l ihduser kaitmember
+4번 : usermod -n ihduser kaitmember
+정답 : 1
+해설 : -l 새이름 기존이름<#nbsp;>① 맞음.<#nbsp;>② -n은 groupmod에서 이름 변경 등에 사용, usermod 아님.<#nbsp;>③ 순서 반대.<#nbsp;>④ 옵션도 틀리고 순서도 틀림.

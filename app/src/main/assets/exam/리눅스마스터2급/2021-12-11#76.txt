@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-12-11
+과목 : 2
+문제번호 : 76
+문제지문 : 다음은 X 서버 실행 시에 생성된 인증키 값을 확인하는 과정이다. ( 괄호 ) 안에 들어갈 명령으로 알맞은 것은?
+사진 : <!PICTURE@image36>
+1번 : xauth
+2번 : xhost
+3번 : xset
+4번 : echo
+정답 : 1
+해설 : # xauth○ MMC 방식의 인증 방식을 사용하기 위한 필수 유틸리티○ xauth list $DISPLAY -> 예시) www/unix:0 MIT-MAGIC-COOKIE-1 fae33ddfae2sb1bkae- ~/.Xauthority 파일의 내용인 MIT-MAGIC-COOKIEs 값을 보여주거나 값을 변경할 수 있다.- 지정된 호스트 표시 창의 쿠키 값을 확인하는 명령- X 서버에 접근할 수 있는 클라이언트를 서버에 생성된 키 기반으로 제어할 때 사용하는 명령<#nbsp;>[해설작성자 : 해설을 보세요]<#nbsp;><#nbsp;>

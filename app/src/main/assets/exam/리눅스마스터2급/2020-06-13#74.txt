@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2020-06-13
+과목 : 2
+문제번호 : 74
+문제지문 : 다음과 같은 설정이 저장되는 파일로 알맞은 것은?
+사진 : <!PICTURE@image31>
+1번 : /etc/hosts
+2번 : /etc/resolv.conf
+3번 : /etc/sysconfig/network
+4번 : /etc/sysconfig/network-scripts
+정답 : 2
+해설 : 보기를 보시면 네임서버를 설정하는것입니다.네임서버 저장되는 파일은 /etc/resolv.conf 입니다..<#nbsp;>[해설작성자 : Nex]<#nbsp;><#nbsp;>

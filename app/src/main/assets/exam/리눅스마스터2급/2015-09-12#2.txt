@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2015-09-12
+과목 : 1
+문제번호 : 2
+문제지문 : 다음 중 tommy 사용자에게 설정된 쿼터를 rogan 사용자에게도 적용하기 위한 방법으로 알맞은 것은?
+사진 : 
+1번 : edquota -p tommy rogan
+2번 : edquota -p rogan tommy
+3번 : edquota -c tommy rogan
+4번 : edquota -c rogan tommy
+정답 : 1
+해설 : edquota -p 사용자1 사용자2<#nbsp;>[해설작성자 : simwoohj]<#nbsp;><#nbsp;>

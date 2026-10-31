@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-06-14
+과목 : 1
+문제번호 : 45
+문제지문 : 프린터 스풀(spool) 기본 디렉토리는 경로로 알맞은 것은?
+사진 : 
+1번 : /var/spool/lpd/
+2번 : /var/log/spool/lpd/
+3번 : /etc/spool/lpd/
+4번 : /var/print/spool/lpd/
+정답 : 1
+해설 : 

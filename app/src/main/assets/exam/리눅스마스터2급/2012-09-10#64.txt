@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2012-09-10
+과목 : 2
+문제번호 : 64
+문제지문 : 다음 ( 괄호 )안에 들어갈 내용으로 알맞은 것은?
+사진 : <!PICTURE@image10>
+1번 : (ㄱ) /etc/protocol - (ㄴ) /etc/service
+2번 : (ㄱ) /etc/protocols - (ㄴ) /etc/service
+3번 : (ㄱ) /etc/protocol - (ㄴ) /etc/services
+4번 : (ㄱ) /etc/protocols - (ㄴ) /etc/services
+정답 : 8
+해설 : 

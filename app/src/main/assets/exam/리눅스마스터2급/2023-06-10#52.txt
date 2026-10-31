@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2023-06-10
+과목 : 2
+문제번호 : 52
+문제지문 : 다음 중 그놈에서 사용하는 파일관리자 프로그램으로 알맞은 것은?
+사진 : 
+1번 : nautilus
+2번 : metacity
+3번 : mutter
+4번 : plasma
+정답 : 1
+해설 : Nautilus는 GNOME 데스크톱 환경에서 사용되는 파일 관리자Metacity는 GNOME 데스크톱 환경에서 사용되는 윈도우 매니저Mutter는 GNOME 3 데스크톱 환경에서 사용되는 윈도우 매니저 .. Metacity 후속 버전<#nbsp;>[해설작성자 : 합격 ㄱ]<#nbsp;><#nbsp;>Plasma는 KDE 커뮤니티에 의해 개발된 데스크탑 환경.<#nbsp;>[해설작성자 : 빠대비]<#nbsp;><#nbsp;>

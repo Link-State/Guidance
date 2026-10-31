@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2008-01-20
+과목 : 2
+문제번호 : 58
+문제지문 : 다음은 무엇에 대한 설명인가?
+사진 : <!PICTURE@image3>
+1번 : P2P(Peer-to-Peer)
+2번 : PPP(Point-to-Point Protocol)
+3번 : VoIP(Voice Over Internet Protocol)
+4번 : ATM(Asynchronous Transfer Mode)
+정답 : 4
+해설 : 

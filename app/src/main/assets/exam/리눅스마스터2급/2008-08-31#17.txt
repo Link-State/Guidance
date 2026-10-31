@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2008-08-31
+과목 : 1
+문제번호 : 17
+문제지문 : 아래와 같은 상황에서 설정 파일이 변경되어 실행중인 httpd 프로세스를 재시작해야 한다. 이때 사용하는 명령으로 알맞은 것은?
+사진 : <!PICTURE@image2>
+1번 : service xinetd restart
+2번 : apache restart
+3번 : renice httpd
+4번 : service httpd restart
+정답 : 8
+해설 : 

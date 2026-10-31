@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2011-09-03
+과목 : 2
+문제번호 : 59
+문제지문 : 다음에서 설명하는 네트워크 구성(topology)은 무엇인가?
+사진 : <!PICTURE@image9>
+1번 : Mesh topology
+2번 : Ring topology
+3번 : Bus topology
+4번 : Star topology
+정답 : 2
+해설 : 

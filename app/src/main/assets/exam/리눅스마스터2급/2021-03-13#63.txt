@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2021-03-13
+과목 : 2
+문제번호 : 63
+문제지문 : 다음 중 네임 서버가 기록되어 있는 파일로 알맞은 것은? ·
+사진 : 
+1번 : /etc/hosts
+2번 : /etc/resolv.conf
+3번 : /etc/sysconfig/network
+4번 : /etc/services
+정답 : 2
+해설 : /etc/hosts 는 단순 ip 도메인 매칭이고/etc/resolve.conf 가 DNS 입니다.<#nbsp;>[해설작성자 : 전정통최강귀요미]<#nbsp;><#nbsp;>

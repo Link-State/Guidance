@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2009-12-07
+과목 : 1
+문제번호 : 48
+문제지문 : 리눅스에 서 일반적으로 오디오를 사용하기 위한 사운드 카드의 지원 여부를 확인할 수 있는 곳은?
+사진 : 
+1번 : /dev/output/Documentation/sound
+2번 : /usr/src/linux/Documentation/sound
+3번 : /dev/audio/Documentation/sound
+4번 : /usr/lib/linux/Documentation/sound
+정답 : 2
+해설 : 2과목 : 리눅스 활용

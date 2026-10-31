@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급1차
+기출연도 : 2026-10-28
+과목 : 1
+문제번호 : 64
+문제지문 : /etc/passwd 파일의 7개 필드 관련 정보를 얻기 위한 명령으로 알맞은 것은?
+사진 : 
+1번 : man passwd
+2번 : man 1 passwd
+3번 : man /etc/passwd
+4번 : man 5 passwd
+정답 : 8
+해설 : section 5는 파일 포맷/설정 파일 설명.<#nbsp;>① 일반 passwd 명령 설명.<#nbsp;>② section 1 명령 설명.<#nbsp;>③ 형식 부적절.<#nbsp;>④ 맞음.

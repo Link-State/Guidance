@@ -1,0 +1,12 @@
+시험명 : 리눅스마스터2급
+기출연도 : 2014-03-08
+과목 : 1
+문제번호 : 4
+문제지문 : 일반계정인 uzoogom 사용자가 passwd 명령어를 사용한 암호 변경이 불가능한 상태이고, 관련 명령어 허가권 상태는 다음과 같다. 다음 중 관리자의 조치법으로 가장 알맞은 것은?
+사진 : <!PICTURE@image2>
+1번 : chmod u+s /usr/bin/passwd
+2번 : chmod o+s /usr/bin/passwd
+3번 : chown uzoogom.uzoogom /usr/bin/passwd
+4번 : chown uzoogom.root /usr/bin/passwd
+정답 : 1
+해설 : 
