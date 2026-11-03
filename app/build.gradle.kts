@@ -4,14 +4,14 @@ plugins {
 }
 
 android {
-    namespace = "com.example.guidence"
+    namespace = "com.example.guidance"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.guidence"
-        minSdk = 24
+        applicationId = "com.example.guidance"
+        minSdk = 33
         targetSdk = 37
         versionCode = 1
         versionName = "1.0"
@@ -47,6 +47,7 @@ dependencies {
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.material3)
+    implementation(libs.androidx.documentfile)
     testImplementation(libs.junit)
     androidTestImplementation(platform(libs.androidx.compose.bom))
     androidTestImplementation(libs.androidx.compose.ui.test.junit4)
