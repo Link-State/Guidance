@@ -46,7 +46,7 @@ import androidx.compose.ui.unit.sp
 import com.example.guidance.ui.screen.exam.ExamScreen
 import com.example.guidance.ui.screen.result.ResultScreen
 import com.example.guidance.ui.screen.setting.SettingScreen
-import com.example.guidance.ui.theme.GuidenceTheme
+import com.example.guidance.ui.theme.GuidanceTheme
 import java.io.File
 import java.text.SimpleDateFormat
 import java.util.Date
@@ -92,7 +92,7 @@ class HomeScreen : ComponentActivity() {
         updateExamList()
 
         setContent {
-            GuidenceTheme {
+            GuidanceTheme() {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Loading(Modifier.padding(innerPadding))
                 }

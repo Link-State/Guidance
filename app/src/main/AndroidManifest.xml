@@ -13,11 +13,11 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Guidence">
+        android:theme="@style/Theme.Guidance">
         <activity
             android:name=".MainActivity"
             android:exported="true"
-            android:theme="@style/Theme.Guidence"
+            android:theme="@style/Theme.Guidance"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -30,6 +30,7 @@
         <activity android:name=".ui.screen.result.ResultScreen" android:label="결과"/>
         <activity android:name=".ui.screen.setting.SettingScreen" android:label="설정"/>
         <activity android:name=".ui.screen.setting.EditTextScreen" android:label="텍스트에디터"/>
+        <activity android:name=".ui.screen.bookmark.BookMarkScreen" android:label="북마크"/>
     </application>
 
 </manifest>

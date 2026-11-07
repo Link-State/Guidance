@@ -31,7 +31,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.guidance.ui.theme.GuidenceTheme
+import com.example.guidance.ui.theme.GuidanceTheme
 import java.io.File
 
 class EditTextScreen : ComponentActivity() {
@@ -62,7 +62,7 @@ class EditTextScreen : ComponentActivity() {
         originalContent = content
 
         setContent {
-            GuidenceTheme() {
+            GuidanceTheme() {
                 Scaffold() { innerPadding ->
                     EditorLoading(Modifier.padding(innerPadding))
                 }

@@ -51,7 +51,6 @@ import androidx.compose.ui.unit.sp
 import androidx.core.app.ActivityCompat
 import androidx.documentfile.provider.DocumentFile
 import androidx.lifecycle.lifecycleScope
-import com.example.guidance.ui.theme.GuidenceTheme
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
@@ -59,6 +58,7 @@ import java.io.File
 import androidx.core.net.toUri
 import com.example.guidance.model.FolderPickerContract
 import com.example.guidance.model.PathParameter
+import com.example.guidance.ui.theme.GuidanceTheme
 
 class SettingScreen : ComponentActivity() {
     private var initAssetsLoad by mutableStateOf(true)
@@ -219,7 +219,7 @@ class SettingScreen : ComponentActivity() {
         setResult(Activity.RESULT_OK)
 
         setContent {
-            GuidenceTheme() {
+            GuidanceTheme() {
                 Scaffold() { innerPadding ->
                     SettingLoading(Modifier.padding(innerPadding))
                 }

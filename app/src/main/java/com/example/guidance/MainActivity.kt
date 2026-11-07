@@ -23,7 +23,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.core.app.ActivityCompat
 import com.example.guidance.ui.screen.home.HomeScreen
-import com.example.guidance.ui.theme.GuidenceTheme
+import com.example.guidance.ui.theme.GuidanceTheme
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import java.io.File
@@ -50,7 +50,7 @@ class MainActivity : ComponentActivity() {
         getSettings()
 
         setContent {
-            GuidenceTheme() {
+            GuidanceTheme() {
                 Scaffold() { innerPadding ->
                     MainLoading(Modifier.padding(innerPadding))
                 }
